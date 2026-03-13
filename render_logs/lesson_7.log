@@ -1,0 +1,1664 @@
+/home/peter/.pyenv/versions/3.13.5/lib/python3.13/site-packages/manim_voiceover/__init__.py:4: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Manim Community v0.20.1
+
+[03/13/26 19:07:15] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/da-jia-ha                         
+                             o-huan-ying-li-dao-di-qi-k                         
+                             e-jin-ri-wo-di-f5c8068c.mp                         
+                             3 to .wav                                          
+Animation 0: Write(Text('經驗學習')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 0: Write(Text('經驗學習')):   4%|▍         | 4/90 [00:00<00:02, 32.97it/s]Animation 0: Write(Text('經驗學習')):  10%|█         | 9/90 [00:00<00:02, 36.73it/s]Animation 0: Write(Text('經驗學習')):  16%|█▌        | 14/90 [00:00<00:01, 39.62it/s]Animation 0: Write(Text('經驗學習')):  20%|██        | 18/90 [00:00<00:02, 34.97it/s]Animation 0: Write(Text('經驗學習')):  27%|██▋       | 24/90 [00:00<00:01, 41.25it/s]Animation 0: Write(Text('經驗學習')):  32%|███▏      | 29/90 [00:00<00:01, 37.16it/s]Animation 0: Write(Text('經驗學習')):  37%|███▋      | 33/90 [00:00<00:01, 36.00it/s]Animation 0: Write(Text('經驗學習')):  41%|████      | 37/90 [00:01<00:01, 31.86it/s]Animation 0: Write(Text('經驗學習')):  46%|████▌     | 41/90 [00:01<00:01, 30.90it/s]Animation 0: Write(Text('經驗學習')):  50%|█████     | 45/90 [00:01<00:01, 31.32it/s]Animation 0: Write(Text('經驗學習')):  54%|█████▍    | 49/90 [00:01<00:01, 29.92it/s]Animation 0: Write(Text('經驗學習')):  59%|█████▉    | 53/90 [00:01<00:01, 30.66it/s]Animation 0: Write(Text('經驗學習')):  63%|██████▎   | 57/90 [00:01<00:01, 28.99it/s]Animation 0: Write(Text('經驗學習')):  67%|██████▋   | 60/90 [00:01<00:01, 28.26it/s]Animation 0: Write(Text('經驗學習')):  70%|███████   | 63/90 [00:01<00:00, 27.82it/s]Animation 0: Write(Text('經驗學習')):  73%|███████▎  | 66/90 [00:02<00:00, 26.41it/s]Animation 0: Write(Text('經驗學習')):  77%|███████▋  | 69/90 [00:02<00:00, 26.90it/s]Animation 0: Write(Text('經驗學習')):  81%|████████  | 73/90 [00:02<00:00, 29.05it/s]Animation 0: Write(Text('經驗學習')):  86%|████████▌ | 77/90 [00:02<00:00, 31.76it/s]Animation 0: Write(Text('經驗學習')):  91%|█████████ | 82/90 [00:02<00:00, 36.05it/s]Animation 0: Write(Text('經驗學習')):  97%|█████████▋| 87/90 [00:02<00:00, 38.99it/s]                                                                                     [03/13/26 19:07:21] INFO     Animation 0 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2257293077_303340214                         
+                             7_3351353890.mp4'                                  
+Animation 1: FadeIn(Text('Learning Empirically')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 1: FadeIn(Text('Learning Empirically')):   8%|▊         | 4/48 [00:00<00:01, 39.75it/s]Animation 1: FadeIn(Text('Learning Empirically')):  19%|█▉        | 9/48 [00:00<00:00, 40.27it/s]Animation 1: FadeIn(Text('Learning Empirically')):  29%|██▉       | 14/48 [00:00<00:01, 32.16it/s]Animation 1: FadeIn(Text('Learning Empirically')):  38%|███▊      | 18/48 [00:00<00:00, 30.86it/s]Animation 1: FadeIn(Text('Learning Empirically')):  46%|████▌     | 22/48 [00:00<00:00, 31.72it/s]Animation 1: FadeIn(Text('Learning Empirically')):  54%|█████▍    | 26/48 [00:00<00:00, 32.61it/s]Animation 1: FadeIn(Text('Learning Empirically')):  62%|██████▎   | 30/48 [00:00<00:00, 33.71it/s]Animation 1: FadeIn(Text('Learning Empirically')):  71%|███████   | 34/48 [00:00<00:00, 35.26it/s]Animation 1: FadeIn(Text('Learning Empirically')):  79%|███████▉  | 38/48 [00:01<00:00, 35.33it/s]Animation 1: FadeIn(Text('Learning Empirically')):  88%|████████▊ | 42/48 [00:01<00:00, 36.56it/s]Animation 1: FadeIn(Text('Learning Empirically')):  96%|█████████▌| 46/48 [00:01<00:00, 37.09it/s]                                                                                                  [03/13/26 19:07:26] INFO     Animation 1 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_394449922                         
+                             1_1541470789.mp4'                                  
+Animation 2: FadeIn(Text('第七課')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 2: FadeIn(Text('第七課')):  12%|█▎        | 6/48 [00:00<00:00, 59.60it/s]Animation 2: FadeIn(Text('第七課')):  25%|██▌       | 12/48 [00:00<00:00, 54.37it/s]Animation 2: FadeIn(Text('第七課')):  38%|███▊      | 18/48 [00:00<00:00, 56.23it/s]Animation 2: FadeIn(Text('第七課')):  50%|█████     | 24/48 [00:00<00:00, 56.16it/s]Animation 2: FadeIn(Text('第七課')):  65%|██████▍   | 31/48 [00:00<00:00, 57.33it/s]Animation 2: FadeIn(Text('第七課')):  77%|███████▋  | 37/48 [00:00<00:00, 57.06it/s]Animation 2: FadeIn(Text('第七課')):  92%|█████████▏| 44/48 [00:00<00:00, 59.02it/s]                                                                                    [03/13/26 19:07:30] INFO     Animation 2 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_314378321                         
+                             _3264139311.mp4'                                   
+Animation 3: FadeIn(Text('制片人：Peter')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 3: FadeIn(Text('制片人：Peter')):  17%|█▋        | 5/30 [00:00<00:00, 48.06it/s]Animation 3: FadeIn(Text('制片人：Peter')):  33%|███▎      | 10/30 [00:00<00:00, 47.80it/s]Animation 3: FadeIn(Text('制片人：Peter')):  53%|█████▎    | 16/30 [00:00<00:00, 47.02it/s]Animation 3: FadeIn(Text('制片人：Peter')):  73%|███████▎  | 22/30 [00:00<00:00, 50.37it/s]Animation 3: FadeIn(Text('制片人：Peter')):  93%|█████████▎| 28/30 [00:00<00:00, 53.53it/s]                                                                                           [03/13/26 19:07:33] INFO     Animation 3 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_15567047_                         
+                             3800838271.mp4'                                    
+[03/13/26 19:07:59] INFO     Animation 4 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_740330688                         
+                             _3812646009.mp4'                                   
+[03/13/26 19:08:02] INFO     Animation 5 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_807188262                         
+                             _426317938.mp4'                                    
+Animation 6: FadeOut(Text('經驗學習')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 6: FadeOut(Text('經驗學習')), etc.:  10%|█         | 3/30 [00:00<00:01, 20.72it/s]Animation 6: FadeOut(Text('經驗學習')), etc.:  20%|██        | 6/30 [00:00<00:01, 20.41it/s]Animation 6: FadeOut(Text('經驗學習')), etc.:  30%|███       | 9/30 [00:00<00:01, 19.11it/s]Animation 6: FadeOut(Text('經驗學習')), etc.:  40%|████      | 12/30 [00:00<00:00, 20.20it/s]Animation 6: FadeOut(Text('經驗學習')), etc.:  50%|█████     | 15/30 [00:00<00:00, 20.67it/s]Animation 6: FadeOut(Text('經驗學習')), etc.:  60%|██████    | 18/30 [00:00<00:00, 20.33it/s]Animation 6: FadeOut(Text('經驗學習')), etc.:  70%|███████   | 21/30 [00:01<00:00, 18.99it/s]Animation 6: FadeOut(Text('經驗學習')), etc.:  80%|████████  | 24/30 [00:01<00:00, 19.09it/s]Animation 6: FadeOut(Text('經驗學習')), etc.:  90%|█████████ | 27/30 [00:01<00:00, 21.19it/s]                                                                                             [03/13/26 19:08:05] INFO     Animation 6 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_168972298                         
+                             9_1499736023.mp4'                                  
+                    WARNING  Font Menlo not in ['AR PL UKai  text_mobject.py:464
+                             CN', 'AR PL UKai HK', 'AR PL                       
+                             UKai TW', 'AR PL UKai TW MBE',                     
+                             'AR PL UMing CN', 'AR PL UMing                     
+                             HK', 'AR PL UMing TW', 'AR PL                      
+                             UMing TW MBE', 'C059',                             
+                             'Caladea', 'Carlito',                              
+                             'Crystal', 'Cyrvetica',                            
+                             'D050000L', 'DejaVu Math TeX                       
+                             Gyre', 'DejaVu Sans', 'DejaVu                      
+                             Sans Mono', 'DejaVu Serif',                        
+                             'Droid Sans Fallback',                             
+                             'FreeMono', 'FreeSans',                            
+                             'FreeSerif', 'Gentium',                            
+                             'Gentium Basic', 'Gentium Book                     
+                             Basic', 'GentiumAlt',                              
+                             'JetBrains Mono', 'Liberation                      
+                             Mono', 'Liberation Sans',                          
+                             'Liberation Sans Narrow',                          
+                             'Liberation Serif', 'Linux                         
+                             Biolinum Keyboard O', 'Linux                       
+                             Biolinum O', 'Linux Libertine                      
+                             Display O', 'Linux Libertine                       
+                             Initials O', 'Linux Libertine                      
+                             Mono O', 'Linux Libertine O',                      
+                             'Monospace', 'Nimbus Mono PS',                     
+                             'Nimbus Roman', 'Nimbus Sans',                     
+                             'Nimbus Sans Narrow', 'Noto                        
+                             Color Emoji', 'Noto Kufi                           
+                             Arabic', 'Noto Looped Lao',                        
+                             'Noto Looped Lao UI', 'Noto                        
+                             Looped Thai', 'Noto Looped Thai                    
+                             UI', 'Noto Mono', 'Noto Music',                    
+                             'Noto Naskh Arabic', 'Noto                         
+                             Naskh Arabic UI', 'Noto                            
+                             Nastaliq Urdu', 'Noto Rashi                        
+                             Hebrew', 'Noto Sans', 'Noto                        
+                             Sans Adlam', 'Noto Sans Adlam                      
+                             Unjoined', 'Noto Sans Anatolian                    
+                             Hieroglyphs', 'Noto Sans                           
+                             Arabic', 'Noto Sans Arabic UI',                    
+                             'Noto Sans Armenian', 'Noto                        
+                             Sans Avestan', 'Noto Sans                          
+                             Balinese', 'Noto Sans Bamum',                      
+                             'Noto Sans Bassa Vah', 'Noto                       
+                             Sans Batak', 'Noto Sans                            
+                             Bengali', 'Noto Sans Bengali                       
+                             UI', 'Noto Sans Bhaiksuki',                        
+                             'Noto Sans Brahmi', 'Noto Sans                     
+                             Buginese', 'Noto Sans Buhid',                      
+                             'Noto Sans CJK HK', 'Noto Sans                     
+                             CJK JP', 'Noto Sans CJK KR',                       
+                             'Noto Sans CJK SC', 'Noto Sans                     
+                             CJK TC', 'Noto Sans Canadian                       
+                             Aboriginal', 'Noto Sans                            
+                             Carian', 'Noto Sans Caucasian                      
+                             Albanian', 'Noto Sans Chakma',                     
+                             'Noto Sans Cham', 'Noto Sans                       
+                             Cherokee', 'Noto Sans Coptic',                     
+                             'Noto Sans Cuneiform', 'Noto                       
+                             Sans Cypriot', 'Noto Sans                          
+                             Deseret', 'Noto Sans                               
+                             Devanagari', 'Noto Sans                            
+                             Devanagari UI', 'Noto Sans                         
+                             Display', 'Noto Sans Duployan',                    
+                             'Noto Sans Egyptian                                
+                             Hieroglyphs', 'Noto Sans                           
+                             Elbasan', 'Noto Sans Elymaic',                     
+                             'Noto Sans Ethiopic', 'Noto                        
+                             Sans Georgian', 'Noto Sans                         
+                             Glagolitic', 'Noto Sans                            
+                             Gothic', 'Noto Sans Grantha',                      
+                             'Noto Sans Gujarati', 'Noto                        
+                             Sans Gujarati UI', 'Noto Sans                      
+                             Gunjala Gondi', 'Noto Sans                         
+                             Gurmukhi', 'Noto Sans Gurmukhi                     
+                             UI', 'Noto Sans Hanifi                             
+                             Rohingya', 'Noto Sans Hanunoo',                    
+                             'Noto Sans Hatran', 'Noto Sans                     
+                             Hebrew', 'Noto Sans Imperial                       
+                             Aramaic', 'Noto Sans Indic                         
+                             Siyaq Numbers', 'Noto Sans                         
+                             Inscriptional Pahlavi', 'Noto                      
+                             Sans Inscriptional Parthian',                      
+                             'Noto Sans Javanese', 'Noto                        
+                             Sans Kaithi', 'Noto Sans                           
+                             Kannada', 'Noto Sans Kannada                       
+                             UI', 'Noto Sans Kayah Li',                         
+                             'Noto Sans Kharoshthi', 'Noto                      
+                             Sans Khmer', 'Noto Sans Khmer                      
+                             UI', 'Noto Sans Khojki', 'Noto                     
+                             Sans Khudawadi', 'Noto Sans                        
+                             Lao', 'Noto Sans Lao UI', 'Noto                    
+                             Sans Lepcha', 'Noto Sans                           
+                             Limbu', 'Noto Sans Linear A',                      
+                             'Noto Sans Linear B', 'Noto                        
+                             Sans Lisu', 'Noto Sans Lycian',                    
+                             'Noto Sans Lydian', 'Noto Sans                     
+                             Mahajani', 'Noto Sans                              
+                             Malayalam', 'Noto Sans                             
+                             Malayalam UI', 'Noto Sans                          
+                             Mandaic', 'Noto Sans                               
+                             Manichaean', 'Noto Sans                            
+                             Marchen', 'Noto Sans Masaram                       
+                             Gondi', 'Noto Sans Math', 'Noto                    
+                             Sans Mayan Numerals', 'Noto                        
+                             Sans Medefaidrin', 'Noto Sans                      
+                             Meetei Mayek', 'Noto Sans Mende                    
+                             Kikakui', 'Noto Sans Meroitic',                    
+                             'Noto Sans Miao', 'Noto Sans                       
+                             Modi', 'Noto Sans Mongolian',                      
+                             'Noto Sans Mono', 'Noto Sans                       
+                             Mono CJK HK', 'Noto Sans Mono                      
+                             CJK JP', 'Noto Sans Mono CJK                       
+                             KR', 'Noto Sans Mono CJK SC',                      
+                             'Noto Sans Mono CJK TC', 'Noto                     
+                             Sans Mro', 'Noto Sans Multani',                    
+                             'Noto Sans Myanmar', 'Noto Sans                    
+                             Myanmar UI', 'Noto Sans NKo',                      
+                             'Noto Sans Nabataean', 'Noto                       
+                             Sans New Tai Lue', 'Noto Sans                      
+                             Newa', 'Noto Sans Nushu', 'Noto                    
+                             Sans Ogham', 'Noto Sans Ol                         
+                             Chiki', 'Noto Sans Old                             
+                             Hungarian', 'Noto Sans Old                         
+                             Italic', 'Noto Sans Old North                      
+                             Arabian', 'Noto Sans Old                           
+                             Permic', 'Noto Sans Old                            
+                             Persian', 'Noto Sans Old                           
+                             Sogdian', 'Noto Sans Old South                     
+                             Arabian', 'Noto Sans Old                           
+                             Turkic', 'Noto Sans Oriya',                        
+                             'Noto Sans Oriya UI', 'Noto                        
+                             Sans Osage', 'Noto Sans                            
+                             Osmanya', 'Noto Sans Pahawh                        
+                             Hmong', 'Noto Sans Palmyrene',                     
+                             'Noto Sans Pau Cin Hau', 'Noto                     
+                             Sans PhagsPa', 'Noto Sans                          
+                             Phoenician', 'Noto Sans Psalter                    
+                             Pahlavi', 'Noto Sans Rejang',                      
+                             'Noto Sans Runic', 'Noto Sans                      
+                             Samaritan', 'Noto Sans                             
+                             Saurashtra', 'Noto Sans                            
+                             Sharada', 'Noto Sans Shavian',                     
+                             'Noto Sans Siddham', 'Noto Sans                    
+                             SignWriting', 'Noto Sans                           
+                             Sinhala', 'Noto Sans Sinhala                       
+                             UI', 'Noto Sans Sogdian', 'Noto                    
+                             Sans Sora Sompeng', 'Noto Sans                     
+                             Soyombo', 'Noto Sans                               
+                             Sundanese', 'Noto Sans Syloti                      
+                             Nagri', 'Noto Sans Symbols',                       
+                             'Noto Sans Symbols2', 'Noto                        
+                             Sans Syriac', 'Noto Sans                           
+                             Tagalog', 'Noto Sans Tagbanwa',                    
+                             'Noto Sans Tai Le', 'Noto Sans                     
+                             Tai Tham', 'Noto Sans Tai                          
+                             Viet', 'Noto Sans Takri', 'Noto                    
+                             Sans Tamil', 'Noto Sans Tamil                      
+                             Supplement', 'Noto Sans Tamil                      
+                             UI', 'Noto Sans Telugu', 'Noto                     
+                             Sans Telugu UI', 'Noto Sans                        
+                             Thaana', 'Noto Sans Thai',                         
+                             'Noto Sans Thai UI', 'Noto Sans                    
+                             Tifinagh', 'Noto Sans Tifinagh                     
+                             APT', 'Noto Sans Tifinagh                          
+                             Adrar', 'Noto Sans Tifinagh                        
+                             Agraw Imazighen', 'Noto Sans                       
+                             Tifinagh Ahaggar', 'Noto Sans                      
+                             Tifinagh Air', 'Noto Sans                          
+                             Tifinagh Azawagh', 'Noto Sans                      
+                             Tifinagh Ghat', 'Noto Sans                         
+                             Tifinagh Hawad', 'Noto Sans                        
+                             Tifinagh Rhissa Ixa', 'Noto                        
+                             Sans Tifinagh SIL', 'Noto Sans                     
+                             Tifinagh Tawellemmet', 'Noto                       
+                             Sans Tirhuta', 'Noto Sans                          
+                             Ugaritic', 'Noto Sans Vai',                        
+                             'Noto Sans Wancho', 'Noto Sans                     
+                             Warang Citi', 'Noto Sans Yi',                      
+                             'Noto Sans Zanabazar Square',                      
+                             'Noto Serif', 'Noto Serif                          
+                             Ahom', 'Noto Serif Armenian',                      
+                             'Noto Serif Balinese', 'Noto                       
+                             Serif Bengali', 'Noto Serif CJK                    
+                             HK', 'Noto Serif CJK JP', 'Noto                    
+                             Serif CJK KR', 'Noto Serif CJK                     
+                             SC', 'Noto Serif CJK TC', 'Noto                    
+                             Serif Devanagari', 'Noto Serif                     
+                             Display', 'Noto Serif Dogra',                      
+                             'Noto Serif Ethiopic', 'Noto                       
+                             Serif Georgian', 'Noto Serif                       
+                             Grantha', 'Noto Serif                              
+                             Gujarati', 'Noto Serif                             
+                             Gurmukhi', 'Noto Serif Hebrew',                    
+                             'Noto Serif Hmong Nyiakeng',                       
+                             'Noto Serif Kannada', 'Noto                        
+                             Serif Khmer', 'Noto Serif                          
+                             Khojki', 'Noto Serif Lao',                         
+                             'Noto Serif Malayalam', 'Noto                      
+                             Serif Myanmar', 'Noto Serif                        
+                             Sinhala', 'Noto Serif Tamil',                      
+                             'Noto Serif Tamil Slanted',                        
+                             'Noto Serif Tangut', 'Noto                         
+                             Serif Telugu', 'Noto Serif                         
+                             Thai', 'Noto Serif Tibetan',                       
+                             'Noto Serif Yezidi', 'Noto                         
+                             Traditional Nushu',                                
+                             'OpenSymbol', 'P052', 'POV-Ray                     
+                             Logo', 'Sans', 'Serif',                            
+                             'Standard Symbols PS',                             
+                             'System-ui', 'Time Roman',                         
+                             'Tuffy', 'URW Bookman', 'URW                       
+                             Gothic', 'Ubuntu', 'Ubuntu                         
+                             Mono', 'Ubuntu Sans', 'Ubuntu                      
+                             Sans Mono', 'Z003'].                               
+[03/13/26 19:08:16] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/mo-fang-y                         
+                             ou-da-yue-shi-kai-shi-jiu-                         
+                             ci-fang-ge-d8f7cfec.mp3 to                         
+                             .wav                                               
+Animation 7: Write(Text('魔方：算法嘅勝利')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 7: Write(Text('魔方：算法嘅勝利')):  22%|██▏       | 8/36 [00:00<00:00, 69.84it/s]Animation 7: Write(Text('魔方：算法嘅勝利')):  42%|████▏     | 15/36 [00:00<00:00, 65.83it/s]Animation 7: Write(Text('魔方：算法嘅勝利')):  61%|██████    | 22/36 [00:00<00:00, 63.68it/s]Animation 7: Write(Text('魔方：算法嘅勝利')):  81%|████████  | 29/36 [00:00<00:00, 59.21it/s]Animation 7: Write(Text('魔方：算法嘅勝利')):  97%|█████████▋| 35/36 [00:00<00:00, 57.08it/s]                                                                                             [03/13/26 19:08:18] INFO     Animation 7 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_130997359                         
+                             7_3351353890.mp4'                                  
+Animation 8: FadeIn(VGroup of 2 submobjects):   0%|          | 0/30 [00:00<?, ?it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  23%|██▎       | 7/30 [00:00<00:00, 58.46it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  47%|████▋     | 14/30 [00:00<00:00, 64.29it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  70%|███████   | 21/30 [00:00<00:00, 66.73it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  93%|█████████▎| 28/30 [00:00<00:00, 65.44it/s]                                                                                             [03/13/26 19:08:21] INFO     Animation 8 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_176960248                         
+                             4_1839278144.mp4'                                  
+Animation 9: FadeIn(Text('~10¹⁹ 狀態')):   0%|          | 0/24 [00:00<?, ?it/s]Animation 9: FadeIn(Text('~10¹⁹ 狀態')):  33%|███▎      | 8/24 [00:00<00:00, 76.52it/s]Animation 9: FadeIn(Text('~10¹⁹ 狀態')):  71%|███████   | 17/24 [00:00<00:00, 81.08it/s]                                                                                        [03/13/26 19:08:23] INFO     Animation 9 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_365119011                         
+                             1_1371454911.mp4'                                  
+Animation 10: FadeIn(Text('簡單算法，20 步內解決')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 10: FadeIn(Text('簡單算法，20 步內解決')):  13%|█▎        | 4/30 [00:00<00:00, 30.01it/s]Animation 10: FadeIn(Text('簡單算法，20 步內解決')):  27%|██▋       | 8/30 [00:00<00:00, 32.63it/s]Animation 10: FadeIn(Text('簡單算法，20 步內解決')):  40%|████      | 12/30 [00:00<00:00, 35.57it/s]Animation 10: FadeIn(Text('簡單算法，20 步內解決')):  53%|█████▎    | 16/30 [00:00<00:00, 36.77it/s]Animation 10: FadeIn(Text('簡單算法，20 步內解決')):  67%|██████▋   | 20/30 [00:00<00:00, 37.10it/s]Animation 10: FadeIn(Text('簡單算法，20 步內解決')):  80%|████████  | 24/30 [00:00<00:00, 37.30it/s]Animation 10: FadeIn(Text('簡單算法，20 步內解決')):  93%|█████████▎| 28/30 [00:00<00:00, 37.83it/s]                                                                                                    [03/13/26 19:08:26] INFO     Animation 10 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_370792070                         
+                             9_1061797149.mp4'                                  
+Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')):  10%|█         | 3/30 [00:00<00:01, 20.62it/s]Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')):  20%|██        | 6/30 [00:00<00:01, 20.24it/s]Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')):  30%|███       | 9/30 [00:00<00:01, 20.96it/s]Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')):  40%|████      | 12/30 [00:00<00:00, 21.08it/s]Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')):  50%|█████     | 15/30 [00:00<00:00, 22.55it/s]Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')):  60%|██████    | 18/30 [00:00<00:00, 23.00it/s]Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')):  70%|███████   | 21/30 [00:00<00:00, 22.75it/s]Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')):  80%|████████  | 24/30 [00:01<00:00, 22.72it/s]Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')):  90%|█████████ | 27/30 [00:01<00:00, 22.83it/s]Animation 11: FadeIn(Text('搜索空間雖然大，但結構簡單，算法可以征服')): 100%|██████████| 30/30 [00:01<00:00, 22.86it/s]                                                                                                                       [03/13/26 19:08:30] INFO     Animation 11 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_127419015                         
+                             7_3933912360.mp4'                                  
+[03/13/26 19:09:20] INFO     Animation 12 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_166394705                         
+                             9_3713643733.mp4'                                  
+[03/13/26 19:09:22] INFO     Animation 13 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_807188262                         
+                             _430460046.mp4'                                    
+Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:   7%|▋         | 2/30 [00:00<00:02, 12.36it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 12.16it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  20%|██        | 6/30 [00:00<00:01, 12.60it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 13.26it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 12.67it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  40%|████      | 12/30 [00:00<00:01, 13.26it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 12.94it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 13.60it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  60%|██████    | 18/30 [00:01<00:00, 14.08it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 14.10it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 14.35it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  80%|████████  | 24/30 [00:01<00:00, 14.36it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 14.48it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 14.39it/s]Animation 14: FadeOut(Text('魔方：算法嘅勝利')), etc.: 100%|██████████| 30/30 [00:02<00:00, 14.39it/s]                                                                                                      [03/13/26 19:09:28] INFO     Animation 14 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_639261487                         
+                             _2661650952.mp4'                                   
+                    WARNING  Font Menlo not in ['AR PL UKai  text_mobject.py:464
+                             CN', 'AR PL UKai HK', 'AR PL                       
+                             UKai TW', 'AR PL UKai TW MBE',                     
+                             'AR PL UMing CN', 'AR PL UMing                     
+                             HK', 'AR PL UMing TW', 'AR PL                      
+                             UMing TW MBE', 'C059',                             
+                             'Caladea', 'Carlito',                              
+                             'Crystal', 'Cyrvetica',                            
+                             'D050000L', 'DejaVu Math TeX                       
+                             Gyre', 'DejaVu Sans', 'DejaVu                      
+                             Sans Mono', 'DejaVu Serif',                        
+                             'Droid Sans Fallback',                             
+                             'FreeMono', 'FreeSans',                            
+                             'FreeSerif', 'Gentium',                            
+                             'Gentium Basic', 'Gentium Book                     
+                             Basic', 'GentiumAlt',                              
+                             'JetBrains Mono', 'Liberation                      
+                             Mono', 'Liberation Sans',                          
+                             'Liberation Sans Narrow',                          
+                             'Liberation Serif', 'Linux                         
+                             Biolinum Keyboard O', 'Linux                       
+                             Biolinum O', 'Linux Libertine                      
+                             Display O', 'Linux Libertine                       
+                             Initials O', 'Linux Libertine                      
+                             Mono O', 'Linux Libertine O',                      
+                             'Monospace', 'Nimbus Mono PS',                     
+                             'Nimbus Roman', 'Nimbus Sans',                     
+                             'Nimbus Sans Narrow', 'Noto                        
+                             Color Emoji', 'Noto Kufi                           
+                             Arabic', 'Noto Looped Lao',                        
+                             'Noto Looped Lao UI', 'Noto                        
+                             Looped Thai', 'Noto Looped Thai                    
+                             UI', 'Noto Mono', 'Noto Music',                    
+                             'Noto Naskh Arabic', 'Noto                         
+                             Naskh Arabic UI', 'Noto                            
+                             Nastaliq Urdu', 'Noto Rashi                        
+                             Hebrew', 'Noto Sans', 'Noto                        
+                             Sans Adlam', 'Noto Sans Adlam                      
+                             Unjoined', 'Noto Sans Anatolian                    
+                             Hieroglyphs', 'Noto Sans                           
+                             Arabic', 'Noto Sans Arabic UI',                    
+                             'Noto Sans Armenian', 'Noto                        
+                             Sans Avestan', 'Noto Sans                          
+                             Balinese', 'Noto Sans Bamum',                      
+                             'Noto Sans Bassa Vah', 'Noto                       
+                             Sans Batak', 'Noto Sans                            
+                             Bengali', 'Noto Sans Bengali                       
+                             UI', 'Noto Sans Bhaiksuki',                        
+                             'Noto Sans Brahmi', 'Noto Sans                     
+                             Buginese', 'Noto Sans Buhid',                      
+                             'Noto Sans CJK HK', 'Noto Sans                     
+                             CJK JP', 'Noto Sans CJK KR',                       
+                             'Noto Sans CJK SC', 'Noto Sans                     
+                             CJK TC', 'Noto Sans Canadian                       
+                             Aboriginal', 'Noto Sans                            
+                             Carian', 'Noto Sans Caucasian                      
+                             Albanian', 'Noto Sans Chakma',                     
+                             'Noto Sans Cham', 'Noto Sans                       
+                             Cherokee', 'Noto Sans Coptic',                     
+                             'Noto Sans Cuneiform', 'Noto                       
+                             Sans Cypriot', 'Noto Sans                          
+                             Deseret', 'Noto Sans                               
+                             Devanagari', 'Noto Sans                            
+                             Devanagari UI', 'Noto Sans                         
+                             Display', 'Noto Sans Duployan',                    
+                             'Noto Sans Egyptian                                
+                             Hieroglyphs', 'Noto Sans                           
+                             Elbasan', 'Noto Sans Elymaic',                     
+                             'Noto Sans Ethiopic', 'Noto                        
+                             Sans Georgian', 'Noto Sans                         
+                             Glagolitic', 'Noto Sans                            
+                             Gothic', 'Noto Sans Grantha',                      
+                             'Noto Sans Gujarati', 'Noto                        
+                             Sans Gujarati UI', 'Noto Sans                      
+                             Gunjala Gondi', 'Noto Sans                         
+                             Gurmukhi', 'Noto Sans Gurmukhi                     
+                             UI', 'Noto Sans Hanifi                             
+                             Rohingya', 'Noto Sans Hanunoo',                    
+                             'Noto Sans Hatran', 'Noto Sans                     
+                             Hebrew', 'Noto Sans Imperial                       
+                             Aramaic', 'Noto Sans Indic                         
+                             Siyaq Numbers', 'Noto Sans                         
+                             Inscriptional Pahlavi', 'Noto                      
+                             Sans Inscriptional Parthian',                      
+                             'Noto Sans Javanese', 'Noto                        
+                             Sans Kaithi', 'Noto Sans                           
+                             Kannada', 'Noto Sans Kannada                       
+                             UI', 'Noto Sans Kayah Li',                         
+                             'Noto Sans Kharoshthi', 'Noto                      
+                             Sans Khmer', 'Noto Sans Khmer                      
+                             UI', 'Noto Sans Khojki', 'Noto                     
+                             Sans Khudawadi', 'Noto Sans                        
+                             Lao', 'Noto Sans Lao UI', 'Noto                    
+                             Sans Lepcha', 'Noto Sans                           
+                             Limbu', 'Noto Sans Linear A',                      
+                             'Noto Sans Linear B', 'Noto                        
+                             Sans Lisu', 'Noto Sans Lycian',                    
+                             'Noto Sans Lydian', 'Noto Sans                     
+                             Mahajani', 'Noto Sans                              
+                             Malayalam', 'Noto Sans                             
+                             Malayalam UI', 'Noto Sans                          
+                             Mandaic', 'Noto Sans                               
+                             Manichaean', 'Noto Sans                            
+                             Marchen', 'Noto Sans Masaram                       
+                             Gondi', 'Noto Sans Math', 'Noto                    
+                             Sans Mayan Numerals', 'Noto                        
+                             Sans Medefaidrin', 'Noto Sans                      
+                             Meetei Mayek', 'Noto Sans Mende                    
+                             Kikakui', 'Noto Sans Meroitic',                    
+                             'Noto Sans Miao', 'Noto Sans                       
+                             Modi', 'Noto Sans Mongolian',                      
+                             'Noto Sans Mono', 'Noto Sans                       
+                             Mono CJK HK', 'Noto Sans Mono                      
+                             CJK JP', 'Noto Sans Mono CJK                       
+                             KR', 'Noto Sans Mono CJK SC',                      
+                             'Noto Sans Mono CJK TC', 'Noto                     
+                             Sans Mro', 'Noto Sans Multani',                    
+                             'Noto Sans Myanmar', 'Noto Sans                    
+                             Myanmar UI', 'Noto Sans NKo',                      
+                             'Noto Sans Nabataean', 'Noto                       
+                             Sans New Tai Lue', 'Noto Sans                      
+                             Newa', 'Noto Sans Nushu', 'Noto                    
+                             Sans Ogham', 'Noto Sans Ol                         
+                             Chiki', 'Noto Sans Old                             
+                             Hungarian', 'Noto Sans Old                         
+                             Italic', 'Noto Sans Old North                      
+                             Arabian', 'Noto Sans Old                           
+                             Permic', 'Noto Sans Old                            
+                             Persian', 'Noto Sans Old                           
+                             Sogdian', 'Noto Sans Old South                     
+                             Arabian', 'Noto Sans Old                           
+                             Turkic', 'Noto Sans Oriya',                        
+                             'Noto Sans Oriya UI', 'Noto                        
+                             Sans Osage', 'Noto Sans                            
+                             Osmanya', 'Noto Sans Pahawh                        
+                             Hmong', 'Noto Sans Palmyrene',                     
+                             'Noto Sans Pau Cin Hau', 'Noto                     
+                             Sans PhagsPa', 'Noto Sans                          
+                             Phoenician', 'Noto Sans Psalter                    
+                             Pahlavi', 'Noto Sans Rejang',                      
+                             'Noto Sans Runic', 'Noto Sans                      
+                             Samaritan', 'Noto Sans                             
+                             Saurashtra', 'Noto Sans                            
+                             Sharada', 'Noto Sans Shavian',                     
+                             'Noto Sans Siddham', 'Noto Sans                    
+                             SignWriting', 'Noto Sans                           
+                             Sinhala', 'Noto Sans Sinhala                       
+                             UI', 'Noto Sans Sogdian', 'Noto                    
+                             Sans Sora Sompeng', 'Noto Sans                     
+                             Soyombo', 'Noto Sans                               
+                             Sundanese', 'Noto Sans Syloti                      
+                             Nagri', 'Noto Sans Symbols',                       
+                             'Noto Sans Symbols2', 'Noto                        
+                             Sans Syriac', 'Noto Sans                           
+                             Tagalog', 'Noto Sans Tagbanwa',                    
+                             'Noto Sans Tai Le', 'Noto Sans                     
+                             Tai Tham', 'Noto Sans Tai                          
+                             Viet', 'Noto Sans Takri', 'Noto                    
+                             Sans Tamil', 'Noto Sans Tamil                      
+                             Supplement', 'Noto Sans Tamil                      
+                             UI', 'Noto Sans Telugu', 'Noto                     
+                             Sans Telugu UI', 'Noto Sans                        
+                             Thaana', 'Noto Sans Thai',                         
+                             'Noto Sans Thai UI', 'Noto Sans                    
+                             Tifinagh', 'Noto Sans Tifinagh                     
+                             APT', 'Noto Sans Tifinagh                          
+                             Adrar', 'Noto Sans Tifinagh                        
+                             Agraw Imazighen', 'Noto Sans                       
+                             Tifinagh Ahaggar', 'Noto Sans                      
+                             Tifinagh Air', 'Noto Sans                          
+                             Tifinagh Azawagh', 'Noto Sans                      
+                             Tifinagh Ghat', 'Noto Sans                         
+                             Tifinagh Hawad', 'Noto Sans                        
+                             Tifinagh Rhissa Ixa', 'Noto                        
+                             Sans Tifinagh SIL', 'Noto Sans                     
+                             Tifinagh Tawellemmet', 'Noto                       
+                             Sans Tirhuta', 'Noto Sans                          
+                             Ugaritic', 'Noto Sans Vai',                        
+                             'Noto Sans Wancho', 'Noto Sans                     
+                             Warang Citi', 'Noto Sans Yi',                      
+                             'Noto Sans Zanabazar Square',                      
+                             'Noto Serif', 'Noto Serif                          
+                             Ahom', 'Noto Serif Armenian',                      
+                             'Noto Serif Balinese', 'Noto                       
+                             Serif Bengali', 'Noto Serif CJK                    
+                             HK', 'Noto Serif CJK JP', 'Noto                    
+                             Serif CJK KR', 'Noto Serif CJK                     
+                             SC', 'Noto Serif CJK TC', 'Noto                    
+                             Serif Devanagari', 'Noto Serif                     
+                             Display', 'Noto Serif Dogra',                      
+                             'Noto Serif Ethiopic', 'Noto                       
+                             Serif Georgian', 'Noto Serif                       
+                             Grantha', 'Noto Serif                              
+                             Gujarati', 'Noto Serif                             
+                             Gurmukhi', 'Noto Serif Hebrew',                    
+                             'Noto Serif Hmong Nyiakeng',                       
+                             'Noto Serif Kannada', 'Noto                        
+                             Serif Khmer', 'Noto Serif                          
+                             Khojki', 'Noto Serif Lao',                         
+                             'Noto Serif Malayalam', 'Noto                      
+                             Serif Myanmar', 'Noto Serif                        
+                             Sinhala', 'Noto Serif Tamil',                      
+                             'Noto Serif Tamil Slanted',                        
+                             'Noto Serif Tangut', 'Noto                         
+                             Serif Telugu', 'Noto Serif                         
+                             Thai', 'Noto Serif Tibetan',                       
+                             'Noto Serif Yezidi', 'Noto                         
+                             Traditional Nushu',                                
+                             'OpenSymbol', 'P052', 'POV-Ray                     
+                             Logo', 'Sans', 'Serif',                            
+                             'Standard Symbols PS',                             
+                             'System-ui', 'Time Roman',                         
+                             'Tuffy', 'URW Bookman', 'URW                       
+                             Gothic', 'Ubuntu', 'Ubuntu                         
+                             Mono', 'Ubuntu Sans', 'Ubuntu                      
+                             Sans Mono', 'Z003'].                               
+                    WARNING  Font Menlo not in ['AR PL UKai  text_mobject.py:464
+                             CN', 'AR PL UKai HK', 'AR PL                       
+                             UKai TW', 'AR PL UKai TW MBE',                     
+                             'AR PL UMing CN', 'AR PL UMing                     
+                             HK', 'AR PL UMing TW', 'AR PL                      
+                             UMing TW MBE', 'C059',                             
+                             'Caladea', 'Carlito',                              
+                             'Crystal', 'Cyrvetica',                            
+                             'D050000L', 'DejaVu Math TeX                       
+                             Gyre', 'DejaVu Sans', 'DejaVu                      
+                             Sans Mono', 'DejaVu Serif',                        
+                             'Droid Sans Fallback',                             
+                             'FreeMono', 'FreeSans',                            
+                             'FreeSerif', 'Gentium',                            
+                             'Gentium Basic', 'Gentium Book                     
+                             Basic', 'GentiumAlt',                              
+                             'JetBrains Mono', 'Liberation                      
+                             Mono', 'Liberation Sans',                          
+                             'Liberation Sans Narrow',                          
+                             'Liberation Serif', 'Linux                         
+                             Biolinum Keyboard O', 'Linux                       
+                             Biolinum O', 'Linux Libertine                      
+                             Display O', 'Linux Libertine                       
+                             Initials O', 'Linux Libertine                      
+                             Mono O', 'Linux Libertine O',                      
+                             'Monospace', 'Nimbus Mono PS',                     
+                             'Nimbus Roman', 'Nimbus Sans',                     
+                             'Nimbus Sans Narrow', 'Noto                        
+                             Color Emoji', 'Noto Kufi                           
+                             Arabic', 'Noto Looped Lao',                        
+                             'Noto Looped Lao UI', 'Noto                        
+                             Looped Thai', 'Noto Looped Thai                    
+                             UI', 'Noto Mono', 'Noto Music',                    
+                             'Noto Naskh Arabic', 'Noto                         
+                             Naskh Arabic UI', 'Noto                            
+                             Nastaliq Urdu', 'Noto Rashi                        
+                             Hebrew', 'Noto Sans', 'Noto                        
+                             Sans Adlam', 'Noto Sans Adlam                      
+                             Unjoined', 'Noto Sans Anatolian                    
+                             Hieroglyphs', 'Noto Sans                           
+                             Arabic', 'Noto Sans Arabic UI',                    
+                             'Noto Sans Armenian', 'Noto                        
+                             Sans Avestan', 'Noto Sans                          
+                             Balinese', 'Noto Sans Bamum',                      
+                             'Noto Sans Bassa Vah', 'Noto                       
+                             Sans Batak', 'Noto Sans                            
+                             Bengali', 'Noto Sans Bengali                       
+                             UI', 'Noto Sans Bhaiksuki',                        
+                             'Noto Sans Brahmi', 'Noto Sans                     
+                             Buginese', 'Noto Sans Buhid',                      
+                             'Noto Sans CJK HK', 'Noto Sans                     
+                             CJK JP', 'Noto Sans CJK KR',                       
+                             'Noto Sans CJK SC', 'Noto Sans                     
+                             CJK TC', 'Noto Sans Canadian                       
+                             Aboriginal', 'Noto Sans                            
+                             Carian', 'Noto Sans Caucasian                      
+                             Albanian', 'Noto Sans Chakma',                     
+                             'Noto Sans Cham', 'Noto Sans                       
+                             Cherokee', 'Noto Sans Coptic',                     
+                             'Noto Sans Cuneiform', 'Noto                       
+                             Sans Cypriot', 'Noto Sans                          
+                             Deseret', 'Noto Sans                               
+                             Devanagari', 'Noto Sans                            
+                             Devanagari UI', 'Noto Sans                         
+                             Display', 'Noto Sans Duployan',                    
+                             'Noto Sans Egyptian                                
+                             Hieroglyphs', 'Noto Sans                           
+                             Elbasan', 'Noto Sans Elymaic',                     
+                             'Noto Sans Ethiopic', 'Noto                        
+                             Sans Georgian', 'Noto Sans                         
+                             Glagolitic', 'Noto Sans                            
+                             Gothic', 'Noto Sans Grantha',                      
+                             'Noto Sans Gujarati', 'Noto                        
+                             Sans Gujarati UI', 'Noto Sans                      
+                             Gunjala Gondi', 'Noto Sans                         
+                             Gurmukhi', 'Noto Sans Gurmukhi                     
+                             UI', 'Noto Sans Hanifi                             
+                             Rohingya', 'Noto Sans Hanunoo',                    
+                             'Noto Sans Hatran', 'Noto Sans                     
+                             Hebrew', 'Noto Sans Imperial                       
+                             Aramaic', 'Noto Sans Indic                         
+                             Siyaq Numbers', 'Noto Sans                         
+                             Inscriptional Pahlavi', 'Noto                      
+                             Sans Inscriptional Parthian',                      
+                             'Noto Sans Javanese', 'Noto                        
+                             Sans Kaithi', 'Noto Sans                           
+                             Kannada', 'Noto Sans Kannada                       
+                             UI', 'Noto Sans Kayah Li',                         
+                             'Noto Sans Kharoshthi', 'Noto                      
+                             Sans Khmer', 'Noto Sans Khmer                      
+                             UI', 'Noto Sans Khojki', 'Noto                     
+                             Sans Khudawadi', 'Noto Sans                        
+                             Lao', 'Noto Sans Lao UI', 'Noto                    
+                             Sans Lepcha', 'Noto Sans                           
+                             Limbu', 'Noto Sans Linear A',                      
+                             'Noto Sans Linear B', 'Noto                        
+                             Sans Lisu', 'Noto Sans Lycian',                    
+                             'Noto Sans Lydian', 'Noto Sans                     
+                             Mahajani', 'Noto Sans                              
+                             Malayalam', 'Noto Sans                             
+                             Malayalam UI', 'Noto Sans                          
+                             Mandaic', 'Noto Sans                               
+                             Manichaean', 'Noto Sans                            
+                             Marchen', 'Noto Sans Masaram                       
+                             Gondi', 'Noto Sans Math', 'Noto                    
+                             Sans Mayan Numerals', 'Noto                        
+                             Sans Medefaidrin', 'Noto Sans                      
+                             Meetei Mayek', 'Noto Sans Mende                    
+                             Kikakui', 'Noto Sans Meroitic',                    
+                             'Noto Sans Miao', 'Noto Sans                       
+                             Modi', 'Noto Sans Mongolian',                      
+                             'Noto Sans Mono', 'Noto Sans                       
+                             Mono CJK HK', 'Noto Sans Mono                      
+                             CJK JP', 'Noto Sans Mono CJK                       
+                             KR', 'Noto Sans Mono CJK SC',                      
+                             'Noto Sans Mono CJK TC', 'Noto                     
+                             Sans Mro', 'Noto Sans Multani',                    
+                             'Noto Sans Myanmar', 'Noto Sans                    
+                             Myanmar UI', 'Noto Sans NKo',                      
+                             'Noto Sans Nabataean', 'Noto                       
+                             Sans New Tai Lue', 'Noto Sans                      
+                             Newa', 'Noto Sans Nushu', 'Noto                    
+                             Sans Ogham', 'Noto Sans Ol                         
+                             Chiki', 'Noto Sans Old                             
+                             Hungarian', 'Noto Sans Old                         
+                             Italic', 'Noto Sans Old North                      
+                             Arabian', 'Noto Sans Old                           
+                             Permic', 'Noto Sans Old                            
+                             Persian', 'Noto Sans Old                           
+                             Sogdian', 'Noto Sans Old South                     
+                             Arabian', 'Noto Sans Old                           
+                             Turkic', 'Noto Sans Oriya',                        
+                             'Noto Sans Oriya UI', 'Noto                        
+                             Sans Osage', 'Noto Sans                            
+                             Osmanya', 'Noto Sans Pahawh                        
+                             Hmong', 'Noto Sans Palmyrene',                     
+                             'Noto Sans Pau Cin Hau', 'Noto                     
+                             Sans PhagsPa', 'Noto Sans                          
+                             Phoenician', 'Noto Sans Psalter                    
+                             Pahlavi', 'Noto Sans Rejang',                      
+                             'Noto Sans Runic', 'Noto Sans                      
+                             Samaritan', 'Noto Sans                             
+                             Saurashtra', 'Noto Sans                            
+                             Sharada', 'Noto Sans Shavian',                     
+                             'Noto Sans Siddham', 'Noto Sans                    
+                             SignWriting', 'Noto Sans                           
+                             Sinhala', 'Noto Sans Sinhala                       
+                             UI', 'Noto Sans Sogdian', 'Noto                    
+                             Sans Sora Sompeng', 'Noto Sans                     
+                             Soyombo', 'Noto Sans                               
+                             Sundanese', 'Noto Sans Syloti                      
+                             Nagri', 'Noto Sans Symbols',                       
+                             'Noto Sans Symbols2', 'Noto                        
+                             Sans Syriac', 'Noto Sans                           
+                             Tagalog', 'Noto Sans Tagbanwa',                    
+                             'Noto Sans Tai Le', 'Noto Sans                     
+                             Tai Tham', 'Noto Sans Tai                          
+                             Viet', 'Noto Sans Takri', 'Noto                    
+                             Sans Tamil', 'Noto Sans Tamil                      
+                             Supplement', 'Noto Sans Tamil                      
+                             UI', 'Noto Sans Telugu', 'Noto                     
+                             Sans Telugu UI', 'Noto Sans                        
+                             Thaana', 'Noto Sans Thai',                         
+                             'Noto Sans Thai UI', 'Noto Sans                    
+                             Tifinagh', 'Noto Sans Tifinagh                     
+                             APT', 'Noto Sans Tifinagh                          
+                             Adrar', 'Noto Sans Tifinagh                        
+                             Agraw Imazighen', 'Noto Sans                       
+                             Tifinagh Ahaggar', 'Noto Sans                      
+                             Tifinagh Air', 'Noto Sans                          
+                             Tifinagh Azawagh', 'Noto Sans                      
+                             Tifinagh Ghat', 'Noto Sans                         
+                             Tifinagh Hawad', 'Noto Sans                        
+                             Tifinagh Rhissa Ixa', 'Noto                        
+                             Sans Tifinagh SIL', 'Noto Sans                     
+                             Tifinagh Tawellemmet', 'Noto                       
+                             Sans Tirhuta', 'Noto Sans                          
+                             Ugaritic', 'Noto Sans Vai',                        
+                             'Noto Sans Wancho', 'Noto Sans                     
+                             Warang Citi', 'Noto Sans Yi',                      
+                             'Noto Sans Zanabazar Square',                      
+                             'Noto Serif', 'Noto Serif                          
+                             Ahom', 'Noto Serif Armenian',                      
+                             'Noto Serif Balinese', 'Noto                       
+                             Serif Bengali', 'Noto Serif CJK                    
+                             HK', 'Noto Serif CJK JP', 'Noto                    
+                             Serif CJK KR', 'Noto Serif CJK                     
+                             SC', 'Noto Serif CJK TC', 'Noto                    
+                             Serif Devanagari', 'Noto Serif                     
+                             Display', 'Noto Serif Dogra',                      
+                             'Noto Serif Ethiopic', 'Noto                       
+                             Serif Georgian', 'Noto Serif                       
+                             Grantha', 'Noto Serif                              
+                             Gujarati', 'Noto Serif                             
+                             Gurmukhi', 'Noto Serif Hebrew',                    
+                             'Noto Serif Hmong Nyiakeng',                       
+                             'Noto Serif Kannada', 'Noto                        
+                             Serif Khmer', 'Noto Serif                          
+                             Khojki', 'Noto Serif Lao',                         
+                             'Noto Serif Malayalam', 'Noto                      
+                             Serif Myanmar', 'Noto Serif                        
+                             Sinhala', 'Noto Serif Tamil',                      
+                             'Noto Serif Tamil Slanted',                        
+                             'Noto Serif Tangut', 'Noto                         
+                             Serif Telugu', 'Noto Serif                         
+                             Thai', 'Noto Serif Tibetan',                       
+                             'Noto Serif Yezidi', 'Noto                         
+                             Traditional Nushu',                                
+                             'OpenSymbol', 'P052', 'POV-Ray                     
+                             Logo', 'Sans', 'Serif',                            
+                             'Standard Symbols PS',                             
+                             'System-ui', 'Time Roman',                         
+                             'Tuffy', 'URW Bookman', 'URW                       
+                             Gothic', 'Ubuntu', 'Ubuntu                         
+                             Mono', 'Ubuntu Sans', 'Ubuntu                      
+                             Sans Mono', 'Z003'].                               
+                    WARNING  Font Menlo not in ['AR PL UKai  text_mobject.py:464
+                             CN', 'AR PL UKai HK', 'AR PL                       
+                             UKai TW', 'AR PL UKai TW MBE',                     
+                             'AR PL UMing CN', 'AR PL UMing                     
+                             HK', 'AR PL UMing TW', 'AR PL                      
+                             UMing TW MBE', 'C059',                             
+                             'Caladea', 'Carlito',                              
+                             'Crystal', 'Cyrvetica',                            
+                             'D050000L', 'DejaVu Math TeX                       
+                             Gyre', 'DejaVu Sans', 'DejaVu                      
+                             Sans Mono', 'DejaVu Serif',                        
+                             'Droid Sans Fallback',                             
+                             'FreeMono', 'FreeSans',                            
+                             'FreeSerif', 'Gentium',                            
+                             'Gentium Basic', 'Gentium Book                     
+                             Basic', 'GentiumAlt',                              
+                             'JetBrains Mono', 'Liberation                      
+                             Mono', 'Liberation Sans',                          
+                             'Liberation Sans Narrow',                          
+                             'Liberation Serif', 'Linux                         
+                             Biolinum Keyboard O', 'Linux                       
+                             Biolinum O', 'Linux Libertine                      
+                             Display O', 'Linux Libertine                       
+                             Initials O', 'Linux Libertine                      
+                             Mono O', 'Linux Libertine O',                      
+                             'Monospace', 'Nimbus Mono PS',                     
+                             'Nimbus Roman', 'Nimbus Sans',                     
+                             'Nimbus Sans Narrow', 'Noto                        
+                             Color Emoji', 'Noto Kufi                           
+                             Arabic', 'Noto Looped Lao',                        
+                             'Noto Looped Lao UI', 'Noto                        
+                             Looped Thai', 'Noto Looped Thai                    
+                             UI', 'Noto Mono', 'Noto Music',                    
+                             'Noto Naskh Arabic', 'Noto                         
+                             Naskh Arabic UI', 'Noto                            
+                             Nastaliq Urdu', 'Noto Rashi                        
+                             Hebrew', 'Noto Sans', 'Noto                        
+                             Sans Adlam', 'Noto Sans Adlam                      
+                             Unjoined', 'Noto Sans Anatolian                    
+                             Hieroglyphs', 'Noto Sans                           
+                             Arabic', 'Noto Sans Arabic UI',                    
+                             'Noto Sans Armenian', 'Noto                        
+                             Sans Avestan', 'Noto Sans                          
+                             Balinese', 'Noto Sans Bamum',                      
+                             'Noto Sans Bassa Vah', 'Noto                       
+                             Sans Batak', 'Noto Sans                            
+                             Bengali', 'Noto Sans Bengali                       
+                             UI', 'Noto Sans Bhaiksuki',                        
+                             'Noto Sans Brahmi', 'Noto Sans                     
+                             Buginese', 'Noto Sans Buhid',                      
+                             'Noto Sans CJK HK', 'Noto Sans                     
+                             CJK JP', 'Noto Sans CJK KR',                       
+                             'Noto Sans CJK SC', 'Noto Sans                     
+                             CJK TC', 'Noto Sans Canadian                       
+                             Aboriginal', 'Noto Sans                            
+                             Carian', 'Noto Sans Caucasian                      
+                             Albanian', 'Noto Sans Chakma',                     
+                             'Noto Sans Cham', 'Noto Sans                       
+                             Cherokee', 'Noto Sans Coptic',                     
+                             'Noto Sans Cuneiform', 'Noto                       
+                             Sans Cypriot', 'Noto Sans                          
+                             Deseret', 'Noto Sans                               
+                             Devanagari', 'Noto Sans                            
+                             Devanagari UI', 'Noto Sans                         
+                             Display', 'Noto Sans Duployan',                    
+                             'Noto Sans Egyptian                                
+                             Hieroglyphs', 'Noto Sans                           
+                             Elbasan', 'Noto Sans Elymaic',                     
+                             'Noto Sans Ethiopic', 'Noto                        
+                             Sans Georgian', 'Noto Sans                         
+                             Glagolitic', 'Noto Sans                            
+                             Gothic', 'Noto Sans Grantha',                      
+                             'Noto Sans Gujarati', 'Noto                        
+                             Sans Gujarati UI', 'Noto Sans                      
+                             Gunjala Gondi', 'Noto Sans                         
+                             Gurmukhi', 'Noto Sans Gurmukhi                     
+                             UI', 'Noto Sans Hanifi                             
+                             Rohingya', 'Noto Sans Hanunoo',                    
+                             'Noto Sans Hatran', 'Noto Sans                     
+                             Hebrew', 'Noto Sans Imperial                       
+                             Aramaic', 'Noto Sans Indic                         
+                             Siyaq Numbers', 'Noto Sans                         
+                             Inscriptional Pahlavi', 'Noto                      
+                             Sans Inscriptional Parthian',                      
+                             'Noto Sans Javanese', 'Noto                        
+                             Sans Kaithi', 'Noto Sans                           
+                             Kannada', 'Noto Sans Kannada                       
+                             UI', 'Noto Sans Kayah Li',                         
+                             'Noto Sans Kharoshthi', 'Noto                      
+                             Sans Khmer', 'Noto Sans Khmer                      
+                             UI', 'Noto Sans Khojki', 'Noto                     
+                             Sans Khudawadi', 'Noto Sans                        
+                             Lao', 'Noto Sans Lao UI', 'Noto                    
+                             Sans Lepcha', 'Noto Sans                           
+                             Limbu', 'Noto Sans Linear A',                      
+                             'Noto Sans Linear B', 'Noto                        
+                             Sans Lisu', 'Noto Sans Lycian',                    
+                             'Noto Sans Lydian', 'Noto Sans                     
+                             Mahajani', 'Noto Sans                              
+                             Malayalam', 'Noto Sans                             
+                             Malayalam UI', 'Noto Sans                          
+                             Mandaic', 'Noto Sans                               
+                             Manichaean', 'Noto Sans                            
+                             Marchen', 'Noto Sans Masaram                       
+                             Gondi', 'Noto Sans Math', 'Noto                    
+                             Sans Mayan Numerals', 'Noto                        
+                             Sans Medefaidrin', 'Noto Sans                      
+                             Meetei Mayek', 'Noto Sans Mende                    
+                             Kikakui', 'Noto Sans Meroitic',                    
+                             'Noto Sans Miao', 'Noto Sans                       
+                             Modi', 'Noto Sans Mongolian',                      
+                             'Noto Sans Mono', 'Noto Sans                       
+                             Mono CJK HK', 'Noto Sans Mono                      
+                             CJK JP', 'Noto Sans Mono CJK                       
+                             KR', 'Noto Sans Mono CJK SC',                      
+                             'Noto Sans Mono CJK TC', 'Noto                     
+                             Sans Mro', 'Noto Sans Multani',                    
+                             'Noto Sans Myanmar', 'Noto Sans                    
+                             Myanmar UI', 'Noto Sans NKo',                      
+                             'Noto Sans Nabataean', 'Noto                       
+                             Sans New Tai Lue', 'Noto Sans                      
+                             Newa', 'Noto Sans Nushu', 'Noto                    
+                             Sans Ogham', 'Noto Sans Ol                         
+                             Chiki', 'Noto Sans Old                             
+                             Hungarian', 'Noto Sans Old                         
+                             Italic', 'Noto Sans Old North                      
+                             Arabian', 'Noto Sans Old                           
+                             Permic', 'Noto Sans Old                            
+                             Persian', 'Noto Sans Old                           
+                             Sogdian', 'Noto Sans Old South                     
+                             Arabian', 'Noto Sans Old                           
+                             Turkic', 'Noto Sans Oriya',                        
+                             'Noto Sans Oriya UI', 'Noto                        
+                             Sans Osage', 'Noto Sans                            
+                             Osmanya', 'Noto Sans Pahawh                        
+                             Hmong', 'Noto Sans Palmyrene',                     
+                             'Noto Sans Pau Cin Hau', 'Noto                     
+                             Sans PhagsPa', 'Noto Sans                          
+                             Phoenician', 'Noto Sans Psalter                    
+                             Pahlavi', 'Noto Sans Rejang',                      
+                             'Noto Sans Runic', 'Noto Sans                      
+                             Samaritan', 'Noto Sans                             
+                             Saurashtra', 'Noto Sans                            
+                             Sharada', 'Noto Sans Shavian',                     
+                             'Noto Sans Siddham', 'Noto Sans                    
+                             SignWriting', 'Noto Sans                           
+                             Sinhala', 'Noto Sans Sinhala                       
+                             UI', 'Noto Sans Sogdian', 'Noto                    
+                             Sans Sora Sompeng', 'Noto Sans                     
+                             Soyombo', 'Noto Sans                               
+                             Sundanese', 'Noto Sans Syloti                      
+                             Nagri', 'Noto Sans Symbols',                       
+                             'Noto Sans Symbols2', 'Noto                        
+                             Sans Syriac', 'Noto Sans                           
+                             Tagalog', 'Noto Sans Tagbanwa',                    
+                             'Noto Sans Tai Le', 'Noto Sans                     
+                             Tai Tham', 'Noto Sans Tai                          
+                             Viet', 'Noto Sans Takri', 'Noto                    
+                             Sans Tamil', 'Noto Sans Tamil                      
+                             Supplement', 'Noto Sans Tamil                      
+                             UI', 'Noto Sans Telugu', 'Noto                     
+                             Sans Telugu UI', 'Noto Sans                        
+                             Thaana', 'Noto Sans Thai',                         
+                             'Noto Sans Thai UI', 'Noto Sans                    
+                             Tifinagh', 'Noto Sans Tifinagh                     
+                             APT', 'Noto Sans Tifinagh                          
+                             Adrar', 'Noto Sans Tifinagh                        
+                             Agraw Imazighen', 'Noto Sans                       
+                             Tifinagh Ahaggar', 'Noto Sans                      
+                             Tifinagh Air', 'Noto Sans                          
+                             Tifinagh Azawagh', 'Noto Sans                      
+                             Tifinagh Ghat', 'Noto Sans                         
+                             Tifinagh Hawad', 'Noto Sans                        
+                             Tifinagh Rhissa Ixa', 'Noto                        
+                             Sans Tifinagh SIL', 'Noto Sans                     
+                             Tifinagh Tawellemmet', 'Noto                       
+                             Sans Tirhuta', 'Noto Sans                          
+                             Ugaritic', 'Noto Sans Vai',                        
+                             'Noto Sans Wancho', 'Noto Sans                     
+                             Warang Citi', 'Noto Sans Yi',                      
+                             'Noto Sans Zanabazar Square',                      
+                             'Noto Serif', 'Noto Serif                          
+                             Ahom', 'Noto Serif Armenian',                      
+                             'Noto Serif Balinese', 'Noto                       
+                             Serif Bengali', 'Noto Serif CJK                    
+                             HK', 'Noto Serif CJK JP', 'Noto                    
+                             Serif CJK KR', 'Noto Serif CJK                     
+                             SC', 'Noto Serif CJK TC', 'Noto                    
+                             Serif Devanagari', 'Noto Serif                     
+                             Display', 'Noto Serif Dogra',                      
+                             'Noto Serif Ethiopic', 'Noto                       
+                             Serif Georgian', 'Noto Serif                       
+                             Grantha', 'Noto Serif                              
+                             Gujarati', 'Noto Serif                             
+                             Gurmukhi', 'Noto Serif Hebrew',                    
+                             'Noto Serif Hmong Nyiakeng',                       
+                             'Noto Serif Kannada', 'Noto                        
+                             Serif Khmer', 'Noto Serif                          
+                             Khojki', 'Noto Serif Lao',                         
+                             'Noto Serif Malayalam', 'Noto                      
+                             Serif Myanmar', 'Noto Serif                        
+                             Sinhala', 'Noto Serif Tamil',                      
+                             'Noto Serif Tamil Slanted',                        
+                             'Noto Serif Tangut', 'Noto                         
+                             Serif Telugu', 'Noto Serif                         
+                             Thai', 'Noto Serif Tibetan',                       
+                             'Noto Serif Yezidi', 'Noto                         
+                             Traditional Nushu',                                
+                             'OpenSymbol', 'P052', 'POV-Ray                     
+                             Logo', 'Sans', 'Serif',                            
+                             'Standard Symbols PS',                             
+                             'System-ui', 'Time Roman',                         
+                             'Tuffy', 'URW Bookman', 'URW                       
+                             Gothic', 'Ubuntu', 'Ubuntu                         
+                             Mono', 'Ubuntu Sans', 'Ubuntu                      
+                             Sans Mono', 'Z003'].                               
+                    WARNING  Font Menlo not in ['AR PL UKai  text_mobject.py:464
+                             CN', 'AR PL UKai HK', 'AR PL                       
+                             UKai TW', 'AR PL UKai TW MBE',                     
+                             'AR PL UMing CN', 'AR PL UMing                     
+                             HK', 'AR PL UMing TW', 'AR PL                      
+                             UMing TW MBE', 'C059',                             
+                             'Caladea', 'Carlito',                              
+                             'Crystal', 'Cyrvetica',                            
+                             'D050000L', 'DejaVu Math TeX                       
+                             Gyre', 'DejaVu Sans', 'DejaVu                      
+                             Sans Mono', 'DejaVu Serif',                        
+                             'Droid Sans Fallback',                             
+                             'FreeMono', 'FreeSans',                            
+                             'FreeSerif', 'Gentium',                            
+                             'Gentium Basic', 'Gentium Book                     
+                             Basic', 'GentiumAlt',                              
+                             'JetBrains Mono', 'Liberation                      
+                             Mono', 'Liberation Sans',                          
+                             'Liberation Sans Narrow',                          
+                             'Liberation Serif', 'Linux                         
+                             Biolinum Keyboard O', 'Linux                       
+                             Biolinum O', 'Linux Libertine                      
+                             Display O', 'Linux Libertine                       
+                             Initials O', 'Linux Libertine                      
+                             Mono O', 'Linux Libertine O',                      
+                             'Monospace', 'Nimbus Mono PS',                     
+                             'Nimbus Roman', 'Nimbus Sans',                     
+                             'Nimbus Sans Narrow', 'Noto                        
+                             Color Emoji', 'Noto Kufi                           
+                             Arabic', 'Noto Looped Lao',                        
+                             'Noto Looped Lao UI', 'Noto                        
+                             Looped Thai', 'Noto Looped Thai                    
+                             UI', 'Noto Mono', 'Noto Music',                    
+                             'Noto Naskh Arabic', 'Noto                         
+                             Naskh Arabic UI', 'Noto                            
+                             Nastaliq Urdu', 'Noto Rashi                        
+                             Hebrew', 'Noto Sans', 'Noto                        
+                             Sans Adlam', 'Noto Sans Adlam                      
+                             Unjoined', 'Noto Sans Anatolian                    
+                             Hieroglyphs', 'Noto Sans                           
+                             Arabic', 'Noto Sans Arabic UI',                    
+                             'Noto Sans Armenian', 'Noto                        
+                             Sans Avestan', 'Noto Sans                          
+                             Balinese', 'Noto Sans Bamum',                      
+                             'Noto Sans Bassa Vah', 'Noto                       
+                             Sans Batak', 'Noto Sans                            
+                             Bengali', 'Noto Sans Bengali                       
+                             UI', 'Noto Sans Bhaiksuki',                        
+                             'Noto Sans Brahmi', 'Noto Sans                     
+                             Buginese', 'Noto Sans Buhid',                      
+                             'Noto Sans CJK HK', 'Noto Sans                     
+                             CJK JP', 'Noto Sans CJK KR',                       
+                             'Noto Sans CJK SC', 'Noto Sans                     
+                             CJK TC', 'Noto Sans Canadian                       
+                             Aboriginal', 'Noto Sans                            
+                             Carian', 'Noto Sans Caucasian                      
+                             Albanian', 'Noto Sans Chakma',                     
+                             'Noto Sans Cham', 'Noto Sans                       
+                             Cherokee', 'Noto Sans Coptic',                     
+                             'Noto Sans Cuneiform', 'Noto                       
+                             Sans Cypriot', 'Noto Sans                          
+                             Deseret', 'Noto Sans                               
+                             Devanagari', 'Noto Sans                            
+                             Devanagari UI', 'Noto Sans                         
+                             Display', 'Noto Sans Duployan',                    
+                             'Noto Sans Egyptian                                
+                             Hieroglyphs', 'Noto Sans                           
+                             Elbasan', 'Noto Sans Elymaic',                     
+                             'Noto Sans Ethiopic', 'Noto                        
+                             Sans Georgian', 'Noto Sans                         
+                             Glagolitic', 'Noto Sans                            
+                             Gothic', 'Noto Sans Grantha',                      
+                             'Noto Sans Gujarati', 'Noto                        
+                             Sans Gujarati UI', 'Noto Sans                      
+                             Gunjala Gondi', 'Noto Sans                         
+                             Gurmukhi', 'Noto Sans Gurmukhi                     
+                             UI', 'Noto Sans Hanifi                             
+                             Rohingya', 'Noto Sans Hanunoo',                    
+                             'Noto Sans Hatran', 'Noto Sans                     
+                             Hebrew', 'Noto Sans Imperial                       
+                             Aramaic', 'Noto Sans Indic                         
+                             Siyaq Numbers', 'Noto Sans                         
+                             Inscriptional Pahlavi', 'Noto                      
+                             Sans Inscriptional Parthian',                      
+                             'Noto Sans Javanese', 'Noto                        
+                             Sans Kaithi', 'Noto Sans                           
+                             Kannada', 'Noto Sans Kannada                       
+                             UI', 'Noto Sans Kayah Li',                         
+                             'Noto Sans Kharoshthi', 'Noto                      
+                             Sans Khmer', 'Noto Sans Khmer                      
+                             UI', 'Noto Sans Khojki', 'Noto                     
+                             Sans Khudawadi', 'Noto Sans                        
+                             Lao', 'Noto Sans Lao UI', 'Noto                    
+                             Sans Lepcha', 'Noto Sans                           
+                             Limbu', 'Noto Sans Linear A',                      
+                             'Noto Sans Linear B', 'Noto                        
+                             Sans Lisu', 'Noto Sans Lycian',                    
+                             'Noto Sans Lydian', 'Noto Sans                     
+                             Mahajani', 'Noto Sans                              
+                             Malayalam', 'Noto Sans                             
+                             Malayalam UI', 'Noto Sans                          
+                             Mandaic', 'Noto Sans                               
+                             Manichaean', 'Noto Sans                            
+                             Marchen', 'Noto Sans Masaram                       
+                             Gondi', 'Noto Sans Math', 'Noto                    
+                             Sans Mayan Numerals', 'Noto                        
+                             Sans Medefaidrin', 'Noto Sans                      
+                             Meetei Mayek', 'Noto Sans Mende                    
+                             Kikakui', 'Noto Sans Meroitic',                    
+                             'Noto Sans Miao', 'Noto Sans                       
+                             Modi', 'Noto Sans Mongolian',                      
+                             'Noto Sans Mono', 'Noto Sans                       
+                             Mono CJK HK', 'Noto Sans Mono                      
+                             CJK JP', 'Noto Sans Mono CJK                       
+                             KR', 'Noto Sans Mono CJK SC',                      
+                             'Noto Sans Mono CJK TC', 'Noto                     
+                             Sans Mro', 'Noto Sans Multani',                    
+                             'Noto Sans Myanmar', 'Noto Sans                    
+                             Myanmar UI', 'Noto Sans NKo',                      
+                             'Noto Sans Nabataean', 'Noto                       
+                             Sans New Tai Lue', 'Noto Sans                      
+                             Newa', 'Noto Sans Nushu', 'Noto                    
+                             Sans Ogham', 'Noto Sans Ol                         
+                             Chiki', 'Noto Sans Old                             
+                             Hungarian', 'Noto Sans Old                         
+                             Italic', 'Noto Sans Old North                      
+                             Arabian', 'Noto Sans Old                           
+                             Permic', 'Noto Sans Old                            
+                             Persian', 'Noto Sans Old                           
+                             Sogdian', 'Noto Sans Old South                     
+                             Arabian', 'Noto Sans Old                           
+                             Turkic', 'Noto Sans Oriya',                        
+                             'Noto Sans Oriya UI', 'Noto                        
+                             Sans Osage', 'Noto Sans                            
+                             Osmanya', 'Noto Sans Pahawh                        
+                             Hmong', 'Noto Sans Palmyrene',                     
+                             'Noto Sans Pau Cin Hau', 'Noto                     
+                             Sans PhagsPa', 'Noto Sans                          
+                             Phoenician', 'Noto Sans Psalter                    
+                             Pahlavi', 'Noto Sans Rejang',                      
+                             'Noto Sans Runic', 'Noto Sans                      
+                             Samaritan', 'Noto Sans                             
+                             Saurashtra', 'Noto Sans                            
+                             Sharada', 'Noto Sans Shavian',                     
+                             'Noto Sans Siddham', 'Noto Sans                    
+                             SignWriting', 'Noto Sans                           
+                             Sinhala', 'Noto Sans Sinhala                       
+                             UI', 'Noto Sans Sogdian', 'Noto                    
+                             Sans Sora Sompeng', 'Noto Sans                     
+                             Soyombo', 'Noto Sans                               
+                             Sundanese', 'Noto Sans Syloti                      
+                             Nagri', 'Noto Sans Symbols',                       
+                             'Noto Sans Symbols2', 'Noto                        
+                             Sans Syriac', 'Noto Sans                           
+                             Tagalog', 'Noto Sans Tagbanwa',                    
+                             'Noto Sans Tai Le', 'Noto Sans                     
+                             Tai Tham', 'Noto Sans Tai                          
+                             Viet', 'Noto Sans Takri', 'Noto                    
+                             Sans Tamil', 'Noto Sans Tamil                      
+                             Supplement', 'Noto Sans Tamil                      
+                             UI', 'Noto Sans Telugu', 'Noto                     
+                             Sans Telugu UI', 'Noto Sans                        
+                             Thaana', 'Noto Sans Thai',                         
+                             'Noto Sans Thai UI', 'Noto Sans                    
+                             Tifinagh', 'Noto Sans Tifinagh                     
+                             APT', 'Noto Sans Tifinagh                          
+                             Adrar', 'Noto Sans Tifinagh                        
+                             Agraw Imazighen', 'Noto Sans                       
+                             Tifinagh Ahaggar', 'Noto Sans                      
+                             Tifinagh Air', 'Noto Sans                          
+                             Tifinagh Azawagh', 'Noto Sans                      
+                             Tifinagh Ghat', 'Noto Sans                         
+                             Tifinagh Hawad', 'Noto Sans                        
+                             Tifinagh Rhissa Ixa', 'Noto                        
+                             Sans Tifinagh SIL', 'Noto Sans                     
+                             Tifinagh Tawellemmet', 'Noto                       
+                             Sans Tirhuta', 'Noto Sans                          
+                             Ugaritic', 'Noto Sans Vai',                        
+                             'Noto Sans Wancho', 'Noto Sans                     
+                             Warang Citi', 'Noto Sans Yi',                      
+                             'Noto Sans Zanabazar Square',                      
+                             'Noto Serif', 'Noto Serif                          
+                             Ahom', 'Noto Serif Armenian',                      
+                             'Noto Serif Balinese', 'Noto                       
+                             Serif Bengali', 'Noto Serif CJK                    
+                             HK', 'Noto Serif CJK JP', 'Noto                    
+                             Serif CJK KR', 'Noto Serif CJK                     
+                             SC', 'Noto Serif CJK TC', 'Noto                    
+                             Serif Devanagari', 'Noto Serif                     
+                             Display', 'Noto Serif Dogra',                      
+                             'Noto Serif Ethiopic', 'Noto                       
+                             Serif Georgian', 'Noto Serif                       
+                             Grantha', 'Noto Serif                              
+                             Gujarati', 'Noto Serif                             
+                             Gurmukhi', 'Noto Serif Hebrew',                    
+                             'Noto Serif Hmong Nyiakeng',                       
+                             'Noto Serif Kannada', 'Noto                        
+                             Serif Khmer', 'Noto Serif                          
+                             Khojki', 'Noto Serif Lao',                         
+                             'Noto Serif Malayalam', 'Noto                      
+                             Serif Myanmar', 'Noto Serif                        
+                             Sinhala', 'Noto Serif Tamil',                      
+                             'Noto Serif Tamil Slanted',                        
+                             'Noto Serif Tangut', 'Noto                         
+                             Serif Telugu', 'Noto Serif                         
+                             Thai', 'Noto Serif Tibetan',                       
+                             'Noto Serif Yezidi', 'Noto                         
+                             Traditional Nushu',                                
+                             'OpenSymbol', 'P052', 'POV-Ray                     
+                             Logo', 'Sans', 'Serif',                            
+                             'Standard Symbols PS',                             
+                             'System-ui', 'Time Roman',                         
+                             'Tuffy', 'URW Bookman', 'URW                       
+                             Gothic', 'Ubuntu', 'Ubuntu                         
+                             Mono', 'Ubuntu Sans', 'Ubuntu                      
+                             Sans Mono', 'Z003'].                               
+[03/13/26 19:09:38] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/dan-xi-qi                         
+                             -lei-you-xi-jiu-wu-tong-la                         
+                             -jing-zi-qi-kai-fb77cd53.m                         
+                             p3 to .wav                                         
+Animation 15: Write(Text('遊戲樹複雜度')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 15: Write(Text('遊戲樹複雜度')):  22%|██▏       | 8/36 [00:00<00:00, 75.64it/s]Animation 15: Write(Text('遊戲樹複雜度')):  44%|████▍     | 16/36 [00:00<00:00, 61.31it/s]Animation 15: Write(Text('遊戲樹複雜度')):  64%|██████▍   | 23/36 [00:00<00:00, 48.66it/s]Animation 15: Write(Text('遊戲樹複雜度')):  81%|████████  | 29/36 [00:00<00:00, 41.19it/s]Animation 15: Write(Text('遊戲樹複雜度')):  94%|█████████▍| 34/36 [00:00<00:00, 39.93it/s]                                                                                          [03/13/26 19:09:41] INFO     Animation 15 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_337464044                         
+                             9_3351353890.mp4'                                  
+Animation 16: FadeIn(VGroup of 2 submobjects):   0%|          | 0/24 [00:00<?, ?it/s]Animation 16: FadeIn(VGroup of 2 submobjects):  33%|███▎      | 8/24 [00:00<00:00, 69.99it/s]Animation 16: FadeIn(VGroup of 2 submobjects):  67%|██████▋   | 16/24 [00:00<00:00, 75.28it/s]Animation 16: FadeIn(VGroup of 2 submobjects): 100%|██████████| 24/24 [00:00<00:00, 75.92it/s]                                                                                              [03/13/26 19:09:43] INFO     Animation 16 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_836885554                         
+                             _2249609107.mp4'                                   
+Animation 17: FadeIn(VGroup of 2 submobjects):   0%|          | 0/24 [00:00<?, ?it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  29%|██▉       | 7/24 [00:00<00:00, 64.95it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  62%|██████▎   | 15/24 [00:00<00:00, 67.00it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  96%|█████████▌| 23/24 [00:00<00:00, 66.84it/s]                                                                                              [03/13/26 19:09:46] INFO     Animation 17 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_366707707                         
+                             6_748316431.mp4'                                   
+Animation 18: FadeIn(VGroup of 2 submobjects):   0%|          | 0/24 [00:00<?, ?it/s]Animation 18: FadeIn(VGroup of 2 submobjects):  25%|██▌       | 6/24 [00:00<00:00, 53.32it/s]Animation 18: FadeIn(VGroup of 2 submobjects):  54%|█████▍    | 13/24 [00:00<00:00, 57.23it/s]Animation 18: FadeIn(VGroup of 2 submobjects):  79%|███████▉  | 19/24 [00:00<00:00, 57.62it/s]                                                                                              [03/13/26 19:09:48] INFO     Animation 18 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_132945317                         
+                             9_3999866965.mp4'                                  
+Animation 19: FadeIn(VGroup of 2 submobjects):   0%|          | 0/24 [00:00<?, ?it/s]Animation 19: FadeIn(VGroup of 2 submobjects):  25%|██▌       | 6/24 [00:00<00:00, 53.21it/s]Animation 19: FadeIn(VGroup of 2 submobjects):  54%|█████▍    | 13/24 [00:00<00:00, 60.01it/s]Animation 19: FadeIn(VGroup of 2 submobjects):  83%|████████▎ | 20/24 [00:00<00:00, 62.10it/s]                                                                                              [03/13/26 19:09:51] INFO     Animation 19 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_333521919                         
+                             7_1590850173.mp4'                                  
+Animation 20: FadeIn(Text('圍棋嘅搜索空間大過宇宙原子數量')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 20: FadeIn(Text('圍棋嘅搜索空間大過宇宙原子數量')):  13%|█▎        | 4/30 [00:00<00:00, 35.04it/s]Animation 20: FadeIn(Text('圍棋嘅搜索空間大過宇宙原子數量')):  30%|███       | 9/30 [00:00<00:00, 37.67it/s]Animation 20: FadeIn(Text('圍棋嘅搜索空間大過宇宙原子數量')):  43%|████▎     | 13/30 [00:00<00:00, 36.34it/s]Animation 20: FadeIn(Text('圍棋嘅搜索空間大過宇宙原子數量')):  57%|█████▋    | 17/30 [00:00<00:00, 33.73it/s]Animation 20: FadeIn(Text('圍棋嘅搜索空間大過宇宙原子數量')):  70%|███████   | 21/30 [00:00<00:00, 34.75it/s]Animation 20: FadeIn(Text('圍棋嘅搜索空間大過宇宙原子數量')):  83%|████████▎ | 25/30 [00:00<00:00, 34.98it/s]Animation 20: FadeIn(Text('圍棋嘅搜索空間大過宇宙原子數量')):  97%|█████████▋| 29/30 [00:00<00:00, 33.13it/s]                                                                                                             [03/13/26 19:09:55] INFO     Animation 20 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_351730328                         
+                             9_14933310.mp4'                                    
+[03/13/26 19:11:02] INFO     Animation 21 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_810989960                         
+                             _2266234612.mp4'                                   
+[03/13/26 19:11:05] INFO     Animation 22 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_807188262                         
+                             _2265883577.mp4'                                   
+Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:   7%|▋         | 2/30 [00:00<00:02, 10.91it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 10.81it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  20%|██        | 6/30 [00:00<00:02, 10.63it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 11.14it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 11.39it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  40%|████      | 12/30 [00:01<00:01, 11.37it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 11.20it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 11.52it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  60%|██████    | 18/30 [00:01<00:01, 11.62it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 11.60it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 11.26it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  80%|████████  | 24/30 [00:02<00:00, 11.35it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 11.18it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 11.48it/s]Animation 23: FadeOut(Text('遊戲樹複雜度')), etc.: 100%|██████████| 30/30 [00:02<00:00, 11.60it/s]                                                                                                  [03/13/26 19:11:11] INFO     Animation 23 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_278377595                         
+                             1_2572371826.mp4'                                  
+[03/13/26 19:11:21] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/yi-jiu-ji                         
+                             u-qi-nian-deep-blue-ji-bai                         
+                             -guo-ji-xiang-1e53c795.mp3                         
+                              to .wav                                           
+Animation 24: Write(Text('Deep Blue vs AlphaGo')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 24: Write(Text('Deep Blue vs AlphaGo')):  14%|█▍        | 5/36 [00:00<00:00, 49.18it/s]Animation 24: Write(Text('Deep Blue vs AlphaGo')):  28%|██▊       | 10/36 [00:00<00:00, 43.25it/s]Animation 24: Write(Text('Deep Blue vs AlphaGo')):  42%|████▏     | 15/36 [00:00<00:00, 42.04it/s]Animation 24: Write(Text('Deep Blue vs AlphaGo')):  56%|█████▌    | 20/36 [00:00<00:00, 42.89it/s]Animation 24: Write(Text('Deep Blue vs AlphaGo')):  69%|██████▉   | 25/36 [00:00<00:00, 42.66it/s]Animation 24: Write(Text('Deep Blue vs AlphaGo')):  83%|████████▎ | 30/36 [00:00<00:00, 43.61it/s]Animation 24: Write(Text('Deep Blue vs AlphaGo')):  97%|█████████▋| 35/36 [00:00<00:00, 42.91it/s]                                                                                                  [03/13/26 19:11:25] INFO     Animation 24 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_114518360                         
+                             _3351353890.mp4'                                   
+Animation 25: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 25: FadeIn(VGroup of 2 submobjects), etc.:  10%|█         | 3/30 [00:00<00:00, 29.59it/s]Animation 25: FadeIn(VGroup of 2 submobjects), etc.:  20%|██        | 6/30 [00:00<00:00, 26.03it/s]Animation 25: FadeIn(VGroup of 2 submobjects), etc.:  33%|███▎      | 10/30 [00:00<00:00, 28.18it/s]Animation 25: FadeIn(VGroup of 2 submobjects), etc.:  43%|████▎     | 13/30 [00:00<00:00, 28.09it/s]Animation 25: FadeIn(VGroup of 2 submobjects), etc.:  53%|█████▎    | 16/30 [00:00<00:00, 28.60it/s]Animation 25: FadeIn(VGroup of 2 submobjects), etc.:  63%|██████▎   | 19/30 [00:00<00:00, 28.53it/s]Animation 25: FadeIn(VGroup of 2 submobjects), etc.:  77%|███████▋  | 23/30 [00:00<00:00, 30.00it/s]Animation 25: FadeIn(VGroup of 2 submobjects), etc.:  87%|████████▋ | 26/30 [00:00<00:00, 29.81it/s]Animation 25: FadeIn(VGroup of 2 submobjects), etc.:  97%|█████████▋| 29/30 [00:00<00:00, 29.66it/s]                                                                                                    [03/13/26 19:11:29] INFO     Animation 25 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_282564234                         
+                             4_158512942.mp4'                                   
+Animation 26: FadeIn(Text('暴力搜索 + 專家規則')), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 26: FadeIn(Text('暴力搜索 + 專家規則')), etc.:  12%|█▎        | 3/24 [00:00<00:00, 23.77it/s]Animation 26: FadeIn(Text('暴力搜索 + 專家規則')), etc.:  25%|██▌       | 6/24 [00:00<00:00, 23.06it/s]Animation 26: FadeIn(Text('暴力搜索 + 專家規則')), etc.:  38%|███▊      | 9/24 [00:00<00:00, 22.81it/s]Animation 26: FadeIn(Text('暴力搜索 + 專家規則')), etc.:  50%|█████     | 12/24 [00:00<00:00, 24.06it/s]Animation 26: FadeIn(Text('暴力搜索 + 專家規則')), etc.:  67%|██████▋   | 16/24 [00:00<00:00, 26.09it/s]Animation 26: FadeIn(Text('暴力搜索 + 專家規則')), etc.:  79%|███████▉  | 19/24 [00:00<00:00, 25.89it/s]Animation 26: FadeIn(Text('暴力搜索 + 專家規則')), etc.:  96%|█████████▌| 23/24 [00:00<00:00, 27.74it/s]                                                                                                        [03/13/26 19:11:32] INFO     Animation 26 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_103760847                         
+                             8_2885658879.mp4'                                  
+Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):   8%|▊         | 3/36 [00:00<00:01, 23.31it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):  17%|█▋        | 6/36 [00:00<00:01, 25.05it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):  25%|██▌       | 9/36 [00:00<00:01, 23.89it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):  33%|███▎      | 12/36 [00:00<00:00, 25.01it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):  42%|████▏     | 15/36 [00:00<00:00, 23.44it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):  50%|█████     | 18/36 [00:00<00:00, 22.29it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):  58%|█████▊    | 21/36 [00:00<00:00, 22.19it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):  67%|██████▋   | 24/36 [00:01<00:00, 21.66it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):  75%|███████▌  | 27/36 [00:01<00:00, 20.22it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):  83%|████████▎ | 30/36 [00:01<00:00, 20.44it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')):  92%|█████████▏| 33/36 [00:01<00:00, 21.45it/s]Animation 27: FadeIn(Text('AlphaZero：零人類知識，純試錯，打敗所有棋類冠軍')): 100%|██████████| 36/36 [00:01<00:00, 21.63it/s]                                                                                                                              [03/13/26 19:11:37] INFO     Animation 27 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_204060519                         
+                             9_40958557.mp4'                                    
+[03/13/26 19:13:05] INFO     Animation 28 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_200128394                         
+                             1_22429354.mp4'                                    
+[03/13/26 19:13:07] INFO     Animation 29 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_807188262                         
+                             _2249070309.mp4'                                   
+Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:   7%|▋         | 2/30 [00:00<00:01, 15.02it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 13.73it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  20%|██        | 6/30 [00:00<00:01, 13.46it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 12.86it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 12.88it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  40%|████      | 12/30 [00:00<00:01, 12.55it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 12.63it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 12.81it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  60%|██████    | 18/30 [00:01<00:00, 12.64it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 12.67it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 12.72it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  80%|████████  | 24/30 [00:01<00:00, 12.58it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 12.58it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 12.82it/s]Animation 30: FadeOut(Text('Deep Blue vs AlphaGo')), etc.: 100%|██████████| 30/30 [00:02<00:00, 13.29it/s]                                                                                                          [03/13/26 19:13:13] INFO     Animation 30 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_212966052                         
+                             7_3308950178.mp4'                                  
+[03/13/26 19:13:25] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/ni-ge-dui                         
+                             -shen-jing-ke-xue-you-mie-                         
+                             qi-shi-ni-xian-dbb7f2eb.mp                         
+                             3 to .wav                                          
+Animation 31: Write(Text('對神經科學嘅啟示')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 31: Write(Text('對神經科學嘅啟示')):  19%|█▉        | 7/36 [00:00<00:00, 68.58it/s]Animation 31: Write(Text('對神經科學嘅啟示')):  39%|███▉      | 14/36 [00:00<00:00, 61.84it/s]Animation 31: Write(Text('對神經科學嘅啟示')):  58%|█████▊    | 21/36 [00:00<00:00, 50.45it/s]Animation 31: Write(Text('對神經科學嘅啟示')):  75%|███████▌  | 27/36 [00:00<00:00, 51.71it/s]Animation 31: Write(Text('對神經科學嘅啟示')):  92%|█████████▏| 33/36 [00:00<00:00, 52.51it/s]                                                                                              [03/13/26 19:13:28] INFO     Animation 31 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_414105485                         
+                             2_3351353890.mp4'                                  
+Animation 32: FadeIn(Text('現實世界嘅搜索空間比棋盤大得多')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 32: FadeIn(Text('現實世界嘅搜索空間比棋盤大得多')):  13%|█▎        | 4/30 [00:00<00:00, 32.14it/s]Animation 32: FadeIn(Text('現實世界嘅搜索空間比棋盤大得多')):  27%|██▋       | 8/30 [00:00<00:00, 33.47it/s]Animation 32: FadeIn(Text('現實世界嘅搜索空間比棋盤大得多')):  40%|████      | 12/30 [00:00<00:00, 31.43it/s]Animation 32: FadeIn(Text('現實世界嘅搜索空間比棋盤大得多')):  53%|█████▎    | 16/30 [00:00<00:00, 29.96it/s]Animation 32: FadeIn(Text('現實世界嘅搜索空間比棋盤大得多')):  67%|██████▋   | 20/30 [00:00<00:00, 29.70it/s]Animation 32: FadeIn(Text('現實世界嘅搜索空間比棋盤大得多')):  77%|███████▋  | 23/30 [00:00<00:00, 29.13it/s]Animation 32: FadeIn(Text('現實世界嘅搜索空間比棋盤大得多')):  90%|█████████ | 27/30 [00:00<00:00, 30.17it/s]                                                                                                             [03/13/26 19:13:31] INFO     Animation 32 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_584171875                         
+                             _1911076215.mp4'                                   
+Animation 33: FadeIn(Text('大腦面對嘅係感知、決策、語言嘅巨大空間')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 33: FadeIn(Text('大腦面對嘅係感知、決策、語言嘅巨大空間')):  13%|█▎        | 4/30 [00:00<00:00, 34.76it/s]Animation 33: FadeIn(Text('大腦面對嘅係感知、決策、語言嘅巨大空間')):  27%|██▋       | 8/30 [00:00<00:00, 34.61it/s]Animation 33: FadeIn(Text('大腦面對嘅係感知、決策、語言嘅巨大空間')):  40%|████      | 12/30 [00:00<00:00, 32.51it/s]Animation 33: FadeIn(Text('大腦面對嘅係感知、決策、語言嘅巨大空間')):  53%|█████▎    | 16/30 [00:00<00:00, 32.48it/s]Animation 33: FadeIn(Text('大腦面對嘅係感知、決策、語言嘅巨大空間')):  67%|██████▋   | 20/30 [00:00<00:00, 33.08it/s]Animation 33: FadeIn(Text('大腦面對嘅係感知、決策、語言嘅巨大空間')):  80%|████████  | 24/30 [00:00<00:00, 32.38it/s]Animation 33: FadeIn(Text('大腦面對嘅係感知、決策、語言嘅巨大空間')):  93%|█████████▎| 28/30 [00:00<00:00, 30.54it/s]                                                                                                                     [03/13/26 19:13:34] INFO     Animation 33 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_176722067                         
+                             7_4185657287.mp4'                                  
+Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):   8%|▊         | 3/36 [00:00<00:01, 27.50it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):  17%|█▋        | 6/36 [00:00<00:01, 26.38it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):  25%|██▌       | 9/36 [00:00<00:01, 26.05it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):  33%|███▎      | 12/36 [00:00<00:00, 25.41it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):  42%|████▏     | 15/36 [00:00<00:00, 25.44it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):  50%|█████     | 18/36 [00:00<00:00, 25.51it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):  58%|█████▊    | 21/36 [00:00<00:00, 25.58it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):  67%|██████▋   | 24/36 [00:00<00:00, 25.84it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):  75%|███████▌  | 27/36 [00:01<00:00, 26.78it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):  83%|████████▎ | 30/36 [00:01<00:00, 27.08it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')):  92%|█████████▏| 33/36 [00:01<00:00, 26.78it/s]Animation 34: FadeIn(Text('算法無法處理 → 大腦必須用經驗主義運作')): 100%|██████████| 36/36 [00:01<00:00, 26.59it/s]                                                                                                                    [03/13/26 19:13:38] INFO     Animation 34 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_925618727                         
+                             _3612110532.mp4'                                   
+[03/13/26 19:14:57] INFO     Animation 35 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_243713995                         
+                             9_2303902924.mp4'                                  
+[03/13/26 19:15:00] INFO     Animation 36 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_807188262                         
+                             _694983349.mp4'                                    
+Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:   3%|▎         | 1/30 [00:00<00:03,  9.56it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:   7%|▋         | 2/30 [00:00<00:03,  9.14it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  10%|█         | 3/30 [00:00<00:03,  8.66it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  13%|█▎        | 4/30 [00:00<00:03,  8.38it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  17%|█▋        | 5/30 [00:00<00:02,  8.52it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  20%|██        | 6/30 [00:00<00:02,  8.23it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  23%|██▎       | 7/30 [00:00<00:02,  8.50it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  27%|██▋       | 8/30 [00:00<00:02,  8.84it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  30%|███       | 9/30 [00:01<00:02,  8.70it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  33%|███▎      | 10/30 [00:01<00:02,  8.85it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  37%|███▋      | 11/30 [00:01<00:02,  8.85it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  40%|████      | 12/30 [00:01<00:02,  8.78it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  43%|████▎     | 13/30 [00:01<00:01,  9.03it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  47%|████▋     | 14/30 [00:01<00:01,  8.77it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  53%|█████▎    | 16/30 [00:01<00:01,  9.04it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  57%|█████▋    | 17/30 [00:01<00:01,  9.17it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  60%|██████    | 18/30 [00:02<00:01,  9.30it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  63%|██████▎   | 19/30 [00:02<00:01,  9.36it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  70%|███████   | 21/30 [00:02<00:00,  9.70it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  73%|███████▎  | 22/30 [00:02<00:00,  9.42it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  77%|███████▋  | 23/30 [00:02<00:00,  9.38it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  80%|████████  | 24/30 [00:02<00:00,  9.24it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  83%|████████▎ | 25/30 [00:02<00:00,  9.27it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  87%|████████▋ | 26/30 [00:02<00:00,  8.97it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  90%|█████████ | 27/30 [00:03<00:00,  8.90it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  93%|█████████▎| 28/30 [00:03<00:00,  9.00it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.:  97%|█████████▋| 29/30 [00:03<00:00,  9.19it/s]Animation 37: FadeOut(Text('對神經科學嘅啟示')), etc.: 100%|██████████| 30/30 [00:03<00:00,  9.32it/s]                                                                                                      [03/13/26 19:15:08] INFO     Animation 37 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_327122642                         
+                             0_829604684.mp4'                                   
+[03/13/26 19:15:17] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/zong-jie-                         
+                             yi-xia-mo-fang-sui-ran-you                         
+                             -shi-kai-shi-c057d066.mp3                          
+                             to .wav                                            
+Animation 38: Write(Text('總結')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 38: Write(Text('總結')):  28%|██▊       | 10/36 [00:00<00:00, 87.31it/s]Animation 38: Write(Text('總結')):  53%|█████▎    | 19/36 [00:00<00:00, 86.69it/s]Animation 38: Write(Text('總結')):  78%|███████▊  | 28/36 [00:00<00:00, 74.21it/s]Animation 38: Write(Text('總結')): 100%|██████████| 36/36 [00:00<00:00, 75.50it/s]                                                                                  [03/13/26 19:15:20] INFO     Animation 38 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_181031296                         
+                             0_3351353890.mp4'                                  
+Animation 39: FadeIn(Text('•  魔方 ~10¹⁹：算法可解決')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 39: FadeIn(Text('•  魔方 ~10¹⁹：算法可解決')):  13%|█▎        | 4/30 [00:00<00:00, 39.07it/s]Animation 39: FadeIn(Text('•  魔方 ~10¹⁹：算法可解決')):  27%|██▋       | 8/30 [00:00<00:00, 38.27it/s]Animation 39: FadeIn(Text('•  魔方 ~10¹⁹：算法可解決')):  43%|████▎     | 13/30 [00:00<00:00, 40.51it/s]Animation 39: FadeIn(Text('•  魔方 ~10¹⁹：算法可解決')):  60%|██████    | 18/30 [00:00<00:00, 40.33it/s]Animation 39: FadeIn(Text('•  魔方 ~10¹⁹：算法可解決')):  77%|███████▋  | 23/30 [00:00<00:00, 39.73it/s]Animation 39: FadeIn(Text('•  魔方 ~10¹⁹：算法可解決')):  93%|█████████▎| 28/30 [00:00<00:00, 40.15it/s]                                                                                                        [03/13/26 19:15:23] INFO     Animation 39 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_226197861                         
+                             7_946676274.mp4'                                   
+Animation 40: FadeIn(Text('•  棋類：井字 10⁴ → 象棋 10¹²⁰ → 圍棋 10³²⁰')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 40: FadeIn(Text('•  棋類：井字 10⁴ → 象棋 10¹²⁰ → 圍棋 10³²⁰')):  13%|█▎        | 4/30 [00:00<00:00, 30.05it/s]Animation 40: FadeIn(Text('•  棋類：井字 10⁴ → 象棋 10¹²⁰ → 圍棋 10³²⁰')):  27%|██▋       | 8/30 [00:00<00:00, 29.04it/s]Animation 40: FadeIn(Text('•  棋類：井字 10⁴ → 象棋 10¹²⁰ → 圍棋 10³²⁰')):  37%|███▋      | 11/30 [00:00<00:00, 25.19it/s]Animation 40: FadeIn(Text('•  棋類：井字 10⁴ → 象棋 10¹²⁰ → 圍棋 10³²⁰')):  50%|█████     | 15/30 [00:00<00:00, 28.71it/s]Animation 40: FadeIn(Text('•  棋類：井字 10⁴ → 象棋 10¹²⁰ → 圍棋 10³²⁰')):  67%|██████▋   | 20/30 [00:00<00:00, 34.08it/s]Animation 40: FadeIn(Text('•  棋類：井字 10⁴ → 象棋 10¹²⁰ → 圍棋 10³²⁰')):  83%|████████▎ | 25/30 [00:00<00:00, 37.42it/s]Animation 40: FadeIn(Text('•  棋類：井字 10⁴ → 象棋 10¹²⁰ → 圍棋 10³²⁰')): 100%|██████████| 30/30 [00:00<00:00, 39.73it/s]                                                                                                                          [03/13/26 19:15:26] INFO     Animation 40 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_319776925                         
+                             _107649516.mp4'                                    
+Animation 41: FadeIn(Text('•  Deep Blue：暴力 + 專家規則')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 41: FadeIn(Text('•  Deep Blue：暴力 + 專家規則')):  17%|█▋        | 5/30 [00:00<00:00, 43.43it/s]Animation 41: FadeIn(Text('•  Deep Blue：暴力 + 專家規則')):  33%|███▎      | 10/30 [00:00<00:00, 38.48it/s]Animation 41: FadeIn(Text('•  Deep Blue：暴力 + 專家規則')):  47%|████▋     | 14/30 [00:00<00:00, 32.47it/s]Animation 41: FadeIn(Text('•  Deep Blue：暴力 + 專家規則')):  67%|██████▋   | 20/30 [00:00<00:00, 39.51it/s]Animation 41: FadeIn(Text('•  Deep Blue：暴力 + 專家規則')):  87%|████████▋ | 26/30 [00:00<00:00, 45.00it/s]                                                                                                            [03/13/26 19:15:28] INFO     Animation 41 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_315742401                         
+                             4_4058895729.mp4'                                  
+Animation 42: FadeIn(Text('•  AlphaGo/AlphaZero：純試錯，零人類知識')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 42: FadeIn(Text('•  AlphaGo/AlphaZero：純試錯，零人類知識')):  10%|█         | 3/30 [00:00<00:00, 27.34it/s]Animation 42: FadeIn(Text('•  AlphaGo/AlphaZero：純試錯，零人類知識')):  20%|██        | 6/30 [00:00<00:00, 27.10it/s]Animation 42: FadeIn(Text('•  AlphaGo/AlphaZero：純試錯，零人類知識')):  30%|███       | 9/30 [00:00<00:00, 27.51it/s]Animation 42: FadeIn(Text('•  AlphaGo/AlphaZero：純試錯，零人類知識')):  40%|████      | 12/30 [00:00<00:00, 27.82it/s]Animation 42: FadeIn(Text('•  AlphaGo/AlphaZero：純試錯，零人類知識')):  50%|█████     | 15/30 [00:00<00:00, 28.32it/s]Animation 42: FadeIn(Text('•  AlphaGo/AlphaZero：純試錯，零人類知識')):  60%|██████    | 18/30 [00:00<00:00, 26.41it/s]Animation 42: FadeIn(Text('•  AlphaGo/AlphaZero：純試錯，零人類知識')):  70%|███████   | 21/30 [00:00<00:00, 25.22it/s]Animation 42: FadeIn(Text('•  AlphaGo/AlphaZero：純試錯，零人類知識')):  83%|████████▎ | 25/30 [00:00<00:00, 28.63it/s]Animation 42: FadeIn(Text('•  AlphaGo/AlphaZero：純試錯，零人類知識')):  97%|█████████▋| 29/30 [00:01<00:00, 31.61it/s]                                                                                                                       [03/13/26 19:15:31] INFO     Animation 42 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_616714901                         
+                             _3241828090.mp4'                                   
+Animation 43: FadeIn(Text('•  現實空間更大 → 大腦必須經驗主義')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 43: FadeIn(Text('•  現實空間更大 → 大腦必須經驗主義')):  20%|██        | 6/30 [00:00<00:00, 54.09it/s]Animation 43: FadeIn(Text('•  現實空間更大 → 大腦必須經驗主義')):  40%|████      | 12/30 [00:00<00:00, 54.35it/s]Animation 43: FadeIn(Text('•  現實空間更大 → 大腦必須經驗主義')):  60%|██████    | 18/30 [00:00<00:00, 54.30it/s]Animation 43: FadeIn(Text('•  現實空間更大 → 大腦必須經驗主義')):  80%|████████  | 24/30 [00:00<00:00, 55.64it/s]Animation 43: FadeIn(Text('•  現實空間更大 → 大腦必須經驗主義')): 100%|██████████| 30/30 [00:00<00:00, 55.69it/s]                                                                                                                 [03/13/26 19:15:34] INFO     Animation 43 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_424596741                         
+                             9_1303876889.mp4'                                  
+[03/13/26 19:16:54] INFO     Animation 44 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_359554199                         
+                             2_361892662.mp4'                                   
+[03/13/26 19:16:58] INFO     Animation 45 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_320184955                         
+                             4_1193267823.mp4'                                  
+Animation 46: FadeOut(Text('總結')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 46: FadeOut(Text('總結')), etc.:   3%|▎         | 1/30 [00:00<00:03,  8.98it/s]Animation 46: FadeOut(Text('總結')), etc.:   7%|▋         | 2/30 [00:00<00:03,  8.55it/s]Animation 46: FadeOut(Text('總結')), etc.:  10%|█         | 3/30 [00:00<00:03,  7.94it/s]Animation 46: FadeOut(Text('總結')), etc.:  13%|█▎        | 4/30 [00:00<00:03,  7.90it/s]Animation 46: FadeOut(Text('總結')), etc.:  17%|█▋        | 5/30 [00:00<00:03,  8.28it/s]Animation 46: FadeOut(Text('總結')), etc.:  20%|██        | 6/30 [00:00<00:03,  7.83it/s]Animation 46: FadeOut(Text('總結')), etc.:  23%|██▎       | 7/30 [00:00<00:02,  8.22it/s]Animation 46: FadeOut(Text('總結')), etc.:  27%|██▋       | 8/30 [00:00<00:02,  8.33it/s]Animation 46: FadeOut(Text('總結')), etc.:  30%|███       | 9/30 [00:01<00:02,  8.50it/s]Animation 46: FadeOut(Text('總結')), etc.:  33%|███▎      | 10/30 [00:01<00:02,  7.89it/s]Animation 46: FadeOut(Text('總結')), etc.:  37%|███▋      | 11/30 [00:01<00:02,  7.53it/s]Animation 46: FadeOut(Text('總結')), etc.:  40%|████      | 12/30 [00:01<00:02,  7.61it/s]Animation 46: FadeOut(Text('總結')), etc.:  47%|████▋     | 14/30 [00:01<00:01,  8.22it/s]Animation 46: FadeOut(Text('總結')), etc.:  50%|█████     | 15/30 [00:01<00:01,  8.45it/s]Animation 46: FadeOut(Text('總結')), etc.:  53%|█████▎    | 16/30 [00:01<00:01,  8.32it/s]Animation 46: FadeOut(Text('總結')), etc.:  57%|█████▋    | 17/30 [00:02<00:01,  8.02it/s]Animation 46: FadeOut(Text('總結')), etc.:  60%|██████    | 18/30 [00:02<00:01,  7.85it/s]Animation 46: FadeOut(Text('總結')), etc.:  63%|██████▎   | 19/30 [00:02<00:01,  7.93it/s]Animation 46: FadeOut(Text('總結')), etc.:  67%|██████▋   | 20/30 [00:02<00:01,  8.02it/s]Animation 46: FadeOut(Text('總結')), etc.:  70%|███████   | 21/30 [00:02<00:01,  7.99it/s]Animation 46: FadeOut(Text('總結')), etc.:  73%|███████▎  | 22/30 [00:02<00:00,  8.01it/s]Animation 46: FadeOut(Text('總結')), etc.:  77%|███████▋  | 23/30 [00:02<00:00,  8.09it/s]Animation 46: FadeOut(Text('總結')), etc.:  80%|████████  | 24/30 [00:02<00:00,  8.16it/s]Animation 46: FadeOut(Text('總結')), etc.:  83%|████████▎ | 25/30 [00:03<00:00,  8.06it/s]Animation 46: FadeOut(Text('總結')), etc.:  87%|████████▋ | 26/30 [00:03<00:00,  7.91it/s]Animation 46: FadeOut(Text('總結')), etc.:  90%|█████████ | 27/30 [00:03<00:00,  7.87it/s]Animation 46: FadeOut(Text('總結')), etc.:  93%|█████████▎| 28/30 [00:03<00:00,  8.04it/s]Animation 46: FadeOut(Text('總結')), etc.:  97%|█████████▋| 29/30 [00:03<00:00,  7.92it/s]Animation 46: FadeOut(Text('總結')), etc.: 100%|██████████| 30/30 [00:03<00:00,  8.03it/s]                                                                                          [03/13/26 19:17:06] INFO     Animation 46 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_327067249                         
+                             6_2088618277.mp4'                                  
+[03/13/26 19:17:13] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/duo-xie-s                         
+                             hou-di-xia-yi-ke-wo-di-hui                         
+                             -jin-ru-gan-zhi-82f2ef3f.m                         
+                             p3 to .wav                                         
+Animation 47: Write(Text('多謝收睇！')):   0%|          | 0/60 [00:00<?, ?it/s]Animation 47: Write(Text('多謝收睇！')):  13%|█▎        | 8/60 [00:00<00:00, 79.27it/s]Animation 47: Write(Text('多謝收睇！')):  27%|██▋       | 16/60 [00:00<00:00, 74.69it/s]Animation 47: Write(Text('多謝收睇！')):  40%|████      | 24/60 [00:00<00:00, 65.69it/s]Animation 47: Write(Text('多謝收睇！')):  52%|█████▏    | 31/60 [00:00<00:00, 58.37it/s]Animation 47: Write(Text('多謝收睇！')):  62%|██████▏   | 37/60 [00:00<00:00, 53.20it/s]Animation 47: Write(Text('多謝收睇！')):  72%|███████▏  | 43/60 [00:00<00:00, 49.88it/s]Animation 47: Write(Text('多謝收睇！')):  82%|████████▏ | 49/60 [00:00<00:00, 48.93it/s]Animation 47: Write(Text('多謝收睇！')):  92%|█████████▏| 55/60 [00:01<00:00, 50.35it/s]                                                                                        [03/13/26 19:17:17] INFO     Animation 47 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_566641700                         
+                             _3351353890.mp4'                                   
+Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):  10%|█         | 5/48 [00:00<00:01, 42.09it/s]Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):  21%|██        | 10/48 [00:00<00:00, 38.74it/s]Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):  31%|███▏      | 15/48 [00:00<00:00, 39.90it/s]Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):  42%|████▏     | 20/48 [00:00<00:00, 40.69it/s]Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):  52%|█████▏    | 25/48 [00:00<00:00, 40.55it/s]Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):  62%|██████▎   | 30/48 [00:00<00:00, 39.56it/s]Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):  71%|███████   | 34/48 [00:00<00:00, 39.04it/s]Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):  81%|████████▏ | 39/48 [00:00<00:00, 39.23it/s]Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):  90%|████████▉ | 43/48 [00:01<00:00, 38.85it/s]Animation 48: FadeIn(Text('下一課：我哋感知啲咩')):  98%|█████████▊| 47/48 [00:01<00:00, 38.19it/s]                                                                                                   [03/13/26 19:17:21] INFO     Animation 48 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_410379521                         
+                             6_1478170121.mp4'                                  
+[03/13/26 19:17:47] INFO     Animation 49 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_310544726                         
+                             8_3919559515.mp4'                                  
+[03/13/26 19:17:49] INFO     Animation 50 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_183912835                         
+                             6_2692669690.mp4'                                  
+Animation 51: FadeOut(Text('多謝收睇！')), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  12%|█▎        | 6/48 [00:00<00:00, 52.94it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  25%|██▌       | 12/48 [00:00<00:00, 51.41it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  38%|███▊      | 18/48 [00:00<00:00, 46.74it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  48%|████▊     | 23/48 [00:00<00:00, 41.04it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  58%|█████▊    | 28/48 [00:00<00:00, 37.93it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  67%|██████▋   | 32/48 [00:00<00:00, 34.79it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  77%|███████▋  | 37/48 [00:00<00:00, 37.46it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  88%|████████▊ | 42/48 [00:01<00:00, 40.01it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  98%|█████████▊| 47/48 [00:01<00:00, 38.42it/s]                                                                                                [03/13/26 19:17:52] INFO     Animation 51 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/LearningEmpiricallyExpl                         
+                             ainer/2135761390_395771711                         
+                             4_361612955.mp4'                                   
+                    INFO     Combining to Movie file.   scene_file_writer.py:753
+[03/13/26 19:18:05] WARNING  Some options were not      scene_file_writer.py:819
+                             used: {'shortest': '1',                            
+                             'metadata':                                        
+                             'comment=Rendered with                             
+                             Manim Community v0.20.1'}                          
+[03/13/26 19:18:06] INFO                                scene_file_writer.py:904
+                             File ready at                                      
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             7/video/media/videos/scene                         
+                             /1080p60/LearningEmpirical                         
+                             lyExplainer.mp4'                                   
+                                                                                
+                    INFO     Subcaption file has been   scene_file_writer.py:899
+                             written as                                         
+                             /home/peter/workspace/why-                         
+                             brains-dont-compute/lesson                         
+                                                                                
+                             7/video/media/videos/scene                         
+                             /1080p60/LearningEmpirical                         
+                             lyExplainer.srt                                    
+                    INFO     Rendered LearningEmpiricallyExplainer  scene.py:278
+                             Played 52 animations                               

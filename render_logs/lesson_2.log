@@ -1,0 +1,584 @@
+/home/peter/.pyenv/versions/3.13.5/lib/python3.13/site-packages/manim_voiceover/__init__.py:4: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Manim Community v0.20.1
+
+[03/13/26 18:54:27] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/da-jia-ha                         
+                             o-huan-ying-li-dao-di-er-k                         
+                             e-jin-ri-wo-di-12d88cf7.mp                         
+                             3 to .wav                                          
+Animation 0: Write(Text('客觀同主觀現實')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 0: Write(Text('客觀同主觀現實')):   4%|▍         | 4/90 [00:00<00:02, 35.58it/s]Animation 0: Write(Text('客觀同主觀現實')):  10%|█         | 9/90 [00:00<00:01, 43.22it/s]Animation 0: Write(Text('客觀同主觀現實')):  16%|█▌        | 14/90 [00:00<00:01, 43.39it/s]Animation 0: Write(Text('客觀同主觀現實')):  21%|██        | 19/90 [00:00<00:01, 37.90it/s]Animation 0: Write(Text('客觀同主觀現實')):  27%|██▋       | 24/90 [00:00<00:01, 37.88it/s]Animation 0: Write(Text('客觀同主觀現實')):  31%|███       | 28/90 [00:00<00:01, 36.16it/s]Animation 0: Write(Text('客觀同主觀現實')):  37%|███▋      | 33/90 [00:00<00:01, 38.35it/s]Animation 0: Write(Text('客觀同主觀現實')):  42%|████▏     | 38/90 [00:00<00:01, 39.12it/s]Animation 0: Write(Text('客觀同主觀現實')):  48%|████▊     | 43/90 [00:01<00:01, 39.78it/s]Animation 0: Write(Text('客觀同主觀現實')):  53%|█████▎    | 48/90 [00:01<00:00, 42.38it/s]Animation 0: Write(Text('客觀同主觀現實')):  59%|█████▉    | 53/90 [00:01<00:00, 39.53it/s]Animation 0: Write(Text('客觀同主觀現實')):  64%|██████▍   | 58/90 [00:01<00:00, 38.68it/s]Animation 0: Write(Text('客觀同主觀現實')):  69%|██████▉   | 62/90 [00:01<00:00, 33.30it/s]Animation 0: Write(Text('客觀同主觀現實')):  73%|███████▎  | 66/90 [00:01<00:00, 29.88it/s]Animation 0: Write(Text('客觀同主觀現實')):  78%|███████▊  | 70/90 [00:01<00:00, 27.68it/s]Animation 0: Write(Text('客觀同主觀現實')):  81%|████████  | 73/90 [00:02<00:00, 24.71it/s]Animation 0: Write(Text('客觀同主觀現實')):  84%|████████▍ | 76/90 [00:02<00:00, 24.04it/s]Animation 0: Write(Text('客觀同主觀現實')):  89%|████████▉ | 80/90 [00:02<00:00, 25.92it/s]Animation 0: Write(Text('客觀同主觀現實')):  92%|█████████▏| 83/90 [00:02<00:00, 24.50it/s]Animation 0: Write(Text('客觀同主觀現實')):  96%|█████████▌| 86/90 [00:02<00:00, 25.50it/s]Animation 0: Write(Text('客觀同主觀現實')): 100%|██████████| 90/90 [00:02<00:00, 27.42it/s]                                                                                           [03/13/26 18:54:34] INFO     Animation 0 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2257293077_3788091675_                         
+                             3351353890.mp4'                                    
+Animation 1: FadeIn(Text('Objective and Subjective Reality')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):   8%|▊         | 4/48 [00:00<00:01, 38.38it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  17%|█▋        | 8/48 [00:00<00:01, 31.99it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  25%|██▌       | 12/48 [00:00<00:01, 26.64it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  31%|███▏      | 15/48 [00:00<00:01, 21.04it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  38%|███▊      | 18/48 [00:00<00:01, 22.13it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  44%|████▍     | 21/48 [00:00<00:01, 23.80it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  50%|█████     | 24/48 [00:00<00:00, 24.46it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  56%|█████▋    | 27/48 [00:01<00:00, 23.07it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  62%|██████▎   | 30/48 [00:01<00:00, 23.88it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  69%|██████▉   | 33/48 [00:01<00:00, 24.71it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  75%|███████▌  | 36/48 [00:01<00:00, 24.36it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  81%|████████▏ | 39/48 [00:01<00:00, 23.74it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  90%|████████▉ | 43/48 [00:01<00:00, 27.50it/s]Animation 1: FadeIn(Text('Objective and Subjective Reality')):  98%|█████████▊| 47/48 [00:01<00:00, 28.42it/s]                                                                                                              [03/13/26 18:54:38] INFO     Animation 1 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_3200250107_                         
+                             3110811680.mp4'                                    
+Animation 2: FadeIn(Text('第二課')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 2: FadeIn(Text('第二課')):  12%|█▎        | 6/48 [00:00<00:00, 48.13it/s]Animation 2: FadeIn(Text('第二課')):  25%|██▌       | 12/48 [00:00<00:00, 50.29it/s]Animation 2: FadeIn(Text('第二課')):  38%|███▊      | 18/48 [00:00<00:00, 52.86it/s]Animation 2: FadeIn(Text('第二課')):  50%|█████     | 24/48 [00:00<00:00, 54.36it/s]Animation 2: FadeIn(Text('第二課')):  62%|██████▎   | 30/48 [00:00<00:00, 46.81it/s]Animation 2: FadeIn(Text('第二課')):  73%|███████▎  | 35/48 [00:00<00:00, 44.45it/s]Animation 2: FadeIn(Text('第二課')):  83%|████████▎ | 40/48 [00:00<00:00, 42.58it/s]Animation 2: FadeIn(Text('第二課')):  94%|█████████▍| 45/48 [00:00<00:00, 41.39it/s]                                                                                    [03/13/26 18:54:41] INFO     Animation 2 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1845029045_                         
+                             2599249456.mp4'                                    
+Animation 3: FadeIn(Text('制片人：Peter')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 3: FadeIn(Text('制片人：Peter')):  17%|█▋        | 5/30 [00:00<00:00, 49.39it/s]Animation 3: FadeIn(Text('制片人：Peter')):  33%|███▎      | 10/30 [00:00<00:00, 48.07it/s]Animation 3: FadeIn(Text('制片人：Peter')):  50%|█████     | 15/30 [00:00<00:00, 41.23it/s]Animation 3: FadeIn(Text('制片人：Peter')):  67%|██████▋   | 20/30 [00:00<00:00, 39.05it/s]Animation 3: FadeIn(Text('制片人：Peter')):  80%|████████  | 24/30 [00:00<00:00, 35.69it/s]Animation 3: FadeIn(Text('制片人：Peter')):  93%|█████████▎| 28/30 [00:00<00:00, 35.49it/s]                                                                                           [03/13/26 18:54:44] INFO     Animation 3 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_3456586973_                         
+                             3879701951.mp4'                                    
+[03/13/26 18:55:42] INFO     Animation 4 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1126893974_                         
+                             3384738166.mp4'                                    
+[03/13/26 18:55:45] INFO     Animation 5 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_807188262_2                         
+                             552796921.mp4'                                     
+Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:   7%|▋         | 2/30 [00:00<00:01, 15.66it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 14.34it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  20%|██        | 6/30 [00:00<00:01, 14.31it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 14.12it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 14.03it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  43%|████▎     | 13/30 [00:00<00:01, 15.70it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  53%|█████▎    | 16/30 [00:01<00:00, 16.90it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  63%|██████▎   | 19/30 [00:01<00:00, 17.37it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  70%|███████   | 21/30 [00:01<00:00, 16.79it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  77%|███████▋  | 23/30 [00:01<00:00, 16.32it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  83%|████████▎ | 25/30 [00:01<00:00, 16.52it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  90%|█████████ | 27/30 [00:01<00:00, 16.20it/s]Animation 6: FadeOut(Text('客觀同主觀現實')), etc.:  97%|█████████▋| 29/30 [00:01<00:00, 15.55it/s]                                                                                                   [03/13/26 18:55:50] INFO     Animation 6 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1971966591_                         
+                             3778193610.mp4'                                    
+[03/13/26 18:56:01] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/niu-dun-w                         
+                             u-li-xue-miao-shu-kai-xi-k                         
+                             e-guan-xian-shi-eb83540e.m                         
+                             p3 to .wav                                         
+Animation 7: Write(Text('牛頓物理學嘅客觀現實')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 7: Write(Text('牛頓物理學嘅客觀現實')):  14%|█▍        | 5/36 [00:00<00:00, 48.89it/s]Animation 7: Write(Text('牛頓物理學嘅客觀現實')):  28%|██▊       | 10/36 [00:00<00:00, 49.29it/s]Animation 7: Write(Text('牛頓物理學嘅客觀現實')):  42%|████▏     | 15/36 [00:00<00:00, 39.85it/s]Animation 7: Write(Text('牛頓物理學嘅客觀現實')):  56%|█████▌    | 20/36 [00:00<00:00, 36.48it/s]Animation 7: Write(Text('牛頓物理學嘅客觀現實')):  67%|██████▋   | 24/36 [00:00<00:00, 34.81it/s]Animation 7: Write(Text('牛頓物理學嘅客觀現實')):  78%|███████▊  | 28/36 [00:00<00:00, 31.44it/s]Animation 7: Write(Text('牛頓物理學嘅客觀現實')):  89%|████████▉ | 32/36 [00:00<00:00, 29.45it/s]Animation 7: Write(Text('牛頓物理學嘅客觀現實')): 100%|██████████| 36/36 [00:01<00:00, 30.20it/s]                                                                                                 [03/13/26 18:56:05] INFO     Animation 7 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_686302990_3                         
+                             351353890.mp4'                                     
+Animation 8: FadeIn(VGroup of 2 submobjects):   0%|          | 0/36 [00:00<?, ?it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  14%|█▍        | 5/36 [00:00<00:00, 43.52it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  28%|██▊       | 10/36 [00:00<00:00, 41.65it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  42%|████▏     | 15/36 [00:00<00:00, 41.03it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  56%|█████▌    | 20/36 [00:00<00:00, 43.75it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  69%|██████▉   | 25/36 [00:00<00:00, 45.46it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  86%|████████▌ | 31/36 [00:00<00:00, 49.26it/s]                                                                                             [03/13/26 18:56:09] INFO     Animation 8 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_2254193852_                         
+                             2343249279.mp4'                                    
+Animation 9: FadeIn(Text('•  物質、能量、力、運動')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 9: FadeIn(Text('•  物質、能量、力、運動')):  13%|█▎        | 4/30 [00:00<00:00, 27.94it/s]Animation 9: FadeIn(Text('•  物質、能量、力、運動')):  23%|██▎       | 7/30 [00:00<00:00, 26.29it/s]Animation 9: FadeIn(Text('•  物質、能量、力、運動')):  37%|███▋      | 11/30 [00:00<00:00, 28.93it/s]Animation 9: FadeIn(Text('•  物質、能量、力、運動')):  50%|█████     | 15/30 [00:00<00:00, 31.62it/s]Animation 9: FadeIn(Text('•  物質、能量、力、運動')):  63%|██████▎   | 19/30 [00:00<00:00, 33.64it/s]Animation 9: FadeIn(Text('•  物質、能量、力、運動')):  77%|███████▋  | 23/30 [00:00<00:00, 32.79it/s]Animation 9: FadeIn(Text('•  物質、能量、力、運動')):  90%|█████████ | 27/30 [00:00<00:00, 32.39it/s]                                                                                                     [03/13/26 18:56:12] INFO     Animation 9 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_2995017440_                         
+                             3494044878.mp4'                                    
+Animation 10: FadeIn(Text('•  決定論：已知狀態可預測未來')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 10: FadeIn(Text('•  決定論：已知狀態可預測未來')):  13%|█▎        | 4/30 [00:00<00:00, 28.31it/s]Animation 10: FadeIn(Text('•  決定論：已知狀態可預測未來')):  23%|██▎       | 7/30 [00:00<00:00, 23.63it/s]Animation 10: FadeIn(Text('•  決定論：已知狀態可預測未來')):  33%|███▎      | 10/30 [00:00<00:00, 23.29it/s]Animation 10: FadeIn(Text('•  決定論：已知狀態可預測未來')):  43%|████▎     | 13/30 [00:00<00:00, 22.20it/s]Animation 10: FadeIn(Text('•  決定論：已知狀態可預測未來')):  53%|█████▎    | 16/30 [00:00<00:00, 22.84it/s]Animation 10: FadeIn(Text('•  決定論：已知狀態可預測未來')):  63%|██████▎   | 19/30 [00:00<00:00, 24.11it/s]Animation 10: FadeIn(Text('•  決定論：已知狀態可預測未來')):  73%|███████▎  | 22/30 [00:00<00:00, 24.94it/s]Animation 10: FadeIn(Text('•  決定論：已知狀態可預測未來')):  87%|████████▋ | 26/30 [00:01<00:00, 26.76it/s]Animation 10: FadeIn(Text('•  決定論：已知狀態可預測未來')):  97%|█████████▋| 29/30 [00:01<00:00, 27.12it/s]                                                                                                            [03/13/26 18:56:16] INFO     Animation 10 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_2602559444_                         
+                             695661116.mp4'                                     
+Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')):  10%|█         | 3/30 [00:00<00:01, 25.63it/s]Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')):  20%|██        | 6/30 [00:00<00:00, 26.73it/s]Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')):  30%|███       | 9/30 [00:00<00:00, 27.56it/s]Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')):  40%|████      | 12/30 [00:00<00:00, 27.10it/s]Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')):  50%|█████     | 15/30 [00:00<00:00, 25.30it/s]Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')):  60%|██████    | 18/30 [00:00<00:00, 25.51it/s]Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')):  70%|███████   | 21/30 [00:00<00:00, 25.52it/s]Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')):  80%|████████  | 24/30 [00:00<00:00, 25.39it/s]Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')):  90%|█████████ | 27/30 [00:01<00:00, 25.15it/s]Animation 11: FadeIn(Text('•  混沌：微小差異可導致巨大變化')): 100%|██████████| 30/30 [00:01<00:00, 25.76it/s]                                                                                                              [03/13/26 18:56:20] INFO     Animation 11 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_292159948_2                         
+                             170021856.mp4'                                     
+Animation 12: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:   6%|▋         | 3/48 [00:00<00:02, 19.62it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  10%|█         | 5/48 [00:00<00:02, 17.80it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  15%|█▍        | 7/48 [00:00<00:02, 16.99it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  19%|█▉        | 9/48 [00:00<00:02, 17.74it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  23%|██▎       | 11/48 [00:00<00:02, 17.96it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  27%|██▋       | 13/48 [00:00<00:01, 17.74it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  31%|███▏      | 15/48 [00:00<00:01, 18.12it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  35%|███▌      | 17/48 [00:00<00:01, 18.16it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  40%|███▉      | 19/48 [00:01<00:01, 17.78it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  44%|████▍     | 21/48 [00:01<00:01, 17.91it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  50%|█████     | 24/48 [00:01<00:01, 18.86it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  54%|█████▍    | 26/48 [00:01<00:01, 18.78it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  60%|██████    | 29/48 [00:01<00:00, 19.37it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  67%|██████▋   | 32/48 [00:01<00:00, 19.69it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  71%|███████   | 34/48 [00:01<00:00, 19.44it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  75%|███████▌  | 36/48 [00:01<00:00, 19.06it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  79%|███████▉  | 38/48 [00:02<00:00, 19.22it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  83%|████████▎ | 40/48 [00:02<00:00, 19.39it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  88%|████████▊ | 42/48 [00:02<00:00, 19.07it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  92%|█████████▏| 44/48 [00:02<00:00, 18.99it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.:  96%|█████████▌| 46/48 [00:02<00:00, 17.37it/s]Animation 12: FadeIn(VGroup of 2 submobjects), etc.: 100%|██████████| 48/48 [00:02<00:00, 16.13it/s]                                                                                                    [03/13/26 18:56:27] INFO     Animation 12 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_2091901679_                         
+                             3497812365.mp4'                                    
+[03/13/26 18:57:53] INFO     Animation 13 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1062790634_                         
+                             1413335200.mp4'                                    
+[03/13/26 18:57:57] INFO     Animation 14 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_807188262_2                         
+                             79082602.mp4'                                      
+Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:   3%|▎         | 1/30 [00:00<00:05,  5.39it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:   7%|▋         | 2/30 [00:00<00:05,  5.42it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  10%|█         | 3/30 [00:00<00:04,  5.75it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  13%|█▎        | 4/30 [00:00<00:04,  5.91it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  17%|█▋        | 5/30 [00:00<00:04,  5.90it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  20%|██        | 6/30 [00:01<00:04,  5.85it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  23%|██▎       | 7/30 [00:01<00:03,  6.09it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  27%|██▋       | 8/30 [00:01<00:03,  6.02it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  30%|███       | 9/30 [00:01<00:03,  6.18it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  33%|███▎      | 10/30 [00:01<00:03,  5.29it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  37%|███▋      | 11/30 [00:01<00:03,  5.10it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  40%|████      | 12/30 [00:02<00:03,  5.04it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  43%|████▎     | 13/30 [00:02<00:03,  5.11it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  47%|████▋     | 14/30 [00:02<00:03,  4.59it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  50%|█████     | 15/30 [00:02<00:03,  4.68it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  53%|█████▎    | 16/30 [00:03<00:02,  4.86it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  57%|█████▋    | 17/30 [00:03<00:02,  5.04it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  60%|██████    | 18/30 [00:03<00:02,  4.87it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  63%|██████▎   | 19/30 [00:03<00:02,  5.03it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  67%|██████▋   | 20/30 [00:03<00:01,  5.01it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  70%|███████   | 21/30 [00:03<00:01,  5.12it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  73%|███████▎  | 22/30 [00:04<00:01,  5.45it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  77%|███████▋  | 23/30 [00:04<00:01,  5.71it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  80%|████████  | 24/30 [00:04<00:01,  5.58it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  83%|████████▎ | 25/30 [00:04<00:00,  5.40it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  87%|████████▋ | 26/30 [00:04<00:00,  5.13it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  90%|█████████ | 27/30 [00:05<00:00,  5.13it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  93%|█████████▎| 28/30 [00:05<00:00,  5.21it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.:  97%|█████████▋| 29/30 [00:05<00:00,  5.37it/s]Animation 15: FadeOut(Text('牛頓物理學嘅客觀現實')), etc.: 100%|██████████| 30/30 [00:05<00:00,  5.50it/s]                                                                                                          [03/13/26 18:58:10] INFO     Animation 15 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1188729411_                         
+                             1110267864.mp4'                                    
+[03/13/26 18:58:21] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/dong-wu-m                         
+                             ao-liang-du-yi-qi-shi-wang                         
+                             -mo-jie-shou-8000a518.mp3                          
+                             to .wav                                            
+Animation 16: Write(Text('動物冇量度儀器')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 16: Write(Text('動物冇量度儀器')):  17%|█▋        | 6/36 [00:00<00:00, 55.62it/s]Animation 16: Write(Text('動物冇量度儀器')):  33%|███▎      | 12/36 [00:00<00:00, 46.31it/s]Animation 16: Write(Text('動物冇量度儀器')):  47%|████▋     | 17/36 [00:00<00:00, 41.41it/s]Animation 16: Write(Text('動物冇量度儀器')):  61%|██████    | 22/36 [00:00<00:00, 39.07it/s]Animation 16: Write(Text('動物冇量度儀器')):  72%|███████▏  | 26/36 [00:00<00:00, 36.08it/s]Animation 16: Write(Text('動物冇量度儀器')):  83%|████████▎ | 30/36 [00:00<00:00, 34.18it/s]Animation 16: Write(Text('動物冇量度儀器')):  94%|█████████▍| 34/36 [00:00<00:00, 32.18it/s]                                                                                            [03/13/26 18:58:25] INFO     Animation 16 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_986601921_3                         
+                             351353890.mp4'                                     
+Animation 17: Create(Circle), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 17: Create(Circle), etc.:  10%|█         | 5/48 [00:00<00:01, 42.40it/s]Animation 17: Create(Circle), etc.:  21%|██        | 10/48 [00:00<00:00, 43.91it/s]Animation 17: Create(Circle), etc.:  31%|███▏      | 15/48 [00:00<00:00, 43.21it/s]Animation 17: Create(Circle), etc.:  42%|████▏     | 20/48 [00:00<00:00, 41.31it/s]Animation 17: Create(Circle), etc.:  54%|█████▍    | 26/48 [00:00<00:00, 44.16it/s]Animation 17: Create(Circle), etc.:  65%|██████▍   | 31/48 [00:00<00:00, 45.59it/s]Animation 17: Create(Circle), etc.:  75%|███████▌  | 36/48 [00:00<00:00, 44.40it/s]Animation 17: Create(Circle), etc.:  85%|████████▌ | 41/48 [00:00<00:00, 44.50it/s]Animation 17: Create(Circle), etc.:  96%|█████████▌| 46/48 [00:01<00:00, 38.77it/s]                                                                                   [03/13/26 18:58:30] INFO     Animation 17 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1129956403_                         
+                             1625491685.mp4'                                    
+Animation 18: GrowArrow(Arrow), etc.:   0%|          | 0/60 [00:00<?, ?it/s]Animation 18: GrowArrow(Arrow), etc.:   5%|▌         | 3/60 [00:00<00:03, 17.92it/s]Animation 18: GrowArrow(Arrow), etc.:   8%|▊         | 5/60 [00:00<00:03, 17.49it/s]Animation 18: GrowArrow(Arrow), etc.:  12%|█▏        | 7/60 [00:00<00:02, 18.13it/s]Animation 18: GrowArrow(Arrow), etc.:  15%|█▌        | 9/60 [00:00<00:02, 17.73it/s]Animation 18: GrowArrow(Arrow), etc.:  18%|█▊        | 11/60 [00:00<00:02, 18.36it/s]Animation 18: GrowArrow(Arrow), etc.:  22%|██▏       | 13/60 [00:00<00:02, 18.33it/s]Animation 18: GrowArrow(Arrow), etc.:  25%|██▌       | 15/60 [00:00<00:02, 17.84it/s]Animation 18: GrowArrow(Arrow), etc.:  28%|██▊       | 17/60 [00:00<00:02, 18.22it/s]Animation 18: GrowArrow(Arrow), etc.:  32%|███▏      | 19/60 [00:01<00:02, 17.48it/s]Animation 18: GrowArrow(Arrow), etc.:  35%|███▌      | 21/60 [00:01<00:02, 17.50it/s]Animation 18: GrowArrow(Arrow), etc.:  38%|███▊      | 23/60 [00:01<00:02, 17.21it/s]Animation 18: GrowArrow(Arrow), etc.:  42%|████▏     | 25/60 [00:01<00:02, 16.44it/s]Animation 18: GrowArrow(Arrow), etc.:  45%|████▌     | 27/60 [00:01<00:02, 15.36it/s]Animation 18: GrowArrow(Arrow), etc.:  48%|████▊     | 29/60 [00:01<00:02, 15.16it/s]Animation 18: GrowArrow(Arrow), etc.:  52%|█████▏    | 31/60 [00:01<00:01, 15.42it/s]Animation 18: GrowArrow(Arrow), etc.:  55%|█████▌    | 33/60 [00:01<00:01, 15.27it/s]Animation 18: GrowArrow(Arrow), etc.:  58%|█████▊    | 35/60 [00:02<00:01, 14.34it/s]Animation 18: GrowArrow(Arrow), etc.:  62%|██████▏   | 37/60 [00:02<00:01, 14.80it/s]Animation 18: GrowArrow(Arrow), etc.:  65%|██████▌   | 39/60 [00:02<00:01, 15.13it/s]Animation 18: GrowArrow(Arrow), etc.:  68%|██████▊   | 41/60 [00:02<00:01, 15.03it/s]Animation 18: GrowArrow(Arrow), etc.:  72%|███████▏  | 43/60 [00:02<00:01, 14.82it/s]Animation 18: GrowArrow(Arrow), etc.:  75%|███████▌  | 45/60 [00:02<00:01, 13.43it/s]Animation 18: GrowArrow(Arrow), etc.:  78%|███████▊  | 47/60 [00:03<00:01, 11.32it/s]Animation 18: GrowArrow(Arrow), etc.:  82%|████████▏ | 49/60 [00:03<00:01, 10.25it/s]Animation 18: GrowArrow(Arrow), etc.:  85%|████████▌ | 51/60 [00:03<00:00, 10.69it/s]Animation 18: GrowArrow(Arrow), etc.:  88%|████████▊ | 53/60 [00:03<00:00, 10.72it/s]Animation 18: GrowArrow(Arrow), etc.:  92%|█████████▏| 55/60 [00:03<00:00, 10.95it/s]Animation 18: GrowArrow(Arrow), etc.:  95%|█████████▌| 57/60 [00:03<00:00, 11.88it/s]Animation 18: GrowArrow(Arrow), etc.: 100%|██████████| 60/60 [00:04<00:00, 14.24it/s]                                                                                     [03/13/26 18:58:38] INFO     Animation 18 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_4193870257_                         
+                             2230618795.mp4'                                    
+Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):   4%|▍         | 2/48 [00:00<00:02, 17.34it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):   8%|▊         | 4/48 [00:00<00:02, 17.16it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  12%|█▎        | 6/48 [00:00<00:02, 16.03it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  17%|█▋        | 8/48 [00:00<00:02, 16.64it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  21%|██        | 10/48 [00:00<00:02, 16.26it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  25%|██▌       | 12/48 [00:00<00:02, 15.59it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  29%|██▉       | 14/48 [00:00<00:02, 15.78it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  33%|███▎      | 16/48 [00:01<00:02, 14.63it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  38%|███▊      | 18/48 [00:01<00:02, 14.74it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  42%|████▏     | 20/48 [00:01<00:01, 14.84it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  46%|████▌     | 22/48 [00:01<00:01, 15.24it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  50%|█████     | 24/48 [00:01<00:01, 15.04it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  54%|█████▍    | 26/48 [00:01<00:01, 12.42it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  58%|█████▊    | 28/48 [00:01<00:01, 12.99it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  62%|██████▎   | 30/48 [00:02<00:01, 13.87it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  67%|██████▋   | 32/48 [00:02<00:01, 14.47it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  71%|███████   | 34/48 [00:02<00:00, 15.09it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  75%|███████▌  | 36/48 [00:02<00:00, 14.50it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  79%|███████▉  | 38/48 [00:02<00:00, 14.64it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  83%|████████▎ | 40/48 [00:02<00:00, 14.82it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  88%|████████▊ | 42/48 [00:02<00:00, 14.01it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  92%|█████████▏| 44/48 [00:03<00:00, 13.58it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')):  96%|█████████▌| 46/48 [00:03<00:00, 13.45it/s]Animation 19: FadeIn(Text('動物只能接收刺激，唔能夠直接知道外界嘅物理真相')): 100%|██████████| 48/48 [00:03<00:00, 13.62it/s]                                                                                                                             [03/13/26 18:58:46] INFO     Animation 19 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1787011088_                         
+                             293494556.mp4'                                     
+[03/13/26 18:59:46] INFO     Animation 20 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_53524047_35                         
+                             16440346.mp4'                                      
+[03/13/26 18:59:49] INFO     Animation 21 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_807188262_2                         
+                             059855638.mp4'                                     
+Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:   7%|▋         | 2/30 [00:00<00:02, 10.87it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 10.54it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  20%|██        | 6/30 [00:00<00:02, 10.26it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.13it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  33%|███▎      | 10/30 [00:00<00:02,  9.81it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  37%|███▋      | 11/30 [00:01<00:02,  9.32it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  40%|████      | 12/30 [00:01<00:01,  9.20it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  43%|████▎     | 13/30 [00:01<00:01,  9.08it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  47%|████▋     | 14/30 [00:01<00:01,  8.97it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  50%|█████     | 15/30 [00:01<00:01,  9.04it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  53%|█████▎    | 16/30 [00:01<00:01,  9.08it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  60%|██████    | 18/30 [00:01<00:01,  9.73it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  63%|██████▎   | 19/30 [00:01<00:01,  9.70it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  67%|██████▋   | 20/30 [00:02<00:01,  9.53it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  70%|███████   | 21/30 [00:02<00:00,  9.47it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  77%|███████▋  | 23/30 [00:02<00:00, 10.52it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  83%|████████▎ | 25/30 [00:02<00:00,  9.93it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  87%|████████▋ | 26/30 [00:02<00:00,  9.71it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  90%|█████████ | 27/30 [00:02<00:00,  9.54it/s]Animation 22: FadeOut(Text('動物冇量度儀器')), etc.:  97%|█████████▋| 29/30 [00:02<00:00,  9.95it/s]                                                                                                    [03/13/26 18:59:56] INFO     Animation 22 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_149357610_1                         
+                             546753449.mp4'                                     
+[03/13/26 19:00:02] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/ni-wen-ti                         
+                             -xi-gem-yang-kai-wu-li-lai                         
+                             -yuan-you-wu-486db0e5.mp3                          
+                             to .wav                                            
+Animation 23: Write(Text('逆問題')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 23: Write(Text('逆問題')):  19%|█▉        | 7/36 [00:00<00:00, 66.25it/s]Animation 23: Write(Text('逆問題')):  39%|███▉      | 14/36 [00:00<00:00, 57.44it/s]Animation 23: Write(Text('逆問題')):  56%|█████▌    | 20/36 [00:00<00:00, 53.56it/s]Animation 23: Write(Text('逆問題')):  72%|███████▏  | 26/36 [00:00<00:00, 50.17it/s]Animation 23: Write(Text('逆問題')):  89%|████████▉ | 32/36 [00:00<00:00, 50.81it/s]                                                                                    [03/13/26 19:00:06] INFO     Animation 23 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1674806827_                         
+                             3351353890.mp4'                                    
+Animation 24: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/36 [00:00<?, ?it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:   8%|▊         | 3/36 [00:00<00:01, 24.76it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:  17%|█▋        | 6/36 [00:00<00:01, 21.62it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:  25%|██▌       | 9/36 [00:00<00:01, 23.60it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:  33%|███▎      | 12/36 [00:00<00:00, 25.26it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:  42%|████▏     | 15/36 [00:00<00:00, 26.78it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:  50%|█████     | 18/36 [00:00<00:00, 26.34it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:  61%|██████    | 22/36 [00:00<00:00, 27.66it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:  69%|██████▉   | 25/36 [00:00<00:00, 27.73it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:  78%|███████▊  | 28/36 [00:01<00:00, 27.23it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:  86%|████████▌ | 31/36 [00:01<00:00, 27.24it/s]Animation 24: FadeIn(VGroup of 2 submobjects), etc.:  94%|█████████▍| 34/36 [00:01<00:00, 25.98it/s]                                                                                                    [03/13/26 19:00:10] INFO     Animation 24 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_2612551728_                         
+                             661973518.mp4'                                     
+Animation 25: GrowArrow(Arrow), etc.:   0%|          | 0/36 [00:00<?, ?it/s]Animation 25: GrowArrow(Arrow), etc.:  17%|█▋        | 6/36 [00:00<00:00, 58.18it/s]Animation 25: GrowArrow(Arrow), etc.:  33%|███▎      | 12/36 [00:00<00:00, 56.29it/s]Animation 25: GrowArrow(Arrow), etc.:  50%|█████     | 18/36 [00:00<00:00, 45.78it/s]Animation 25: GrowArrow(Arrow), etc.:  64%|██████▍   | 23/36 [00:00<00:00, 46.31it/s]Animation 25: GrowArrow(Arrow), etc.:  81%|████████  | 29/36 [00:00<00:00, 49.22it/s]Animation 25: GrowArrow(Arrow), etc.:  97%|█████████▋| 35/36 [00:00<00:00, 51.19it/s]                                                                                     [03/13/26 19:00:14] INFO     Animation 25 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_111368303_4                         
+                             199479035.mp4'                                     
+Animation 26: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/36 [00:00<?, ?it/s]Animation 26: FadeIn(VGroup of 2 submobjects), etc.:  14%|█▍        | 5/36 [00:00<00:00, 43.85it/s]Animation 26: FadeIn(VGroup of 2 submobjects), etc.:  28%|██▊       | 10/36 [00:00<00:00, 45.70it/s]Animation 26: FadeIn(VGroup of 2 submobjects), etc.:  42%|████▏     | 15/36 [00:00<00:00, 44.73it/s]Animation 26: FadeIn(VGroup of 2 submobjects), etc.:  56%|█████▌    | 20/36 [00:00<00:00, 40.66it/s]Animation 26: FadeIn(VGroup of 2 submobjects), etc.:  69%|██████▉   | 25/36 [00:00<00:00, 37.38it/s]Animation 26: FadeIn(VGroup of 2 submobjects), etc.:  81%|████████  | 29/36 [00:00<00:00, 35.76it/s]Animation 26: FadeIn(VGroup of 2 submobjects), etc.:  92%|█████████▏| 33/36 [00:00<00:00, 36.39it/s]                                                                                                    [03/13/26 19:00:18] INFO     Animation 26 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_2409683817_                         
+                             3283117376.mp4'                                    
+Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):   4%|▍         | 2/48 [00:00<00:02, 19.37it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):   8%|▊         | 4/48 [00:00<00:02, 18.01it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  12%|█▎        | 6/48 [00:00<00:02, 18.03it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  17%|█▋        | 8/48 [00:00<00:02, 18.70it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  21%|██        | 10/48 [00:00<00:02, 17.58it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  25%|██▌       | 12/48 [00:00<00:02, 17.50it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  29%|██▉       | 14/48 [00:00<00:01, 17.82it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  33%|███▎      | 16/48 [00:00<00:01, 18.32it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  38%|███▊      | 18/48 [00:00<00:01, 18.31it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  42%|████▏     | 20/48 [00:01<00:01, 18.23it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  48%|████▊     | 23/48 [00:01<00:01, 18.79it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  54%|█████▍    | 26/48 [00:01<00:01, 19.27it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  58%|█████▊    | 28/48 [00:01<00:01, 19.32it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  62%|██████▎   | 30/48 [00:01<00:00, 19.12it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  67%|██████▋   | 32/48 [00:01<00:00, 19.32it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  71%|███████   | 34/48 [00:01<00:00, 19.05it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  75%|███████▌  | 36/48 [00:01<00:00, 18.65it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  79%|███████▉  | 38/48 [00:02<00:00, 18.53it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  83%|████████▎ | 40/48 [00:02<00:00, 18.56it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  88%|████████▊ | 42/48 [00:02<00:00, 18.73it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  92%|█████████▏| 44/48 [00:02<00:00, 19.03it/s]Animation 27: FadeIn(Text('同一種視網膜投影可以由好多唔同嘅物理來源造成')):  98%|█████████▊| 47/48 [00:02<00:00, 19.73it/s]                                                                                                                           [03/13/26 19:00:24] INFO     Animation 27 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_3488465545_                         
+                             4099615811.mp4'                                    
+Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):   8%|▊         | 3/36 [00:00<00:01, 23.06it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):  17%|█▋        | 6/36 [00:00<00:01, 23.38it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):  25%|██▌       | 9/36 [00:00<00:01, 23.18it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):  33%|███▎      | 12/36 [00:00<00:01, 22.50it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):  42%|████▏     | 15/36 [00:00<00:00, 23.52it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):  50%|█████     | 18/36 [00:00<00:00, 23.12it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):  58%|█████▊    | 21/36 [00:00<00:00, 23.51it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):  67%|██████▋   | 24/36 [00:01<00:00, 23.92it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):  75%|███████▌  | 27/36 [00:01<00:00, 23.68it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):  83%|████████▎ | 30/36 [00:01<00:00, 23.81it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')):  92%|█████████▏| 33/36 [00:01<00:00, 23.32it/s]Animation 28: FadeIn(Text('例如：細嘅近物 vs 大嘅遠物 → 投影可以一樣')): 100%|██████████| 36/36 [00:01<00:00, 22.60it/s]                                                                                                                        [03/13/26 19:00:30] INFO     Animation 28 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_104020250_2                         
+                             518581149.mp4'                                     
+[03/13/26 19:01:38] INFO     Animation 29 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_3247699045_                         
+                             3539869229.mp4'                                    
+[03/13/26 19:01:40] INFO     Animation 30 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_807188262_4                         
+                             108317983.mp4'                                     
+Animation 31: FadeOut(Text('逆問題')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 31: FadeOut(Text('逆問題')), etc.:   7%|▋         | 2/30 [00:00<00:02, 11.75it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 11.42it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  20%|██        | 6/30 [00:00<00:02, 10.97it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 11.49it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 12.15it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  40%|████      | 12/30 [00:00<00:01, 12.59it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 12.87it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 13.13it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  60%|██████    | 18/30 [00:01<00:00, 12.68it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 13.03it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 13.17it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  80%|████████  | 24/30 [00:01<00:00, 12.92it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 12.88it/s]Animation 31: FadeOut(Text('逆問題')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 12.83it/s]Animation 31: FadeOut(Text('逆問題')), etc.: 100%|██████████| 30/30 [00:02<00:00, 13.02it/s]                                                                                            [03/13/26 19:01:46] INFO     Animation 31 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_3847844576_                         
+                             388067854.mp4'                                     
+[03/13/26 19:02:02] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/shi-ba-sh                         
+                             i-ji-zhe-xue-jia-berkeley-                         
+                             you-yi-ge-zhong-295225b0.m                         
+                             p3 to .wav                                         
+Animation 32: Write(Text('感知存在於腦入面')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 32: Write(Text('感知存在於腦入面')):  19%|█▉        | 7/36 [00:00<00:00, 61.33it/s]Animation 32: Write(Text('感知存在於腦入面')):  39%|███▉      | 14/36 [00:00<00:00, 50.17it/s]Animation 32: Write(Text('感知存在於腦入面')):  56%|█████▌    | 20/36 [00:00<00:00, 47.41it/s]Animation 32: Write(Text('感知存在於腦入面')):  69%|██████▉   | 25/36 [00:00<00:00, 42.33it/s]Animation 32: Write(Text('感知存在於腦入面')):  83%|████████▎ | 30/36 [00:00<00:00, 42.70it/s]Animation 32: Write(Text('感知存在於腦入面')):  97%|█████████▋| 35/36 [00:00<00:00, 42.25it/s]                                                                                              [03/13/26 19:02:05] INFO     Animation 32 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1460188954_                         
+                             3351353890.mp4'                                    
+Animation 33: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:   4%|▍         | 2/48 [00:00<00:02, 15.56it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:   8%|▊         | 4/48 [00:00<00:02, 15.63it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  12%|█▎        | 6/48 [00:00<00:03, 12.79it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  17%|█▋        | 8/48 [00:00<00:03, 13.10it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  21%|██        | 10/48 [00:00<00:02, 13.38it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  25%|██▌       | 12/48 [00:00<00:02, 14.08it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  29%|██▉       | 14/48 [00:00<00:02, 15.19it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  33%|███▎      | 16/48 [00:01<00:01, 16.15it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  38%|███▊      | 18/48 [00:01<00:01, 15.93it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  42%|████▏     | 20/48 [00:01<00:01, 16.15it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  46%|████▌     | 22/48 [00:01<00:01, 17.11it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  50%|█████     | 24/48 [00:01<00:01, 15.67it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  54%|█████▍    | 26/48 [00:01<00:01, 15.73it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  58%|█████▊    | 28/48 [00:01<00:01, 15.97it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  62%|██████▎   | 30/48 [00:01<00:01, 15.79it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  67%|██████▋   | 32/48 [00:02<00:00, 16.57it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  71%|███████   | 34/48 [00:02<00:00, 16.81it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  75%|███████▌  | 36/48 [00:02<00:00, 16.42it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  79%|███████▉  | 38/48 [00:02<00:00, 15.84it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  83%|████████▎ | 40/48 [00:02<00:00, 16.08it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  88%|████████▊ | 42/48 [00:02<00:00, 16.36it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  92%|█████████▏| 44/48 [00:02<00:00, 15.84it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.:  96%|█████████▌| 46/48 [00:02<00:00, 15.31it/s]Animation 33: FadeIn(VGroup of 2 submobjects), etc.: 100%|██████████| 48/48 [00:03<00:00, 12.49it/s]                                                                                                    [03/13/26 19:02:13] INFO     Animation 33 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1565275517_                         
+                             2936400975.mp4'                                    
+Animation 34: Create(Circle), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 34: Create(Circle), etc.:  10%|█         | 5/48 [00:00<00:00, 48.57it/s]Animation 34: Create(Circle), etc.:  21%|██        | 10/48 [00:00<00:00, 42.54it/s]Animation 34: Create(Circle), etc.:  31%|███▏      | 15/48 [00:00<00:00, 39.56it/s]Animation 34: Create(Circle), etc.:  42%|████▏     | 20/48 [00:00<00:00, 29.50it/s]Animation 34: Create(Circle), etc.:  50%|█████     | 24/48 [00:00<00:00, 29.82it/s]Animation 34: Create(Circle), etc.:  58%|█████▊    | 28/48 [00:00<00:00, 29.77it/s]Animation 34: Create(Circle), etc.:  67%|██████▋   | 32/48 [00:00<00:00, 30.12it/s]Animation 34: Create(Circle), etc.:  75%|███████▌  | 36/48 [00:01<00:00, 28.25it/s]Animation 34: Create(Circle), etc.:  81%|████████▏ | 39/48 [00:01<00:00, 28.27it/s]Animation 34: Create(Circle), etc.:  88%|████████▊ | 42/48 [00:01<00:00, 23.50it/s]Animation 34: Create(Circle), etc.:  94%|█████████▍| 45/48 [00:01<00:00, 21.56it/s]Animation 34: Create(Circle), etc.: 100%|██████████| 48/48 [00:01<00:00, 20.84it/s]                                                                                   [03/13/26 19:02:19] INFO     Animation 34 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_2493986840_                         
+                             3112690646.mp4'                                    
+Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  11%|█         | 4/36 [00:00<00:01, 27.15it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  19%|█▉        | 7/36 [00:00<00:01, 24.86it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  28%|██▊       | 10/36 [00:00<00:01, 23.00it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  36%|███▌      | 13/36 [00:00<00:01, 22.60it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  44%|████▍     | 16/36 [00:00<00:00, 22.47it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  53%|█████▎    | 19/36 [00:00<00:00, 22.24it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  61%|██████    | 22/36 [00:00<00:00, 22.46it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  69%|██████▉   | 25/36 [00:01<00:00, 22.34it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  78%|███████▊  | 28/36 [00:01<00:00, 22.71it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  86%|████████▌ | 31/36 [00:01<00:00, 22.43it/s]Animation 35: FadeIn(Text('物理量度同感知經常有系統性差異')):  94%|█████████▍| 34/36 [00:01<00:00, 22.61it/s]                                                                                                             [03/13/26 19:02:25] INFO     Animation 35 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_542980491_2                         
+                             530474418.mp4'                                     
+[03/13/26 19:03:45] INFO     Animation 36 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_3723647484_                         
+                             1229519411.mp4'                                    
+[03/13/26 19:03:48] INFO     Animation 37 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_807188262_3                         
+                             296076714.mp4'                                     
+Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:   7%|▋         | 2/30 [00:00<00:02,  9.58it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  10%|█         | 3/30 [00:00<00:03,  8.43it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  13%|█▎        | 4/30 [00:00<00:03,  8.17it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  17%|█▋        | 5/30 [00:00<00:03,  7.85it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  20%|██        | 6/30 [00:00<00:02,  8.01it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  23%|██▎       | 7/30 [00:00<00:02,  8.32it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  30%|███       | 9/30 [00:01<00:02,  8.89it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  37%|███▋      | 11/30 [00:01<00:02,  9.31it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  40%|████      | 12/30 [00:01<00:01,  9.23it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  47%|████▋     | 14/30 [00:01<00:01,  9.50it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  53%|█████▎    | 16/30 [00:01<00:01,  9.20it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  57%|█████▋    | 17/30 [00:01<00:01,  8.92it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  60%|██████    | 18/30 [00:02<00:01,  8.55it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  63%|██████▎   | 19/30 [00:02<00:01,  8.21it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  67%|██████▋   | 20/30 [00:02<00:01,  8.06it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  70%|███████   | 21/30 [00:02<00:01,  8.13it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  73%|███████▎  | 22/30 [00:02<00:01,  7.97it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  77%|███████▋  | 23/30 [00:02<00:01,  6.98it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  80%|████████  | 24/30 [00:02<00:00,  7.22it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  87%|████████▋ | 26/30 [00:03<00:00,  8.38it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  90%|█████████ | 27/30 [00:03<00:00,  8.61it/s]Animation 38: FadeOut(Text('感知存在於腦入面')), etc.:  97%|█████████▋| 29/30 [00:03<00:00,  9.12it/s]                                                                                                      [03/13/26 19:03:57] INFO     Animation 38 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_2753561837_                         
+                             881351105.mp4'                                     
+[03/13/26 19:04:09] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/zong-jie-                         
+                             yi-xia-jin-ri-xue-zuo-kai-                         
+                             ye-niu-dun-wu-3072460c.mp3                         
+                              to .wav                                           
+Animation 39: Write(Text('總結')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 39: Write(Text('總結')):  22%|██▏       | 8/36 [00:00<00:00, 63.57it/s]Animation 39: Write(Text('總結')):  42%|████▏     | 15/36 [00:00<00:00, 53.62it/s]Animation 39: Write(Text('總結')):  58%|█████▊    | 21/36 [00:00<00:00, 51.50it/s]Animation 39: Write(Text('總結')):  75%|███████▌  | 27/36 [00:00<00:00, 51.94it/s]Animation 39: Write(Text('總結')):  92%|█████████▏| 33/36 [00:00<00:00, 53.96it/s]                                                                                  [03/13/26 19:04:12] INFO     Animation 39 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1810312960_                         
+                             3351353890.mp4'                                    
+Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):  10%|█         | 3/30 [00:00<00:01, 17.96it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):  17%|█▋        | 5/30 [00:00<00:01, 17.79it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):  23%|██▎       | 7/30 [00:00<00:01, 17.88it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):  30%|███       | 9/30 [00:00<00:01, 18.47it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):  40%|████      | 12/30 [00:00<00:00, 21.18it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):  50%|█████     | 15/30 [00:00<00:00, 21.43it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):  60%|██████    | 18/30 [00:00<00:00, 21.88it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):  70%|███████   | 21/30 [00:01<00:00, 22.69it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):  80%|████████  | 24/30 [00:01<00:00, 23.75it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')):  90%|█████████ | 27/30 [00:01<00:00, 23.53it/s]Animation 40: FadeIn(Text('•  牛頓物理描述客觀現實，可量度')): 100%|██████████| 30/30 [00:01<00:00, 23.79it/s]                                                                                                              [03/13/26 19:04:16] INFO     Animation 40 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_2923045813_                         
+                             946676274.mp4'                                     
+Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')):  10%|█         | 3/30 [00:00<00:00, 29.33it/s]Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')):  20%|██        | 6/30 [00:00<00:00, 26.19it/s]Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')):  30%|███       | 9/30 [00:00<00:00, 25.05it/s]Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')):  40%|████      | 12/30 [00:00<00:00, 24.73it/s]Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')):  50%|█████     | 15/30 [00:00<00:00, 23.56it/s]Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')):  60%|██████    | 18/30 [00:00<00:00, 22.82it/s]Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')):  70%|███████   | 21/30 [00:00<00:00, 21.13it/s]Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')):  80%|████████  | 24/30 [00:01<00:00, 20.41it/s]Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')):  90%|█████████ | 27/30 [00:01<00:00, 19.95it/s]Animation 41: FadeIn(Text('•  動物冇儀器，只能接收刺激')): 100%|██████████| 30/30 [00:01<00:00, 19.76it/s]                                                                                                          [03/13/26 19:04:21] INFO     Animation 41 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_3246049157_                         
+                             1592835905.mp4'                                    
+Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')):  10%|█         | 3/30 [00:00<00:01, 22.77it/s]Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')):  20%|██        | 6/30 [00:00<00:00, 24.93it/s]Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')):  30%|███       | 9/30 [00:00<00:00, 25.59it/s]Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')):  40%|████      | 12/30 [00:00<00:00, 25.91it/s]Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')):  50%|█████     | 15/30 [00:00<00:00, 23.76it/s]Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')):  60%|██████    | 18/30 [00:00<00:00, 23.55it/s]Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')):  70%|███████   | 21/30 [00:00<00:00, 24.08it/s]Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')):  80%|████████  | 24/30 [00:00<00:00, 25.41it/s]Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')):  90%|█████████ | 27/30 [00:01<00:00, 26.40it/s]Animation 42: FadeIn(Text('•  逆問題：同一刺激可來自唔同來源')): 100%|██████████| 30/30 [00:01<00:00, 25.84it/s]                                                                                                                [03/13/26 19:04:25] INFO     Animation 42 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1139840454_                         
+                             3390854583.mp4'                                    
+Animation 43: FadeIn(Text('•  感知存在於腦入面，係建構出嚟嘅')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 43: FadeIn(Text('•  感知存在於腦入面，係建構出嚟嘅')):   7%|▋         | 2/30 [00:00<00:01, 15.43it/s]Animation 43: FadeIn(Text('•  感知存在於腦入面，係建構出嚟嘅')):  13%|█▎        | 4/30 [00:00<00:01, 17.20it/s]Animation 43: FadeIn(Text('•  感知存在於腦入面，係建構出嚟嘅')):  20%|██        | 6/30 [00:00<00:01, 17.43it/s]Animation 43: FadeIn(Text('•  感知存在於腦入面，係建構出嚟嘅')):  33%|███▎      | 10/30 [00:00<00:00, 23.72it/s]Animation 43: FadeIn(Text('•  感知存在於腦入面，係建構出嚟嘅')):  47%|████▋     | 14/30 [00:00<00:00, 27.43it/s]Animation 43: FadeIn(Text('•  感知存在於腦入面，係建構出嚟嘅')):  60%|██████    | 18/30 [00:00<00:00, 28.44it/s]Animation 43: FadeIn(Text('•  感知存在於腦入面，係建構出嚟嘅')):  70%|███████   | 21/30 [00:00<00:00, 28.44it/s]Animation 43: FadeIn(Text('•  感知存在於腦入面，係建構出嚟嘅')):  80%|████████  | 24/30 [00:00<00:00, 28.17it/s]Animation 43: FadeIn(Text('•  感知存在於腦入面，係建構出嚟嘅')):  90%|█████████ | 27/30 [00:01<00:00, 27.73it/s]                                                                                                                [03/13/26 19:04:29] INFO     Animation 43 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1282840927_                         
+                             3159933720.mp4'                                    
+Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')):  10%|█         | 3/30 [00:00<00:00, 28.73it/s]Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')):  20%|██        | 6/30 [00:00<00:00, 26.07it/s]Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')):  30%|███       | 9/30 [00:00<00:00, 27.68it/s]Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')):  40%|████      | 12/30 [00:00<00:00, 27.15it/s]Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')):  50%|█████     | 15/30 [00:00<00:00, 27.22it/s]Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')):  60%|██████    | 18/30 [00:00<00:00, 27.72it/s]Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')):  70%|███████   | 21/30 [00:00<00:00, 26.17it/s]Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')):  80%|████████  | 24/30 [00:00<00:00, 27.06it/s]Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')):  90%|█████████ | 27/30 [00:01<00:00, 25.97it/s]Animation 44: FadeIn(Text('•  物理量度同感知有系統性差異')): 100%|██████████| 30/30 [00:01<00:00, 24.88it/s]                                                                                                            [03/13/26 19:04:34] INFO     Animation 44 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_3748925931_                         
+                             2611670031.mp4'                                    
+[03/13/26 19:05:50] INFO     Animation 45 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_3424701455_                         
+                             3670807232.mp4'                                    
+[03/13/26 19:05:55] INFO     Animation 46 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_3201849554_                         
+                             2882449613.mp4'                                    
+Animation 47: FadeOut(Text('總結')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 47: FadeOut(Text('總結')), etc.:   3%|▎         | 1/30 [00:00<00:03,  7.87it/s]Animation 47: FadeOut(Text('總結')), etc.:   7%|▋         | 2/30 [00:00<00:03,  7.89it/s]Animation 47: FadeOut(Text('總結')), etc.:  10%|█         | 3/30 [00:00<00:03,  7.40it/s]Animation 47: FadeOut(Text('總結')), etc.:  13%|█▎        | 4/30 [00:00<00:03,  7.09it/s]Animation 47: FadeOut(Text('總結')), etc.:  17%|█▋        | 5/30 [00:00<00:03,  7.02it/s]Animation 47: FadeOut(Text('總結')), etc.:  20%|██        | 6/30 [00:00<00:03,  6.65it/s]Animation 47: FadeOut(Text('總結')), etc.:  23%|██▎       | 7/30 [00:01<00:03,  6.14it/s]Animation 47: FadeOut(Text('總結')), etc.:  27%|██▋       | 8/30 [00:01<00:03,  6.29it/s]Animation 47: FadeOut(Text('總結')), etc.:  30%|███       | 9/30 [00:01<00:03,  6.31it/s]Animation 47: FadeOut(Text('總結')), etc.:  33%|███▎      | 10/30 [00:01<00:03,  6.60it/s]Animation 47: FadeOut(Text('總結')), etc.:  37%|███▋      | 11/30 [00:01<00:02,  6.46it/s]Animation 47: FadeOut(Text('總結')), etc.:  40%|████      | 12/30 [00:01<00:02,  6.72it/s]Animation 47: FadeOut(Text('總結')), etc.:  43%|████▎     | 13/30 [00:01<00:02,  6.93it/s]Animation 47: FadeOut(Text('總結')), etc.:  47%|████▋     | 14/30 [00:02<00:02,  7.22it/s]Animation 47: FadeOut(Text('總結')), etc.:  50%|█████     | 15/30 [00:02<00:02,  7.37it/s]Animation 47: FadeOut(Text('總結')), etc.:  53%|█████▎    | 16/30 [00:02<00:01,  7.70it/s]Animation 47: FadeOut(Text('總結')), etc.:  57%|█████▋    | 17/30 [00:02<00:01,  7.71it/s]Animation 47: FadeOut(Text('總結')), etc.:  60%|██████    | 18/30 [00:02<00:01,  7.82it/s]Animation 47: FadeOut(Text('總結')), etc.:  63%|██████▎   | 19/30 [00:02<00:01,  7.83it/s]Animation 47: FadeOut(Text('總結')), etc.:  67%|██████▋   | 20/30 [00:02<00:01,  8.18it/s]Animation 47: FadeOut(Text('總結')), etc.:  70%|███████   | 21/30 [00:02<00:01,  8.11it/s]Animation 47: FadeOut(Text('總結')), etc.:  73%|███████▎  | 22/30 [00:03<00:00,  8.40it/s]Animation 47: FadeOut(Text('總結')), etc.:  77%|███████▋  | 23/30 [00:03<00:00,  8.17it/s]Animation 47: FadeOut(Text('總結')), etc.:  80%|████████  | 24/30 [00:03<00:00,  8.24it/s]Animation 47: FadeOut(Text('總結')), etc.:  83%|████████▎ | 25/30 [00:03<00:00,  8.16it/s]Animation 47: FadeOut(Text('總結')), etc.:  87%|████████▋ | 26/30 [00:03<00:00,  8.06it/s]Animation 47: FadeOut(Text('總結')), etc.:  90%|█████████ | 27/30 [00:03<00:00,  8.16it/s]Animation 47: FadeOut(Text('總結')), etc.:  93%|█████████▎| 28/30 [00:03<00:00,  8.25it/s]Animation 47: FadeOut(Text('總結')), etc.:  97%|█████████▋| 29/30 [00:03<00:00,  8.37it/s]Animation 47: FadeOut(Text('總結')), etc.: 100%|██████████| 30/30 [00:03<00:00,  8.51it/s]                                                                                          [03/13/26 19:06:04] INFO     Animation 47 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_4092377598_                         
+                             3913507528.mp4'                                    
+[03/13/26 19:06:08] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/duo-xie-s                         
+                             hou-di-xia-yi-ke-wo-di-hui                         
+                             -jiang-yan-suan-ea6b63b2.m                         
+                             p3 to .wav                                         
+Animation 48: Write(Text('多謝收睇！')):   0%|          | 0/60 [00:00<?, ?it/s]Animation 48: Write(Text('多謝收睇！')):  13%|█▎        | 8/60 [00:00<00:00, 78.35it/s]Animation 48: Write(Text('多謝收睇！')):  27%|██▋       | 16/60 [00:00<00:00, 66.42it/s]Animation 48: Write(Text('多謝收睇！')):  38%|███▊      | 23/60 [00:00<00:00, 61.82it/s]Animation 48: Write(Text('多謝收睇！')):  50%|█████     | 30/60 [00:00<00:00, 55.02it/s]Animation 48: Write(Text('多謝收睇！')):  60%|██████    | 36/60 [00:00<00:00, 51.58it/s]Animation 48: Write(Text('多謝收睇！')):  70%|███████   | 42/60 [00:00<00:00, 49.55it/s]Animation 48: Write(Text('多謝收睇！')):  80%|████████  | 48/60 [00:00<00:00, 47.53it/s]Animation 48: Write(Text('多謝收睇！')):  90%|█████████ | 54/60 [00:01<00:00, 48.93it/s]Animation 48: Write(Text('多謝收睇！')):  98%|█████████▊| 59/60 [00:01<00:00, 48.34it/s]                                                                                        [03/13/26 19:06:12] INFO     Animation 48 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_566641700_3                         
+                             351353890.mp4'                                     
+[03/13/26 19:06:41] INFO     Animation 49 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1363439518_                         
+                             768790109.mp4'                                     
+[03/13/26 19:06:46] INFO     Animation 50 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_1839128356_                         
+                             172506406.mp4'                                     
+Animation 51: FadeOut(Text('多謝收睇！')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 51: FadeOut(Text('多謝收睇！')):  12%|█▎        | 6/48 [00:00<00:00, 52.78it/s]Animation 51: FadeOut(Text('多謝收睇！')):  25%|██▌       | 12/48 [00:00<00:00, 52.98it/s]Animation 51: FadeOut(Text('多謝收睇！')):  38%|███▊      | 18/48 [00:00<00:00, 55.03it/s]Animation 51: FadeOut(Text('多謝收睇！')):  50%|█████     | 24/48 [00:00<00:00, 55.30it/s]Animation 51: FadeOut(Text('多謝收睇！')):  62%|██████▎   | 30/48 [00:00<00:00, 53.18it/s]Animation 51: FadeOut(Text('多謝收睇！')):  75%|███████▌  | 36/48 [00:00<00:00, 53.59it/s]Animation 51: FadeOut(Text('多謝收睇！')):  88%|████████▊ | 42/48 [00:00<00:00, 52.14it/s]Animation 51: FadeOut(Text('多謝收睇！')): 100%|██████████| 48/48 [00:00<00:00, 49.49it/s]                                                                                          [03/13/26 19:06:50] INFO     Animation 51 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/ObjectiveSubjectiveReal                         
+                             ity/2135761390_2188973919_                         
+                             3167764975.mp4'                                    
+                    INFO     Combining to Movie file.   scene_file_writer.py:753
+[03/13/26 19:07:01] WARNING  Some options were not      scene_file_writer.py:819
+                             used: {'shortest': '1',                            
+                             'metadata':                                        
+                             'comment=Rendered with                             
+                             Manim Community v0.20.1'}                          
+                    INFO                                scene_file_writer.py:904
+                             File ready at                                      
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             2/video/media/videos/scene                         
+                             /1080p60/ObjectiveSubjecti                         
+                             veReality.mp4'                                     
+                                                                                
+                    INFO     Subcaption file has been   scene_file_writer.py:899
+                             written as                                         
+                             /home/peter/workspace/why-                         
+                             brains-dont-compute/lesson                         
+                                                                                
+                             2/video/media/videos/scene                         
+                             /1080p60/ObjectiveSubjecti                         
+                             veReality.srt                                      
+                    INFO     Rendered ObjectiveSubjectiveReality    scene.py:278
+                             Played 52 animations                               

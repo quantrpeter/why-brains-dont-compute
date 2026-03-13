@@ -1,0 +1,514 @@
+/home/peter/.pyenv/versions/3.13.5/lib/python3.13/site-packages/manim_voiceover/__init__.py:4: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Manim Community v0.20.1
+
+[03/13/26 19:18:18] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/da-jia-ha                         
+                             o-huan-ying-li-dao-di-shi-                         
+                             san-ke-jin-ri-7c91cbcb.mp3                         
+                              to .wav                                           
+Animation 0: Write(Text('顏色')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 0: Write(Text('顏色')):   7%|▋         | 6/90 [00:00<00:01, 57.37it/s]Animation 0: Write(Text('顏色')):  14%|█▍        | 13/90 [00:00<00:01, 63.76it/s]Animation 0: Write(Text('顏色')):  23%|██▎       | 21/90 [00:00<00:00, 70.37it/s]Animation 0: Write(Text('顏色')):  32%|███▏      | 29/90 [00:00<00:00, 66.98it/s]Animation 0: Write(Text('顏色')):  40%|████      | 36/90 [00:00<00:00, 63.44it/s]Animation 0: Write(Text('顏色')):  48%|████▊     | 43/90 [00:00<00:00, 62.30it/s]Animation 0: Write(Text('顏色')):  56%|█████▌    | 50/90 [00:00<00:00, 61.61it/s]Animation 0: Write(Text('顏色')):  63%|██████▎   | 57/90 [00:00<00:00, 60.89it/s]Animation 0: Write(Text('顏色')):  71%|███████   | 64/90 [00:01<00:00, 61.38it/s]Animation 0: Write(Text('顏色')):  79%|███████▉  | 71/90 [00:01<00:00, 61.88it/s]Animation 0: Write(Text('顏色')):  87%|████████▋ | 78/90 [00:01<00:00, 61.21it/s]Animation 0: Write(Text('顏色')):  94%|█████████▍| 85/90 [00:01<00:00, 49.64it/s]                                                                                 [03/13/26 19:18:24] INFO     Animation 0 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2257293                         
+                             077_2049956656_3351353890.                         
+                             mp4'                                               
+Animation 1: FadeIn(Text('Color')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 1: FadeIn(Text('Color')):  17%|█▋        | 8/48 [00:00<00:00, 73.90it/s]Animation 1: FadeIn(Text('Color')):  35%|███▌      | 17/48 [00:00<00:00, 81.01it/s]Animation 1: FadeIn(Text('Color')):  54%|█████▍    | 26/48 [00:00<00:00, 79.11it/s]Animation 1: FadeIn(Text('Color')):  71%|███████   | 34/48 [00:00<00:00, 78.00it/s]Animation 1: FadeIn(Text('Color')):  90%|████████▉ | 43/48 [00:00<00:00, 80.37it/s]                                                                                   [03/13/26 19:18:27] INFO     Animation 1 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_1763733468_2278489081.                         
+                             mp4'                                               
+Animation 2: FadeIn(Text('第十三課')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 2: FadeIn(Text('第十三課')):  15%|█▍        | 7/48 [00:00<00:00, 65.81it/s]Animation 2: FadeIn(Text('第十三課')):  29%|██▉       | 14/48 [00:00<00:00, 67.21it/s]Animation 2: FadeIn(Text('第十三課')):  44%|████▍     | 21/48 [00:00<00:00, 64.63it/s]Animation 2: FadeIn(Text('第十三課')):  60%|██████    | 29/48 [00:00<00:00, 68.41it/s]Animation 2: FadeIn(Text('第十三課')):  77%|███████▋  | 37/48 [00:00<00:00, 68.47it/s]Animation 2: FadeIn(Text('第十三課')):  92%|█████████▏| 44/48 [00:00<00:00, 68.65it/s]                                                                                      [03/13/26 19:18:30] INFO     Animation 2 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_3841319280_1246116562.                         
+                             mp4'                                               
+Animation 3: FadeIn(Text('制片人：Peter')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 3: FadeIn(Text('制片人：Peter')):  23%|██▎       | 7/30 [00:00<00:00, 69.00it/s]Animation 3: FadeIn(Text('制片人：Peter')):  50%|█████     | 15/30 [00:00<00:00, 71.08it/s]Animation 3: FadeIn(Text('制片人：Peter')):  77%|███████▋  | 23/30 [00:00<00:00, 68.51it/s]Animation 3: FadeIn(Text('制片人：Peter')): 100%|██████████| 30/30 [00:00<00:00, 68.30it/s]                                                                                           [03/13/26 19:18:32] INFO     Animation 3 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_1007975236_1072708886.                         
+                             mp4'                                               
+[03/13/26 19:19:09] INFO     Animation 4 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_239452969_123638527.mp                         
+                             4'                                                 
+[03/13/26 19:19:11] INFO     Animation 5 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_807188262_1208318881.m                         
+                             p4'                                                
+Animation 6: FadeOut(Text('顏色')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 6: FadeOut(Text('顏色')), etc.:  10%|█         | 3/30 [00:00<00:00, 29.96it/s]Animation 6: FadeOut(Text('顏色')), etc.:  20%|██        | 6/30 [00:00<00:00, 29.79it/s]Animation 6: FadeOut(Text('顏色')), etc.:  30%|███       | 9/30 [00:00<00:00, 28.00it/s]Animation 6: FadeOut(Text('顏色')), etc.:  40%|████      | 12/30 [00:00<00:00, 28.53it/s]Animation 6: FadeOut(Text('顏色')), etc.:  53%|█████▎    | 16/30 [00:00<00:00, 29.07it/s]Animation 6: FadeOut(Text('顏色')), etc.:  67%|██████▋   | 20/30 [00:00<00:00, 29.69it/s]Animation 6: FadeOut(Text('顏色')), etc.:  77%|███████▋  | 23/30 [00:00<00:00, 29.10it/s]Animation 6: FadeOut(Text('顏色')), etc.:  87%|████████▋ | 26/30 [00:00<00:00, 28.88it/s]Animation 6: FadeOut(Text('顏色')), etc.: 100%|██████████| 30/30 [00:01<00:00, 29.32it/s]                                                                                         [03/13/26 19:19:14] INFO     Animation 6 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_1133122663_3148672565.                         
+                             mp4'                                               
+[03/13/26 19:19:20] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/se-kong-j                         
+                             ian-you-san-ge-wei-du-se-x                         
+                             iang-bao-he-du-6f2e3f42.mp                         
+                             3 to .wav                                          
+Animation 7: Write(Text('色空間')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 7: Write(Text('色空間')):  19%|█▉        | 7/36 [00:00<00:00, 61.29it/s]Animation 7: Write(Text('色空間')):  39%|███▉      | 14/36 [00:00<00:00, 62.74it/s]Animation 7: Write(Text('色空間')):  58%|█████▊    | 21/36 [00:00<00:00, 61.80it/s]Animation 7: Write(Text('色空間')):  78%|███████▊  | 28/36 [00:00<00:00, 59.18it/s]Animation 7: Write(Text('色空間')): 100%|██████████| 36/36 [00:00<00:00, 63.62it/s]                                                                                   [03/13/26 19:19:23] INFO     Animation 7 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_1809791427_3351353890.                         
+                             mp4'                                               
+Animation 8: FadeIn(Text('•  色相（hue）— 紅、橙、黃、綠、藍、紫')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 8: FadeIn(Text('•  色相（hue）— 紅、橙、黃、綠、藍、紫')):  13%|█▎        | 4/30 [00:00<00:00, 29.72it/s]Animation 8: FadeIn(Text('•  色相（hue）— 紅、橙、黃、綠、藍、紫')):  23%|██▎       | 7/30 [00:00<00:00, 28.20it/s]Animation 8: FadeIn(Text('•  色相（hue）— 紅、橙、黃、綠、藍、紫')):  37%|███▋      | 11/30 [00:00<00:00, 31.32it/s]Animation 8: FadeIn(Text('•  色相（hue）— 紅、橙、黃、綠、藍、紫')):  50%|█████     | 15/30 [00:00<00:00, 32.16it/s]Animation 8: FadeIn(Text('•  色相（hue）— 紅、橙、黃、綠、藍、紫')):  63%|██████▎   | 19/30 [00:00<00:00, 33.31it/s]Animation 8: FadeIn(Text('•  色相（hue）— 紅、橙、黃、綠、藍、紫')):  77%|███████▋  | 23/30 [00:00<00:00, 33.39it/s]Animation 8: FadeIn(Text('•  色相（hue）— 紅、橙、黃、綠、藍、紫')):  90%|█████████ | 27/30 [00:00<00:00, 32.20it/s]                                                                                                                    [03/13/26 19:19:26] INFO     Animation 8 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_3149972102_2447703128.                         
+                             mp4'                                               
+Animation 9: FadeIn(Text('•  飽和度（saturation）— 顏色純度')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 9: FadeIn(Text('•  飽和度（saturation）— 顏色純度')):  13%|█▎        | 4/30 [00:00<00:00, 29.97it/s]Animation 9: FadeIn(Text('•  飽和度（saturation）— 顏色純度')):  23%|██▎       | 7/30 [00:00<00:00, 29.03it/s]Animation 9: FadeIn(Text('•  飽和度（saturation）— 顏色純度')):  37%|███▋      | 11/30 [00:00<00:00, 30.13it/s]Animation 9: FadeIn(Text('•  飽和度（saturation）— 顏色純度')):  50%|█████     | 15/30 [00:00<00:00, 32.18it/s]Animation 9: FadeIn(Text('•  飽和度（saturation）— 顏色純度')):  63%|██████▎   | 19/30 [00:00<00:00, 32.92it/s]Animation 9: FadeIn(Text('•  飽和度（saturation）— 顏色純度')):  77%|███████▋  | 23/30 [00:00<00:00, 34.48it/s]Animation 9: FadeIn(Text('•  飽和度（saturation）— 顏色純度')):  90%|█████████ | 27/30 [00:00<00:00, 32.95it/s]                                                                                                               [03/13/26 19:19:29] INFO     Animation 9 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2992146960_3536605988.                         
+                             mp4'                                               
+Animation 10: FadeIn(Text('•  明度（lightness）— 明暗')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 10: FadeIn(Text('•  明度（lightness）— 明暗')):  17%|█▋        | 5/30 [00:00<00:00, 39.52it/s]Animation 10: FadeIn(Text('•  明度（lightness）— 明暗')):  30%|███       | 9/30 [00:00<00:00, 37.79it/s]Animation 10: FadeIn(Text('•  明度（lightness）— 明暗')):  47%|████▋     | 14/30 [00:00<00:00, 40.59it/s]Animation 10: FadeIn(Text('•  明度（lightness）— 明暗')):  63%|██████▎   | 19/30 [00:00<00:00, 39.79it/s]Animation 10: FadeIn(Text('•  明度（lightness）— 明暗')):  77%|███████▋  | 23/30 [00:00<00:00, 39.12it/s]Animation 10: FadeIn(Text('•  明度（lightness）— 明暗')):  90%|█████████ | 27/30 [00:00<00:00, 38.48it/s]                                                                                                         [03/13/26 19:19:32] INFO     Animation 10 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2572918411_1427485519.                         
+                             mp4'                                               
+Animation 11: FadeIn(Text('•  四種獨特色：紅、綠、黃、藍')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 11: FadeIn(Text('•  四種獨特色：紅、綠、黃、藍')):  17%|█▋        | 5/30 [00:00<00:00, 39.34it/s]Animation 11: FadeIn(Text('•  四種獨特色：紅、綠、黃、藍')):  30%|███       | 9/30 [00:00<00:00, 37.23it/s]Animation 11: FadeIn(Text('•  四種獨特色：紅、綠、黃、藍')):  47%|████▋     | 14/30 [00:00<00:00, 40.95it/s]Animation 11: FadeIn(Text('•  四種獨特色：紅、綠、黃、藍')):  63%|██████▎   | 19/30 [00:00<00:00, 41.79it/s]Animation 11: FadeIn(Text('•  四種獨特色：紅、綠、黃、藍')):  80%|████████  | 24/30 [00:00<00:00, 41.27it/s]Animation 11: FadeIn(Text('•  四種獨特色：紅、綠、黃、藍')):  97%|█████████▋| 29/30 [00:00<00:00, 43.23it/s]                                                                                                            [03/13/26 19:19:35] INFO     Animation 11 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_907898187_1328298934.m                         
+                             p4'                                                
+[03/13/26 19:20:24] INFO     Animation 12 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2309549239_4030849035.                         
+                             mp4'                                               
+[03/13/26 19:20:26] INFO     Animation 13 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_807188262_876143089.mp                         
+                             4'                                                 
+Animation 14: FadeOut(Text('色空間')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 14: FadeOut(Text('色空間')), etc.:   7%|▋         | 2/30 [00:00<00:01, 14.90it/s]Animation 14: FadeOut(Text('色空間')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 12.11it/s]Animation 14: FadeOut(Text('色空間')), etc.:  20%|██        | 6/30 [00:00<00:02, 11.67it/s]Animation 14: FadeOut(Text('色空間')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 12.61it/s]Animation 14: FadeOut(Text('色空間')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 13.67it/s]Animation 14: FadeOut(Text('色空間')), etc.:  40%|████      | 12/30 [00:00<00:01, 14.59it/s]Animation 14: FadeOut(Text('色空間')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 14.71it/s]Animation 14: FadeOut(Text('色空間')), etc.:  53%|█████▎    | 16/30 [00:01<00:00, 14.41it/s]Animation 14: FadeOut(Text('色空間')), etc.:  60%|██████    | 18/30 [00:01<00:00, 14.61it/s]Animation 14: FadeOut(Text('色空間')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 13.99it/s]Animation 14: FadeOut(Text('色空間')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 13.03it/s]Animation 14: FadeOut(Text('色空間')), etc.:  80%|████████  | 24/30 [00:01<00:00, 13.17it/s]Animation 14: FadeOut(Text('色空間')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 13.85it/s]Animation 14: FadeOut(Text('色空間')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 13.89it/s]Animation 14: FadeOut(Text('色空間')), etc.: 100%|██████████| 30/30 [00:02<00:00, 14.30it/s]                                                                                            [03/13/26 19:20:32] INFO     Animation 14 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_331998902_4235638604.m                         
+                             p4'                                                
+[03/13/26 19:20:35] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/yan-se-he                         
+                             ng-chang-xing-biao-mian-xi                         
+                             -wu-tong-zhao-6e5bb127.mp3                         
+                              to .wav                                           
+Animation 15: Write(Text('顏色恆常性')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 15: Write(Text('顏色恆常性')):  31%|███       | 11/36 [00:00<00:00, 101.84it/s]Animation 15: Write(Text('顏色恆常性')):  61%|██████    | 22/36 [00:00<00:00, 92.67it/s] Animation 15: Write(Text('顏色恆常性')):  89%|████████▉ | 32/36 [00:00<00:00, 85.12it/s]                                                                                        [03/13/26 19:20:37] INFO     Animation 15 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2729375850_3351353890.                         
+                             mp4'                                               
+Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):  10%|█         | 5/48 [00:00<00:00, 44.07it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):  21%|██        | 10/48 [00:00<00:00, 43.32it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):  31%|███▏      | 15/48 [00:00<00:00, 41.84it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):  42%|████▏     | 20/48 [00:00<00:00, 42.09it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):  52%|█████▏    | 25/48 [00:00<00:00, 42.41it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):  62%|██████▎   | 30/48 [00:00<00:00, 38.08it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):  71%|███████   | 34/48 [00:00<00:00, 35.39it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):  79%|███████▉  | 38/48 [00:01<00:00, 31.06it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):  88%|████████▊ | 42/48 [00:01<00:00, 28.80it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')):  94%|█████████▍| 45/48 [00:01<00:00, 26.65it/s]Animation 16: FadeIn(Text('表面喺唔同照明下保持表觀顏色')): 100%|██████████| 48/48 [00:01<00:00, 24.76it/s]                                                                                                           [03/13/26 19:20:41] INFO     Animation 16 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2564789317_2219186528.                         
+                             mp4'                                               
+Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):   6%|▋         | 3/48 [00:00<00:01, 25.31it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  12%|█▎        | 6/48 [00:00<00:01, 24.55it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  19%|█▉        | 9/48 [00:00<00:01, 23.60it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  27%|██▋       | 13/48 [00:00<00:01, 27.91it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  35%|███▌      | 17/48 [00:00<00:01, 29.95it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  44%|████▍     | 21/48 [00:00<00:00, 30.95it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  52%|█████▏    | 25/48 [00:00<00:00, 31.00it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  60%|██████    | 29/48 [00:00<00:00, 31.10it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  69%|██████▉   | 33/48 [00:01<00:00, 30.53it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  77%|███████▋  | 37/48 [00:01<00:00, 28.19it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  83%|████████▎ | 40/48 [00:01<00:00, 25.97it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  90%|████████▉ | 43/48 [00:01<00:00, 23.15it/s]Animation 17: FadeIn(Text('日光、燈光、陰影 — 表面反射嘅光譜唔同，但感知顏色一樣')):  96%|█████████▌| 46/48 [00:01<00:00, 22.18it/s]                                                                                                                                    [03/13/26 19:20:46] INFO     Animation 17 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_478887083_600590093.mp                         
+                             4'                                                 
+[03/13/26 19:21:16] INFO     Animation 18 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_183850706_1489882585.m                         
+                             p4'                                                
+[03/13/26 19:21:19] INFO     Animation 19 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_807188262_1582865644.m                         
+                             p4'                                                
+Animation 20: FadeOut(Text('顏色恆常性')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:   7%|▋         | 2/30 [00:00<00:01, 14.02it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 13.90it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  20%|██        | 6/30 [00:00<00:01, 13.95it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 13.57it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 13.52it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  40%|████      | 12/30 [00:00<00:01, 13.64it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 13.43it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 13.55it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  60%|██████    | 18/30 [00:01<00:00, 14.05it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 13.96it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 13.91it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  80%|████████  | 24/30 [00:01<00:00, 13.02it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 12.47it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 12.39it/s]Animation 20: FadeOut(Text('顏色恆常性')), etc.: 100%|██████████| 30/30 [00:02<00:00, 12.66it/s]                                                                                                [03/13/26 19:21:25] INFO     Animation 20 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_4279178655_2111643822.                         
+                             mp4'                                               
+[03/13/26 19:21:28] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/yan-se-du                         
+                             i-bi-xiang-tong-guang-pu-x                         
+                             i-wu-tong-bei-976a7fda.mp3                         
+                              to .wav                                           
+Animation 21: Write(Text('顏色對比')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 21: Write(Text('顏色對比')):  22%|██▏       | 8/36 [00:00<00:00, 65.82it/s]Animation 21: Write(Text('顏色對比')):  42%|████▏     | 15/36 [00:00<00:00, 64.75it/s]Animation 21: Write(Text('顏色對比')):  61%|██████    | 22/36 [00:00<00:00, 61.30it/s]Animation 21: Write(Text('顏色對比')):  81%|████████  | 29/36 [00:00<00:00, 59.98it/s]Animation 21: Write(Text('顏色對比')): 100%|██████████| 36/36 [00:00<00:00, 62.82it/s]                                                                                      [03/13/26 19:21:31] INFO     Animation 21 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2101974844_3351353890.                         
+                             mp4'                                               
+Animation 22: FadeIn(Text('相同光譜喺唔同背景睇落唔同色')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 22: FadeIn(Text('相同光譜喺唔同背景睇落唔同色')):  10%|█         | 5/48 [00:00<00:01, 41.99it/s]Animation 22: FadeIn(Text('相同光譜喺唔同背景睇落唔同色')):  21%|██        | 10/48 [00:00<00:00, 41.99it/s]Animation 22: FadeIn(Text('相同光譜喺唔同背景睇落唔同色')):  31%|███▏      | 15/48 [00:00<00:00, 42.85it/s]Animation 22: FadeIn(Text('相同光譜喺唔同背景睇落唔同色')):  42%|████▏     | 20/48 [00:00<00:00, 42.78it/s]Animation 22: FadeIn(Text('相同光譜喺唔同背景睇落唔同色')):  52%|█████▏    | 25/48 [00:00<00:00, 44.35it/s]Animation 22: FadeIn(Text('相同光譜喺唔同背景睇落唔同色')):  62%|██████▎   | 30/48 [00:00<00:00, 45.02it/s]Animation 22: FadeIn(Text('相同光譜喺唔同背景睇落唔同色')):  73%|███████▎  | 35/48 [00:00<00:00, 42.27it/s]Animation 22: FadeIn(Text('相同光譜喺唔同背景睇落唔同色')):  83%|████████▎ | 40/48 [00:00<00:00, 39.80it/s]Animation 22: FadeIn(Text('相同光譜喺唔同背景睇落唔同色')):  94%|█████████▍| 45/48 [00:01<00:00, 38.43it/s]                                                                                                           [03/13/26 19:21:34] INFO     Animation 22 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_1846329089_2248431118.                         
+                             mp4'                                               
+Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):   8%|▊         | 4/48 [00:00<00:01, 31.70it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  17%|█▋        | 8/48 [00:00<00:01, 29.97it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  25%|██▌       | 12/48 [00:00<00:01, 29.93it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  33%|███▎      | 16/48 [00:00<00:01, 30.29it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  42%|████▏     | 20/48 [00:00<00:00, 30.07it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  50%|█████     | 24/48 [00:00<00:00, 28.43it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  56%|█████▋    | 27/48 [00:00<00:00, 28.23it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  62%|██████▎   | 30/48 [00:01<00:00, 27.42it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  69%|██████▉   | 33/48 [00:01<00:00, 26.20it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  75%|███████▌  | 36/48 [00:01<00:00, 25.82it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  81%|████████▏ | 39/48 [00:01<00:00, 26.05it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  88%|████████▊ | 42/48 [00:01<00:00, 25.50it/s]Animation 23: FadeIn(Text('唔係適應造成 — 係即時嘅對比效應')):  94%|█████████▍| 45/48 [00:01<00:00, 25.61it/s]                                                                                                              [03/13/26 19:21:38] INFO     Animation 23 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_3340741477_440000086.m                         
+                             p4'                                                
+[03/13/26 19:21:57] INFO     Animation 24 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_3565345729_1943455790.                         
+                             mp4'                                               
+[03/13/26 19:21:59] INFO     Animation 25 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_807188262_1160883077.m                         
+                             p4'                                                
+Animation 26: FadeOut(Text('顏色對比')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:   7%|▋         | 2/30 [00:00<00:01, 14.90it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 14.55it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  20%|██        | 6/30 [00:00<00:01, 14.55it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 14.97it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 14.90it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  40%|████      | 12/30 [00:00<00:01, 15.38it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  47%|████▋     | 14/30 [00:00<00:01, 15.21it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  53%|█████▎    | 16/30 [00:01<00:00, 15.62it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  60%|██████    | 18/30 [00:01<00:00, 15.99it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 16.45it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 16.40it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  80%|████████  | 24/30 [00:01<00:00, 16.40it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 15.98it/s]Animation 26: FadeOut(Text('顏色對比')), etc.:  93%|█████████▎| 28/30 [00:01<00:00, 15.64it/s]Animation 26: FadeOut(Text('顏色對比')), etc.: 100%|██████████| 30/30 [00:01<00:00, 15.46it/s]                                                                                              [03/13/26 19:22:04] INFO     Animation 26 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_4292637186_134836426.m                         
+                             p4'                                                
+[03/13/26 19:22:08] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/jing-yan-                         
+                             zhu-yi-jie-shi-guang-pu-mo                         
+                             -shi-kai-fa-8e93d6b7.mp3                           
+                             to .wav                                            
+Animation 27: Write(Text('經驗主義解釋')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 27: Write(Text('經驗主義解釋')):  22%|██▏       | 8/36 [00:00<00:00, 73.15it/s]Animation 27: Write(Text('經驗主義解釋')):  44%|████▍     | 16/36 [00:00<00:00, 57.27it/s]Animation 27: Write(Text('經驗主義解釋')):  61%|██████    | 22/36 [00:00<00:00, 49.11it/s]Animation 27: Write(Text('經驗主義解釋')):  78%|███████▊  | 28/36 [00:00<00:00, 44.31it/s]Animation 27: Write(Text('經驗主義解釋')):  92%|█████████▏| 33/36 [00:00<00:00, 43.37it/s]                                                                                          [03/13/26 19:22:12] INFO     Animation 27 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_3054676738_3351353890.                         
+                             mp4'                                               
+Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):   8%|▊         | 4/48 [00:00<00:01, 36.24it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  17%|█▋        | 8/48 [00:00<00:01, 27.72it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  23%|██▎       | 11/48 [00:00<00:01, 25.76it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  29%|██▉       | 14/48 [00:00<00:01, 26.22it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  35%|███▌      | 17/48 [00:00<00:01, 25.25it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  42%|████▏     | 20/48 [00:00<00:01, 24.45it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  48%|████▊     | 23/48 [00:00<00:01, 23.66it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  54%|█████▍    | 26/48 [00:01<00:00, 22.86it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  60%|██████    | 29/48 [00:01<00:00, 21.89it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  67%|██████▋   | 32/48 [00:01<00:00, 21.79it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  73%|███████▎  | 35/48 [00:01<00:00, 21.97it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  79%|███████▉  | 38/48 [00:01<00:00, 21.32it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  85%|████████▌ | 41/48 [00:01<00:00, 20.98it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  92%|█████████▏| 44/48 [00:01<00:00, 21.09it/s]Animation 28: FadeIn(Text('光譜模式嘅發生頻率 → 預測對比同恆常性')):  98%|█████████▊| 47/48 [00:02<00:00, 20.47it/s]                                                                                                                    [03/13/26 19:22:17] INFO     Animation 28 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2145003113_2565537351.                         
+                             mp4'                                               
+Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):   4%|▍         | 2/48 [00:00<00:02, 17.98it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):   8%|▊         | 4/48 [00:00<00:02, 17.76it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  12%|█▎        | 6/48 [00:00<00:02, 17.89it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  17%|█▋        | 8/48 [00:00<00:02, 17.31it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  21%|██        | 10/48 [00:00<00:02, 16.33it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  25%|██▌       | 12/48 [00:00<00:02, 16.02it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  29%|██▉       | 14/48 [00:00<00:02, 16.22it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  33%|███▎      | 16/48 [00:00<00:01, 16.23it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  38%|███▊      | 18/48 [00:01<00:01, 16.26it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  42%|████▏     | 20/48 [00:01<00:01, 16.40it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  46%|████▌     | 22/48 [00:01<00:01, 16.63it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  50%|█████     | 24/48 [00:01<00:01, 16.84it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  54%|█████▍    | 26/48 [00:01<00:01, 17.06it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  58%|█████▊    | 28/48 [00:01<00:01, 16.55it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  62%|██████▎   | 30/48 [00:01<00:01, 16.47it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  67%|██████▋   | 32/48 [00:01<00:00, 16.17it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  71%|███████   | 34/48 [00:02<00:00, 16.65it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  75%|███████▌  | 36/48 [00:02<00:00, 16.48it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  79%|███████▉  | 38/48 [00:02<00:00, 15.94it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  83%|████████▎ | 40/48 [00:02<00:00, 16.11it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  88%|████████▊ | 42/48 [00:02<00:00, 15.62it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  92%|█████████▏| 44/48 [00:02<00:00, 15.09it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')):  96%|█████████▌| 46/48 [00:02<00:00, 14.49it/s]Animation 29: FadeIn(Text('自然場景嘅光譜統計 — 唔係物理屬性，係腦為生物優勢而建構')): 100%|██████████| 48/48 [00:03<00:00, 11.51it/s]                                                                                                                                      [03/13/26 19:22:24] INFO     Animation 29 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_492111459_1625200499.m                         
+                             p4'                                                
+[03/13/26 19:22:50] INFO     Animation 30 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_18925428_2809234587.mp                         
+                             4'                                                 
+[03/13/26 19:22:52] INFO     Animation 31 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_807188262_3054257507.m                         
+                             p4'                                                
+Animation 32: FadeOut(Text('經驗主義解釋')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:   7%|▋         | 2/30 [00:00<00:02, 10.69it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  13%|█▎        | 4/30 [00:00<00:02,  9.18it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  17%|█▋        | 5/30 [00:00<00:02,  9.35it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  23%|██▎       | 7/30 [00:00<00:02,  9.93it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  30%|███       | 9/30 [00:00<00:02, 10.06it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  37%|███▋      | 11/30 [00:01<00:01, 10.16it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  43%|████▎     | 13/30 [00:01<00:01, 10.24it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  50%|█████     | 15/30 [00:01<00:01,  9.79it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  57%|█████▋    | 17/30 [00:01<00:01,  9.97it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  63%|██████▎   | 19/30 [00:01<00:01, 10.05it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  70%|███████   | 21/30 [00:02<00:00, 10.17it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  77%|███████▋  | 23/30 [00:02<00:00, 10.56it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  83%|████████▎ | 25/30 [00:02<00:00, 10.35it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  90%|█████████ | 27/30 [00:02<00:00, 10.27it/s]Animation 32: FadeOut(Text('經驗主義解釋')), etc.:  97%|█████████▋| 29/30 [00:02<00:00, 10.35it/s]                                                                                                  [03/13/26 19:22:58] INFO     Animation 32 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_4187325057_3043765400.                         
+                             mp4'                                               
+[03/13/26 19:23:04] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/zong-jie-                         
+                             se-xiang-bao-he-du-ming-du                         
+                             -si-zhong-du-te-cf5d6f51.m                         
+                             p3 to .wav                                         
+Animation 33: Write(Text('總結')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 33: Write(Text('總結')):  25%|██▌       | 9/36 [00:00<00:00, 84.39it/s]Animation 33: Write(Text('總結')):  50%|█████     | 18/36 [00:00<00:00, 76.56it/s]Animation 33: Write(Text('總結')):  72%|███████▏  | 26/36 [00:00<00:00, 68.83it/s]Animation 33: Write(Text('總結')):  92%|█████████▏| 33/36 [00:00<00:00, 68.89it/s]                                                                                  [03/13/26 19:23:07] INFO     Animation 33 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_1810312960_3351353890.                         
+                             mp4'                                               
+Animation 34: FadeIn(Text('•  色相、飽和度、明度；四種獨特色')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 34: FadeIn(Text('•  色相、飽和度、明度；四種獨特色')):  17%|█▋        | 5/30 [00:00<00:00, 43.16it/s]Animation 34: FadeIn(Text('•  色相、飽和度、明度；四種獨特色')):  33%|███▎      | 10/30 [00:00<00:00, 43.55it/s]Animation 34: FadeIn(Text('•  色相、飽和度、明度；四種獨特色')):  50%|█████     | 15/30 [00:00<00:00, 44.64it/s]Animation 34: FadeIn(Text('•  色相、飽和度、明度；四種獨特色')):  70%|███████   | 21/30 [00:00<00:00, 46.68it/s]Animation 34: FadeIn(Text('•  色相、飽和度、明度；四種獨特色')):  87%|████████▋ | 26/30 [00:00<00:00, 45.41it/s]                                                                                                                [03/13/26 19:23:09] INFO     Animation 34 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_21260418_946676274.mp4                         
+                             '                                                  
+Animation 35: FadeIn(Text('•  顏色恆常性：照明變但感知唔變')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 35: FadeIn(Text('•  顏色恆常性：照明變但感知唔變')):  17%|█▋        | 5/30 [00:00<00:00, 45.22it/s]Animation 35: FadeIn(Text('•  顏色恆常性：照明變但感知唔變')):  33%|███▎      | 10/30 [00:00<00:00, 47.20it/s]Animation 35: FadeIn(Text('•  顏色恆常性：照明變但感知唔變')):  50%|█████     | 15/30 [00:00<00:00, 37.58it/s]Animation 35: FadeIn(Text('•  顏色恆常性：照明變但感知唔變')):  63%|██████▎   | 19/30 [00:00<00:00, 38.35it/s]Animation 35: FadeIn(Text('•  顏色恆常性：照明變但感知唔變')):  80%|████████  | 24/30 [00:00<00:00, 40.73it/s]Animation 35: FadeIn(Text('•  顏色恆常性：照明變但感知唔變')):  97%|█████████▋| 29/30 [00:00<00:00, 41.54it/s]                                                                                                              [03/13/26 19:23:11] INFO     Animation 35 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2512324580_3373362259.                         
+                             mp4'                                               
+Animation 36: FadeIn(Text('•  顏色對比：背景改變表觀顏色')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 36: FadeIn(Text('•  顏色對比：背景改變表觀顏色')):  17%|█▋        | 5/30 [00:00<00:00, 43.05it/s]Animation 36: FadeIn(Text('•  顏色對比：背景改變表觀顏色')):  33%|███▎      | 10/30 [00:00<00:00, 42.16it/s]Animation 36: FadeIn(Text('•  顏色對比：背景改變表觀顏色')):  50%|█████     | 15/30 [00:00<00:00, 42.06it/s]Animation 36: FadeIn(Text('•  顏色對比：背景改變表觀顏色')):  67%|██████▋   | 20/30 [00:00<00:00, 40.83it/s]Animation 36: FadeIn(Text('•  顏色對比：背景改變表觀顏色')):  83%|████████▎ | 25/30 [00:00<00:00, 42.73it/s]Animation 36: FadeIn(Text('•  顏色對比：背景改變表觀顏色')): 100%|██████████| 30/30 [00:00<00:00, 42.37it/s]                                                                                                            [03/13/26 19:23:14] INFO     Animation 36 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_3908486165_3515464009.                         
+                             mp4'                                               
+Animation 37: FadeIn(Text('•  光譜頻率預測對比同恆常性')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 37: FadeIn(Text('•  光譜頻率預測對比同恆常性')):  20%|██        | 6/30 [00:00<00:00, 50.68it/s]Animation 37: FadeIn(Text('•  光譜頻率預測對比同恆常性')):  40%|████      | 12/30 [00:00<00:00, 48.31it/s]Animation 37: FadeIn(Text('•  光譜頻率預測對比同恆常性')):  57%|█████▋    | 17/30 [00:00<00:00, 48.29it/s]Animation 37: FadeIn(Text('•  光譜頻率預測對比同恆常性')):  73%|███████▎  | 22/30 [00:00<00:00, 47.16it/s]Animation 37: FadeIn(Text('•  光譜頻率預測對比同恆常性')):  93%|█████████▎| 28/30 [00:00<00:00, 48.02it/s]                                                                                                          [03/13/26 19:23:17] INFO     Animation 37 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2537184712_2857398941.                         
+                             mp4'                                               
+[03/13/26 19:24:01] INFO     Animation 38 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2473822287_3406757594.                         
+                             mp4'                                               
+[03/13/26 19:24:03] INFO     Animation 39 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_3201849554_255896893.m                         
+                             p4'                                                
+Animation 40: FadeOut(Text('總結')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 40: FadeOut(Text('總結')), etc.:   7%|▋         | 2/30 [00:00<00:02, 10.44it/s]Animation 40: FadeOut(Text('總結')), etc.:  13%|█▎        | 4/30 [00:00<00:02,  9.67it/s]Animation 40: FadeOut(Text('總結')), etc.:  17%|█▋        | 5/30 [00:00<00:02,  9.52it/s]Animation 40: FadeOut(Text('總結')), etc.:  20%|██        | 6/30 [00:00<00:02,  9.49it/s]Animation 40: FadeOut(Text('總結')), etc.:  23%|██▎       | 7/30 [00:00<00:02,  9.35it/s]Animation 40: FadeOut(Text('總結')), etc.:  30%|███       | 9/30 [00:00<00:02, 10.28it/s]Animation 40: FadeOut(Text('總結')), etc.:  37%|███▋      | 11/30 [00:01<00:01, 10.85it/s]Animation 40: FadeOut(Text('總結')), etc.:  43%|████▎     | 13/30 [00:01<00:01, 10.72it/s]Animation 40: FadeOut(Text('總結')), etc.:  50%|█████     | 15/30 [00:01<00:01,  9.59it/s]Animation 40: FadeOut(Text('總結')), etc.:  57%|█████▋    | 17/30 [00:01<00:01,  9.61it/s]Animation 40: FadeOut(Text('總結')), etc.:  60%|██████    | 18/30 [00:01<00:01,  9.63it/s]Animation 40: FadeOut(Text('總結')), etc.:  67%|██████▋   | 20/30 [00:02<00:01,  9.95it/s]Animation 40: FadeOut(Text('總結')), etc.:  70%|███████   | 21/30 [00:02<00:00,  9.90it/s]Animation 40: FadeOut(Text('總結')), etc.:  73%|███████▎  | 22/30 [00:02<00:00,  9.70it/s]Animation 40: FadeOut(Text('總結')), etc.:  77%|███████▋  | 23/30 [00:02<00:00,  9.48it/s]Animation 40: FadeOut(Text('總結')), etc.:  80%|████████  | 24/30 [00:02<00:00,  9.21it/s]Animation 40: FadeOut(Text('總結')), etc.:  83%|████████▎ | 25/30 [00:02<00:00,  9.27it/s]Animation 40: FadeOut(Text('總結')), etc.:  90%|█████████ | 27/30 [00:02<00:00,  9.71it/s]Animation 40: FadeOut(Text('總結')), etc.:  97%|█████████▋| 29/30 [00:02<00:00, 10.39it/s]                                                                                          [03/13/26 19:24:10] INFO     Animation 40 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2203473142_3937090425.                         
+                             mp4'                                               
+[03/13/26 19:24:15] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/duo-xie-s                         
+                             hou-di-xia-yi-ke-wo-di-hui                         
+                             -jiang-yan-se-5a5cf5af.mp3                         
+                              to .wav                                           
+Animation 41: Write(Text('多謝收睇！')):   0%|          | 0/60 [00:00<?, ?it/s]Animation 41: Write(Text('多謝收睇！')):  15%|█▌        | 9/60 [00:00<00:00, 85.52it/s]Animation 41: Write(Text('多謝收睇！')):  30%|███       | 18/60 [00:00<00:00, 74.50it/s]Animation 41: Write(Text('多謝收睇！')):  43%|████▎     | 26/60 [00:00<00:00, 67.57it/s]Animation 41: Write(Text('多謝收睇！')):  55%|█████▌    | 33/60 [00:00<00:00, 57.30it/s]Animation 41: Write(Text('多謝收睇！')):  65%|██████▌   | 39/60 [00:00<00:00, 51.19it/s]Animation 41: Write(Text('多謝收睇！')):  75%|███████▌  | 45/60 [00:00<00:00, 47.96it/s]Animation 41: Write(Text('多謝收睇！')):  83%|████████▎ | 50/60 [00:00<00:00, 46.12it/s]Animation 41: Write(Text('多謝收睇！')):  92%|█████████▏| 55/60 [00:01<00:00, 45.31it/s]Animation 41: Write(Text('多謝收睇！')): 100%|██████████| 60/60 [00:01<00:00, 46.24it/s]                                                                                        [03/13/26 19:24:19] INFO     Animation 41 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_566641700_3351353890.m                         
+                             p4'                                                
+[03/13/26 19:24:49] INFO     Animation 42 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2365443729_768790109.m                         
+                             p4'                                                
+[03/13/26 19:24:53] INFO     Animation 43 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_1839128356_172506406.m                         
+                             p4'                                                
+Animation 44: FadeOut(Text('多謝收睇！')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 44: FadeOut(Text('多謝收睇！')):  15%|█▍        | 7/48 [00:00<00:00, 59.26it/s]Animation 44: FadeOut(Text('多謝收睇！')):  27%|██▋       | 13/48 [00:00<00:00, 57.74it/s]Animation 44: FadeOut(Text('多謝收睇！')):  42%|████▏     | 20/48 [00:00<00:00, 60.34it/s]Animation 44: FadeOut(Text('多謝收睇！')):  56%|█████▋    | 27/48 [00:00<00:00, 61.04it/s]Animation 44: FadeOut(Text('多謝收睇！')):  71%|███████   | 34/48 [00:00<00:00, 59.15it/s]Animation 44: FadeOut(Text('多謝收睇！')):  83%|████████▎ | 40/48 [00:00<00:00, 59.10it/s]Animation 44: FadeOut(Text('多謝收睇！')):  96%|█████████▌| 46/48 [00:00<00:00, 58.47it/s]                                                                                          [03/13/26 19:24:57] INFO     Animation 44 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ColorExplainer/2135761                         
+                             390_2188973919_3167764975.                         
+                             mp4'                                               
+                    INFO     Combining to Movie file.   scene_file_writer.py:753
+[03/13/26 19:25:06] WARNING  Some options were not      scene_file_writer.py:819
+                             used: {'shortest': '1',                            
+                             'metadata':                                        
+                             'comment=Rendered with                             
+                             Manim Community v0.20.1'}                          
+                    INFO                                scene_file_writer.py:904
+                             File ready at                                      
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             13/video/media/videos/scen                         
+                             e/1080p60/ColorExplainer.m                         
+                             p4'                                                
+                                                                                
+                    INFO     Subcaption file has been   scene_file_writer.py:899
+                             written as                                         
+                             /home/peter/workspace/why-                         
+                             brains-dont-compute/lesson                         
+                                                                                
+                             13/video/media/videos/scen                         
+                             e/1080p60/ColorExplainer.s                         
+                             rt                                                 
+                    INFO     Rendered ColorExplainer                scene.py:278
+                             Played 45 animations                               

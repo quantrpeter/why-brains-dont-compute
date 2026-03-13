@@ -1,0 +1,514 @@
+/home/peter/.pyenv/versions/3.13.5/lib/python3.13/site-packages/manim_voiceover/__init__.py:4: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Manim Community v0.20.1
+
+[03/13/26 19:08:23] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/da-jia-ha                         
+                             o-huan-ying-li-dao-di-jiu-                         
+                             ke-jin-ri-wo-di-dae61e03.m                         
+                             p3 to .wav                                         
+Animation 0: Write(Text('空間間距')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 0: Write(Text('空間間距')):   8%|▊         | 7/90 [00:00<00:01, 66.71it/s]Animation 0: Write(Text('空間間距')):  16%|█▌        | 14/90 [00:00<00:01, 62.26it/s]Animation 0: Write(Text('空間間距')):  23%|██▎       | 21/90 [00:00<00:01, 62.19it/s]Animation 0: Write(Text('空間間距')):  31%|███       | 28/90 [00:00<00:01, 59.93it/s]Animation 0: Write(Text('空間間距')):  39%|███▉      | 35/90 [00:00<00:00, 59.19it/s]Animation 0: Write(Text('空間間距')):  46%|████▌     | 41/90 [00:00<00:00, 58.41it/s]Animation 0: Write(Text('空間間距')):  52%|█████▏    | 47/90 [00:00<00:00, 55.66it/s]Animation 0: Write(Text('空間間距')):  59%|█████▉    | 53/90 [00:00<00:00, 44.94it/s]Animation 0: Write(Text('空間間距')):  66%|██████▌   | 59/90 [00:01<00:00, 48.25it/s]Animation 0: Write(Text('空間間距')):  72%|███████▏  | 65/90 [00:01<00:00, 44.84it/s]Animation 0: Write(Text('空間間距')):  79%|███████▉  | 71/90 [00:01<00:00, 47.16it/s]Animation 0: Write(Text('空間間距')):  84%|████████▍ | 76/90 [00:01<00:00, 47.09it/s]Animation 0: Write(Text('空間間距')):  91%|█████████ | 82/90 [00:01<00:00, 47.32it/s]Animation 0: Write(Text('空間間距')):  97%|█████████▋| 87/90 [00:01<00:00, 42.91it/s]                                                                                     [03/13/26 19:08:29] INFO     Animation 0 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2257293077_3424711621_3                         
+                             351353890.mp4'                                     
+Animation 1: FadeIn(Text('Spatial Intervals')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 1: FadeIn(Text('Spatial Intervals')):  12%|█▎        | 6/48 [00:00<00:00, 55.73it/s]Animation 1: FadeIn(Text('Spatial Intervals')):  25%|██▌       | 12/48 [00:00<00:00, 50.05it/s]Animation 1: FadeIn(Text('Spatial Intervals')):  38%|███▊      | 18/48 [00:00<00:00, 51.30it/s]Animation 1: FadeIn(Text('Spatial Intervals')):  50%|█████     | 24/48 [00:00<00:00, 49.03it/s]Animation 1: FadeIn(Text('Spatial Intervals')):  62%|██████▎   | 30/48 [00:00<00:00, 49.39it/s]Animation 1: FadeIn(Text('Spatial Intervals')):  75%|███████▌  | 36/48 [00:00<00:00, 51.92it/s]Animation 1: FadeIn(Text('Spatial Intervals')):  88%|████████▊ | 42/48 [00:00<00:00, 52.99it/s]Animation 1: FadeIn(Text('Spatial Intervals')): 100%|██████████| 48/48 [00:00<00:00, 51.64it/s]                                                                                               [03/13/26 19:08:33] INFO     Animation 1 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2324656072_3                         
+                             347822072.mp4'                                     
+Animation 2: FadeIn(Text('第九課')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 2: FadeIn(Text('第九課')):  15%|█▍        | 7/48 [00:00<00:00, 65.02it/s]Animation 2: FadeIn(Text('第九課')):  29%|██▉       | 14/48 [00:00<00:00, 63.99it/s]Animation 2: FadeIn(Text('第九課')):  44%|████▍     | 21/48 [00:00<00:00, 66.38it/s]Animation 2: FadeIn(Text('第九課')):  58%|█████▊    | 28/48 [00:00<00:00, 64.94it/s]Animation 2: FadeIn(Text('第九課')):  75%|███████▌  | 36/48 [00:00<00:00, 65.61it/s]Animation 2: FadeIn(Text('第九課')):  90%|████████▉ | 43/48 [00:00<00:00, 66.50it/s]                                                                                    [03/13/26 19:08:36] INFO     Animation 2 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2485062811_3                         
+                             781090360.mp4'                                     
+Animation 3: FadeIn(Text('制片人：Peter')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 3: FadeIn(Text('制片人：Peter')):  20%|██        | 6/30 [00:00<00:00, 57.16it/s]Animation 3: FadeIn(Text('制片人：Peter')):  40%|████      | 12/30 [00:00<00:00, 54.66it/s]Animation 3: FadeIn(Text('制片人：Peter')):  60%|██████    | 18/30 [00:00<00:00, 53.37it/s]Animation 3: FadeIn(Text('制片人：Peter')):  80%|████████  | 24/30 [00:00<00:00, 54.44it/s]Animation 3: FadeIn(Text('制片人：Peter')): 100%|██████████| 30/30 [00:00<00:00, 55.21it/s]                                                                                           [03/13/26 19:08:40] INFO     Animation 3 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2206737166_4                         
+                             168772428.mp4'                                     
+[03/13/26 19:09:23] INFO     Animation 4 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_3934140320_1                         
+                             71801305.mp4'                                      
+[03/13/26 19:09:25] INFO     Animation 5 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_807188262_36                         
+                             03191100.mp4'                                      
+Animation 6: FadeOut(Text('空間間距')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 6: FadeOut(Text('空間間距')), etc.:  13%|█▎        | 4/30 [00:00<00:00, 30.47it/s]Animation 6: FadeOut(Text('空間間距')), etc.:  27%|██▋       | 8/30 [00:00<00:00, 29.47it/s]Animation 6: FadeOut(Text('空間間距')), etc.:  37%|███▋      | 11/30 [00:00<00:00, 27.51it/s]Animation 6: FadeOut(Text('空間間距')), etc.:  47%|████▋     | 14/30 [00:00<00:00, 27.48it/s]Animation 6: FadeOut(Text('空間間距')), etc.:  57%|█████▋    | 17/30 [00:00<00:00, 26.27it/s]Animation 6: FadeOut(Text('空間間距')), etc.:  67%|██████▋   | 20/30 [00:00<00:00, 26.23it/s]Animation 6: FadeOut(Text('空間間距')), etc.:  77%|███████▋  | 23/30 [00:00<00:00, 26.78it/s]Animation 6: FadeOut(Text('空間間距')), etc.:  87%|████████▋ | 26/30 [00:00<00:00, 24.94it/s]Animation 6: FadeOut(Text('空間間距')), etc.:  97%|█████████▋| 29/30 [00:01<00:00, 24.09it/s]                                                                                             [03/13/26 19:09:28] INFO     Animation 6 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_850392707_37                         
+                             06897652.mp4'                                      
+[03/13/26 19:09:34] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/tong-yi-z                         
+                             hong-shi-wang-mo-tou-ying-                         
+                             ke-yi-li-zi-hao-3a717c12.m                         
+                             p3 to .wav                                         
+Animation 7: Write(Text('差異：同一投影，唔同來源')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 7: Write(Text('差異：同一投影，唔同來源')):  22%|██▏       | 8/36 [00:00<00:00, 69.20it/s]Animation 7: Write(Text('差異：同一投影，唔同來源')):  42%|████▏     | 15/36 [00:00<00:00, 66.59it/s]Animation 7: Write(Text('差異：同一投影，唔同來源')):  61%|██████    | 22/36 [00:00<00:00, 62.77it/s]Animation 7: Write(Text('差異：同一投影，唔同來源')):  81%|████████  | 29/36 [00:00<00:00, 60.48it/s]Animation 7: Write(Text('差異：同一投影，唔同來源')): 100%|██████████| 36/36 [00:00<00:00, 55.18it/s]                                                                                                     [03/13/26 19:09:36] INFO     Animation 7 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2415730941_3                         
+                             351353890.mp4'                                     
+Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):   6%|▋         | 3/48 [00:00<00:01, 29.96it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  12%|█▎        | 6/48 [00:00<00:01, 25.42it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  19%|█▉        | 9/48 [00:00<00:01, 25.74it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  25%|██▌       | 12/48 [00:00<00:01, 26.07it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  31%|███▏      | 15/48 [00:00<00:01, 26.76it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  38%|███▊      | 18/48 [00:00<00:01, 26.27it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  44%|████▍     | 21/48 [00:00<00:01, 25.51it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  50%|█████     | 24/48 [00:00<00:00, 25.39it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  56%|█████▋    | 27/48 [00:01<00:00, 24.84it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  62%|██████▎   | 30/48 [00:01<00:00, 23.77it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  69%|██████▉   | 33/48 [00:01<00:00, 23.03it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  75%|███████▌  | 36/48 [00:01<00:00, 21.85it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  81%|████████▏ | 39/48 [00:01<00:00, 21.19it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  88%|████████▊ | 42/48 [00:01<00:00, 22.66it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')):  94%|█████████▍| 45/48 [00:01<00:00, 22.49it/s]Animation 8: FadeIn(Text('同一種視網膜投影可以嚟自唔同嘅物理長度同方向')): 100%|██████████| 48/48 [00:02<00:00, 21.89it/s]                                                                                                                          [03/13/26 19:09:40] INFO     Animation 8 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_1408526074_1                         
+                             289156789.mp4'                                     
+Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):   6%|▋         | 3/48 [00:00<00:01, 28.26it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  15%|█▍        | 7/48 [00:00<00:01, 30.22it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  23%|██▎       | 11/48 [00:00<00:01, 30.20it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  31%|███▏      | 15/48 [00:00<00:01, 29.60it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  38%|███▊      | 18/48 [00:00<00:01, 27.29it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  44%|████▍     | 21/48 [00:00<00:01, 26.58it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  50%|█████     | 24/48 [00:00<00:00, 26.35it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  56%|█████▋    | 27/48 [00:00<00:00, 25.32it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  62%|██████▎   | 30/48 [00:01<00:00, 26.13it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  69%|██████▉   | 33/48 [00:01<00:00, 26.87it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  77%|███████▋  | 37/48 [00:01<00:00, 28.49it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  83%|████████▎ | 40/48 [00:01<00:00, 28.51it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  90%|████████▉ | 43/48 [00:01<00:00, 28.36it/s]Animation 9: FadeIn(Text('短線近距離 vs 長線遠距離 — 投影可以一樣')):  96%|█████████▌| 46/48 [00:01<00:00, 24.02it/s]                                                                                                                     [03/13/26 19:09:45] INFO     Animation 9 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_1569515657_9                         
+                             61096562.mp4'                                      
+[03/13/26 19:10:23] INFO     Animation 10 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_1184868887_1                         
+                             985350598.mp4'                                     
+[03/13/26 19:10:26] INFO     Animation 11 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_807188262_17                         
+                             16713795.mp4'                                      
+Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:   7%|▋         | 2/30 [00:00<00:02, 11.75it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 11.07it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  20%|██        | 6/30 [00:00<00:02, 11.18it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.90it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 10.48it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  40%|████      | 12/30 [00:01<00:01, 10.37it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 10.07it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  53%|█████▎    | 16/30 [00:01<00:01,  9.96it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  60%|██████    | 18/30 [00:01<00:01, 10.58it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 10.67it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  73%|███████▎  | 22/30 [00:02<00:00, 11.43it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  80%|████████  | 24/30 [00:02<00:00, 11.22it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 11.50it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 11.65it/s]Animation 12: FadeOut(Text('差異：同一投影，唔同來源')), etc.: 100%|██████████| 30/30 [00:02<00:00, 11.69it/s]                                                                                                              [03/13/26 19:10:32] INFO     Animation 12 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_307528600_31                         
+                             69060123.mp4'                                      
+[03/13/26 19:10:39] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/ke-xue-ji                         
+                             a-yong-ji-guang-sao-miao-z                         
+                             i-ran-chang-89f9f3b4.mp3                           
+                             to .wav                                            
+Animation 13: Write(Text('點樣測定發生頻率')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 13: Write(Text('點樣測定發生頻率')):  19%|█▉        | 7/36 [00:00<00:00, 61.15it/s]Animation 13: Write(Text('點樣測定發生頻率')):  39%|███▉      | 14/36 [00:00<00:00, 52.71it/s]Animation 13: Write(Text('點樣測定發生頻率')):  56%|█████▌    | 20/36 [00:00<00:00, 46.13it/s]Animation 13: Write(Text('點樣測定發生頻率')):  69%|██████▉   | 25/36 [00:00<00:00, 40.71it/s]Animation 13: Write(Text('點樣測定發生頻率')):  83%|████████▎ | 30/36 [00:00<00:00, 39.74it/s]Animation 13: Write(Text('點樣測定發生頻率')):  97%|█████████▋| 35/36 [00:00<00:00, 37.93it/s]                                                                                              [03/13/26 19:10:42] INFO     Animation 13 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2693136563_3                         
+                             351353890.mp4'                                     
+Animation 14: FadeIn(Text('•  激光掃描自然場景')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 14: FadeIn(Text('•  激光掃描自然場景')):  13%|█▎        | 4/30 [00:00<00:00, 35.41it/s]Animation 14: FadeIn(Text('•  激光掃描自然場景')):  27%|██▋       | 8/30 [00:00<00:00, 37.06it/s]Animation 14: FadeIn(Text('•  激光掃描自然場景')):  40%|████      | 12/30 [00:00<00:00, 36.82it/s]Animation 14: FadeIn(Text('•  激光掃描自然場景')):  53%|█████▎    | 16/30 [00:00<00:00, 37.36it/s]Animation 14: FadeIn(Text('•  激光掃描自然場景')):  67%|██████▋   | 20/30 [00:00<00:00, 37.00it/s]Animation 14: FadeIn(Text('•  激光掃描自然場景')):  80%|████████  | 24/30 [00:00<00:00, 36.95it/s]Animation 14: FadeIn(Text('•  激光掃描自然場景')):  97%|█████████▋| 29/30 [00:00<00:00, 37.91it/s]                                                                                                  [03/13/26 19:10:45] INFO     Animation 14 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_3084651397_8                         
+                             9905158.mp4'                                       
+Animation 15: FadeIn(Text('•  用模板採樣線段投影')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 15: FadeIn(Text('•  用模板採樣線段投影')):  17%|█▋        | 5/30 [00:00<00:00, 48.32it/s]Animation 15: FadeIn(Text('•  用模板採樣線段投影')):  33%|███▎      | 10/30 [00:00<00:00, 41.54it/s]Animation 15: FadeIn(Text('•  用模板採樣線段投影')):  50%|█████     | 15/30 [00:00<00:00, 37.74it/s]Animation 15: FadeIn(Text('•  用模板採樣線段投影')):  63%|██████▎   | 19/30 [00:00<00:00, 37.61it/s]Animation 15: FadeIn(Text('•  用模板採樣線段投影')):  77%|███████▋  | 23/30 [00:00<00:00, 37.06it/s]Animation 15: FadeIn(Text('•  用模板採樣線段投影')):  90%|█████████ | 27/30 [00:00<00:00, 35.51it/s]                                                                                                    [03/13/26 19:10:49] INFO     Animation 15 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_651081738_35                         
+                             7760923.mp4'                                       
+Animation 16: FadeIn(Text('•  統計唔同投影出現嘅頻率')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 16: FadeIn(Text('•  統計唔同投影出現嘅頻率')):  13%|█▎        | 4/30 [00:00<00:00, 34.54it/s]Animation 16: FadeIn(Text('•  統計唔同投影出現嘅頻率')):  27%|██▋       | 8/30 [00:00<00:00, 32.28it/s]Animation 16: FadeIn(Text('•  統計唔同投影出現嘅頻率')):  40%|████      | 12/30 [00:00<00:00, 31.66it/s]Animation 16: FadeIn(Text('•  統計唔同投影出現嘅頻率')):  53%|█████▎    | 16/30 [00:00<00:00, 30.40it/s]Animation 16: FadeIn(Text('•  統計唔同投影出現嘅頻率')):  67%|██████▋   | 20/30 [00:00<00:00, 30.78it/s]Animation 16: FadeIn(Text('•  統計唔同投影出現嘅頻率')):  80%|████████  | 24/30 [00:00<00:00, 30.76it/s]Animation 16: FadeIn(Text('•  統計唔同投影出現嘅頻率')):  93%|█████████▎| 28/30 [00:00<00:00, 29.37it/s]                                                                                                        [03/13/26 19:10:53] INFO     Animation 16 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_895414161_68                         
+                             8477326.mp4'                                       
+[03/13/26 19:11:28] INFO     Animation 17 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_4042679818_9                         
+                             01890474.mp4'                                      
+[03/13/26 19:11:30] INFO     Animation 18 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_807188262_12                         
+                             79544854.mp4'                                      
+Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:   7%|▋         | 2/30 [00:00<00:01, 16.45it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 16.83it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  20%|██        | 6/30 [00:00<00:01, 15.90it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 14.42it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 13.24it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  40%|████      | 12/30 [00:00<00:01, 13.72it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  47%|████▋     | 14/30 [00:00<00:01, 13.46it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 12.15it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  60%|██████    | 18/30 [00:01<00:00, 12.74it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 13.51it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 13.76it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  80%|████████  | 24/30 [00:01<00:00, 13.83it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 13.62it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 13.97it/s]Animation 19: FadeOut(Text('點樣測定發生頻率')), etc.: 100%|██████████| 30/30 [00:02<00:00, 14.15it/s]                                                                                                      [03/13/26 19:11:36] INFO     Animation 19 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_3199231068_2                         
+                             583100235.mp4'                                     
+[03/13/26 19:11:44] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/jing-dian                         
+                             -li-zi-chui-zhi-xian-di-lu                         
+                             o-bi-shui-ping-4d7d1331.mp                         
+                             3 to .wav                                          
+Animation 20: Write(Text('垂直同水平錯覺')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 20: Write(Text('垂直同水平錯覺')):  25%|██▌       | 9/36 [00:00<00:00, 76.79it/s]Animation 20: Write(Text('垂直同水平錯覺')):  47%|████▋     | 17/36 [00:00<00:00, 71.44it/s]Animation 20: Write(Text('垂直同水平錯覺')):  69%|██████▉   | 25/36 [00:00<00:00, 65.60it/s]Animation 20: Write(Text('垂直同水平錯覺')):  89%|████████▉ | 32/36 [00:00<00:00, 59.69it/s]                                                                                            [03/13/26 19:11:47] INFO     Animation 20 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2808229221_3                         
+                             351353890.mp4'                                     
+Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):   8%|▊         | 4/48 [00:00<00:01, 39.50it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):  17%|█▋        | 8/48 [00:00<00:01, 33.74it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):  25%|██▌       | 12/48 [00:00<00:01, 31.75it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):  33%|███▎      | 16/48 [00:00<00:01, 31.77it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):  42%|████▏     | 20/48 [00:00<00:00, 31.07it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):  50%|█████     | 24/48 [00:00<00:00, 31.98it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):  58%|█████▊    | 28/48 [00:00<00:00, 33.29it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):  67%|██████▋   | 32/48 [00:00<00:00, 32.54it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):  75%|███████▌  | 36/48 [00:01<00:00, 32.59it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):  83%|████████▎ | 40/48 [00:01<00:00, 32.61it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')):  92%|█████████▏| 44/48 [00:01<00:00, 32.85it/s]Animation 21: FadeIn(Text('垂直線睇落比水平線長 — 即使物理長度一樣')): 100%|██████████| 48/48 [00:01<00:00, 29.33it/s]                                                                                                                      [03/13/26 19:11:50] INFO     Animation 21 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_482309664_39                         
+                             70086773.mp4'                                      
+Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):   6%|▋         | 3/48 [00:00<00:01, 23.06it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  12%|█▎        | 6/48 [00:00<00:01, 21.16it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  19%|█▉        | 9/48 [00:00<00:01, 22.26it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  25%|██▌       | 12/48 [00:00<00:01, 22.10it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  31%|███▏      | 15/48 [00:00<00:01, 21.97it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  38%|███▊      | 18/48 [00:00<00:01, 21.77it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  44%|████▍     | 21/48 [00:00<00:01, 21.60it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  50%|█████     | 24/48 [00:01<00:01, 21.25it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  56%|█████▋    | 27/48 [00:01<00:01, 20.58it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  62%|██████▎   | 30/48 [00:01<00:00, 19.63it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  67%|██████▋   | 32/48 [00:01<00:00, 19.60it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  73%|███████▎  | 35/48 [00:01<00:00, 20.40it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  79%|███████▉  | 38/48 [00:01<00:00, 20.44it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  85%|████████▌ | 41/48 [00:01<00:00, 20.18it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  92%|█████████▏| 44/48 [00:02<00:00, 19.86it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')):  96%|█████████▌| 46/48 [00:02<00:00, 17.91it/s]Animation 22: FadeIn(Text('深度中嘅表面會縮短；重力限制垂直延伸 → 短垂直投影更常見')): 100%|██████████| 48/48 [00:02<00:00, 16.81it/s]                                                                                                                                      [03/13/26 19:11:56] INFO     Animation 22 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_687585902_41                         
+                             15434197.mp4'                                      
+Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):  11%|█         | 4/36 [00:00<00:00, 32.36it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):  22%|██▏       | 8/36 [00:00<00:01, 26.17it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):  31%|███       | 11/36 [00:00<00:00, 25.59it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):  39%|███▉      | 14/36 [00:00<00:00, 26.85it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):  47%|████▋     | 17/36 [00:00<00:00, 27.10it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):  56%|█████▌    | 20/36 [00:00<00:00, 27.41it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):  67%|██████▋   | 24/36 [00:00<00:00, 28.18it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):  75%|███████▌  | 27/36 [00:00<00:00, 28.28it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):  83%|████████▎ | 30/36 [00:01<00:00, 27.55it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')):  92%|█████████▏| 33/36 [00:01<00:00, 27.86it/s]Animation 23: FadeIn(Text('約 30° 偏離垂直時，感知長度最大')): 100%|██████████| 36/36 [00:01<00:00, 28.43it/s]                                                                                                              [03/13/26 19:12:01] INFO     Animation 23 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_4238110440_3                         
+                             897263709.mp4'                                     
+[03/13/26 19:12:59] INFO     Animation 24 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_1813995384_3                         
+                             097900469.mp4'                                     
+[03/13/26 19:13:02] INFO     Animation 25 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_807188262_24                         
+                             34535830.mp4'                                      
+Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:   7%|▋         | 2/30 [00:00<00:02, 12.00it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 12.03it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  20%|██        | 6/30 [00:00<00:02, 11.23it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  27%|██▋       | 8/30 [00:00<00:02,  9.85it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  33%|███▎      | 10/30 [00:00<00:02,  9.99it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  40%|████      | 12/30 [00:01<00:01, 10.55it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 11.07it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 11.57it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  60%|██████    | 18/30 [00:01<00:01, 11.87it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 12.43it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 12.35it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  80%|████████  | 24/30 [00:02<00:00, 12.33it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 12.49it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 11.49it/s]Animation 26: FadeOut(Text('垂直同水平錯覺')), etc.: 100%|██████████| 30/30 [00:02<00:00, 11.12it/s]                                                                                                    [03/13/26 19:13:08] INFO     Animation 26 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_3163420290_2                         
+                             076160518.mp4'                                     
+[03/13/26 19:13:14] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/guan-jian                         
+                             -xi-jing-yan-pai-ming-an-p                         
+                             in-lu-chi-du-c9f36e6b.mp3                          
+                             to .wav                                            
+Animation 27: Write(Text('經驗排名')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 27: Write(Text('經驗排名')):  25%|██▌       | 9/36 [00:00<00:00, 78.47it/s]Animation 27: Write(Text('經驗排名')):  47%|████▋     | 17/36 [00:00<00:00, 63.93it/s]Animation 27: Write(Text('經驗排名')):  67%|██████▋   | 24/36 [00:00<00:00, 53.60it/s]Animation 27: Write(Text('經驗排名')):  83%|████████▎ | 30/36 [00:00<00:00, 53.12it/s]                                                                                      [03/13/26 19:13:17] INFO     Animation 27 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_4130205593_3                         
+                             351353890.mp4'                                     
+Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  10%|█         | 5/48 [00:00<00:01, 39.89it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  19%|█▉        | 9/48 [00:00<00:01, 33.66it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  27%|██▋       | 13/48 [00:00<00:01, 31.37it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  35%|███▌      | 17/48 [00:00<00:01, 28.75it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  44%|████▍     | 21/48 [00:00<00:00, 29.95it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  52%|█████▏    | 25/48 [00:00<00:00, 29.31it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  60%|██████    | 29/48 [00:00<00:00, 30.18it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  69%|██████▉   | 33/48 [00:01<00:00, 31.06it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  77%|███████▋  | 37/48 [00:01<00:00, 31.20it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  85%|████████▌ | 41/48 [00:01<00:00, 33.05it/s]Animation 28: FadeIn(Text('按頻率尺度排名 → 預測心理物理結果')):  94%|█████████▍| 45/48 [00:01<00:00, 32.28it/s]                                                                                                                [03/13/26 19:13:20] INFO     Animation 28 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2664285648_1                         
+                             126564268.mp4'                                     
+Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):   6%|▋         | 3/48 [00:00<00:01, 26.61it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  12%|█▎        | 6/48 [00:00<00:01, 27.31it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  19%|█▉        | 9/48 [00:00<00:01, 27.99it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  25%|██▌       | 12/48 [00:00<00:01, 28.49it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  31%|███▏      | 15/48 [00:00<00:01, 28.26it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  38%|███▊      | 18/48 [00:00<00:01, 28.27it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  44%|████▍     | 21/48 [00:00<00:00, 28.36it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  50%|█████     | 24/48 [00:00<00:00, 28.46it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  56%|█████▋    | 27/48 [00:00<00:00, 27.64it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  62%|██████▎   | 30/48 [00:01<00:00, 27.68it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  69%|██████▉   | 33/48 [00:01<00:00, 27.70it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  75%|███████▌  | 36/48 [00:01<00:00, 26.72it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  81%|████████▏ | 39/48 [00:01<00:00, 25.85it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  88%|████████▊ | 42/48 [00:01<00:00, 24.46it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')):  94%|█████████▍| 45/48 [00:01<00:00, 23.52it/s]Animation 29: FadeIn(Text('發生頻率高嘅投影，感知長度較大；頻率低嘅，感知較短')): 100%|██████████| 48/48 [00:01<00:00, 22.30it/s]                                                                                                                                 [03/13/26 19:13:25] INFO     Animation 29 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_71040386_362                         
+                             5225130.mp4'                                       
+[03/13/26 19:14:11] INFO     Animation 30 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_1427430781_2                         
+                             647857895.mp4'                                     
+[03/13/26 19:14:13] INFO     Animation 31 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_807188262_38                         
+                             27002568.mp4'                                      
+Animation 32: FadeOut(Text('經驗排名')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:   7%|▋         | 2/30 [00:00<00:02, 10.79it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 11.09it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  20%|██        | 6/30 [00:00<00:02, 11.15it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.95it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 11.26it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  40%|████      | 12/30 [00:01<00:01, 11.32it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 11.04it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 10.79it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  60%|██████    | 18/30 [00:01<00:01, 10.75it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 10.69it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  73%|███████▎  | 22/30 [00:02<00:00, 11.01it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  80%|████████  | 24/30 [00:02<00:00, 11.52it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 11.85it/s]Animation 32: FadeOut(Text('經驗排名')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 12.39it/s]Animation 32: FadeOut(Text('經驗排名')), etc.: 100%|██████████| 30/30 [00:02<00:00, 12.95it/s]                                                                                              [03/13/26 19:14:20] INFO     Animation 32 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_4183709218_3                         
+                             456119948.mp4'                                     
+[03/13/26 19:14:26] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/zong-jie-                         
+                             tong-yi-tou-ying-ke-li-zi-                         
+                             wu-tong-wu-li-df784e00.mp3                         
+                              to .wav                                           
+Animation 33: Write(Text('總結')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 33: Write(Text('總結')):  31%|███       | 11/36 [00:00<00:00, 101.98it/s]Animation 33: Write(Text('總結')):  61%|██████    | 22/36 [00:00<00:00, 85.73it/s] Animation 33: Write(Text('總結')):  86%|████████▌ | 31/36 [00:00<00:00, 76.95it/s]                                                                                  [03/13/26 19:14:29] INFO     Animation 33 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_1810312960_3                         
+                             351353890.mp4'                                     
+Animation 34: FadeIn(Text('•  同一投影可嚟自唔同物理長度同方向')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 34: FadeIn(Text('•  同一投影可嚟自唔同物理長度同方向')):  13%|█▎        | 4/30 [00:00<00:00, 37.82it/s]Animation 34: FadeIn(Text('•  同一投影可嚟自唔同物理長度同方向')):  27%|██▋       | 8/30 [00:00<00:00, 34.88it/s]Animation 34: FadeIn(Text('•  同一投影可嚟自唔同物理長度同方向')):  40%|████      | 12/30 [00:00<00:00, 34.98it/s]Animation 34: FadeIn(Text('•  同一投影可嚟自唔同物理長度同方向')):  53%|█████▎    | 16/30 [00:00<00:00, 35.56it/s]Animation 34: FadeIn(Text('•  同一投影可嚟自唔同物理長度同方向')):  67%|██████▋   | 20/30 [00:00<00:00, 35.07it/s]Animation 34: FadeIn(Text('•  同一投影可嚟自唔同物理長度同方向')):  80%|████████  | 24/30 [00:00<00:00, 34.37it/s]Animation 34: FadeIn(Text('•  同一投影可嚟自唔同物理長度同方向')):  93%|█████████▎| 28/30 [00:00<00:00, 34.46it/s]                                                                                                                  [03/13/26 19:14:32] INFO     Animation 34 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2422224425_9                         
+                             46676274.mp4'                                      
+Animation 35: FadeIn(Text('•  激光掃描測定自然場景嘅投影頻率')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 35: FadeIn(Text('•  激光掃描測定自然場景嘅投影頻率')):  10%|█         | 3/30 [00:00<00:00, 29.12it/s]Animation 35: FadeIn(Text('•  激光掃描測定自然場景嘅投影頻率')):  20%|██        | 6/30 [00:00<00:00, 27.24it/s]Animation 35: FadeIn(Text('•  激光掃描測定自然場景嘅投影頻率')):  30%|███       | 9/30 [00:00<00:00, 26.03it/s]Animation 35: FadeIn(Text('•  激光掃描測定自然場景嘅投影頻率')):  43%|████▎     | 13/30 [00:00<00:00, 29.17it/s]Animation 35: FadeIn(Text('•  激光掃描測定自然場景嘅投影頻率')):  57%|█████▋    | 17/30 [00:00<00:00, 30.93it/s]Animation 35: FadeIn(Text('•  激光掃描測定自然場景嘅投影頻率')):  70%|███████   | 21/30 [00:00<00:00, 29.46it/s]Animation 35: FadeIn(Text('•  激光掃描測定自然場景嘅投影頻率')):  80%|████████  | 24/30 [00:00<00:00, 28.78it/s]Animation 35: FadeIn(Text('•  激光掃描測定自然場景嘅投影頻率')):  90%|█████████ | 27/30 [00:00<00:00, 28.24it/s]Animation 35: FadeIn(Text('•  激光掃描測定自然場景嘅投影頻率')): 100%|██████████| 30/30 [00:01<00:00, 28.55it/s]                                                                                                                [03/13/26 19:14:35] INFO     Animation 35 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2614950663_1                         
+                             064594102.mp4'                                     
+Animation 36: FadeIn(Text('•  垂直線錯覺：短垂直投影更常見')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 36: FadeIn(Text('•  垂直線錯覺：短垂直投影更常見')):  10%|█         | 3/30 [00:00<00:00, 28.18it/s]Animation 36: FadeIn(Text('•  垂直線錯覺：短垂直投影更常見')):  20%|██        | 6/30 [00:00<00:00, 28.78it/s]Animation 36: FadeIn(Text('•  垂直線錯覺：短垂直投影更常見')):  30%|███       | 9/30 [00:00<00:00, 27.62it/s]Animation 36: FadeIn(Text('•  垂直線錯覺：短垂直投影更常見')):  43%|████▎     | 13/30 [00:00<00:00, 31.11it/s]Animation 36: FadeIn(Text('•  垂直線錯覺：短垂直投影更常見')):  57%|█████▋    | 17/30 [00:00<00:00, 32.79it/s]Animation 36: FadeIn(Text('•  垂直線錯覺：短垂直投影更常見')):  70%|███████   | 21/30 [00:00<00:00, 33.92it/s]Animation 36: FadeIn(Text('•  垂直線錯覺：短垂直投影更常見')):  83%|████████▎ | 25/30 [00:00<00:00, 34.19it/s]Animation 36: FadeIn(Text('•  垂直線錯覺：短垂直投影更常見')):  97%|█████████▋| 29/30 [00:00<00:00, 35.23it/s]                                                                                                              [03/13/26 19:14:39] INFO     Animation 36 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2234864059_4                         
+                             192334799.mp4'                                     
+Animation 37: FadeIn(Text('•  經驗排名預測心理物理結果')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 37: FadeIn(Text('•  經驗排名預測心理物理結果')):  13%|█▎        | 4/30 [00:00<00:00, 34.10it/s]Animation 37: FadeIn(Text('•  經驗排名預測心理物理結果')):  27%|██▋       | 8/30 [00:00<00:00, 34.11it/s]Animation 37: FadeIn(Text('•  經驗排名預測心理物理結果')):  40%|████      | 12/30 [00:00<00:00, 33.13it/s]Animation 37: FadeIn(Text('•  經驗排名預測心理物理結果')):  53%|█████▎    | 16/30 [00:00<00:00, 33.59it/s]Animation 37: FadeIn(Text('•  經驗排名預測心理物理結果')):  67%|██████▋   | 20/30 [00:00<00:00, 33.03it/s]Animation 37: FadeIn(Text('•  經驗排名預測心理物理結果')):  80%|████████  | 24/30 [00:00<00:00, 31.20it/s]Animation 37: FadeIn(Text('•  經驗排名預測心理物理結果')):  93%|█████████▎| 28/30 [00:00<00:00, 30.87it/s]                                                                                                          [03/13/26 19:14:43] INFO     Animation 37 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_1908119489_3                         
+                             244468031.mp4'                                     
+[03/13/26 19:15:25] INFO     Animation 38 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2038607945_1                         
+                             993458610.mp4'                                     
+[03/13/26 19:15:27] INFO     Animation 39 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_3201849554_1                         
+                             310095185.mp4'                                     
+Animation 40: FadeOut(Text('總結')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 40: FadeOut(Text('總結')), etc.:   7%|▋         | 2/30 [00:00<00:02, 12.83it/s]Animation 40: FadeOut(Text('總結')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 10.81it/s]Animation 40: FadeOut(Text('總結')), etc.:  20%|██        | 6/30 [00:00<00:02, 10.14it/s]Animation 40: FadeOut(Text('總結')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.17it/s]Animation 40: FadeOut(Text('總結')), etc.:  33%|███▎      | 10/30 [00:00<00:02,  9.91it/s]Animation 40: FadeOut(Text('總結')), etc.:  40%|████      | 12/30 [00:01<00:01, 10.55it/s]Animation 40: FadeOut(Text('總結')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 10.79it/s]Animation 40: FadeOut(Text('總結')), etc.:  53%|█████▎    | 16/30 [00:01<00:01,  9.82it/s]Animation 40: FadeOut(Text('總結')), etc.:  60%|██████    | 18/30 [00:01<00:01, 10.04it/s]Animation 40: FadeOut(Text('總結')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 10.86it/s]Animation 40: FadeOut(Text('總結')), etc.:  73%|███████▎  | 22/30 [00:02<00:00, 12.10it/s]Animation 40: FadeOut(Text('總結')), etc.:  80%|████████  | 24/30 [00:02<00:00, 13.31it/s]Animation 40: FadeOut(Text('總結')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 14.40it/s]Animation 40: FadeOut(Text('總結')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 13.95it/s]Animation 40: FadeOut(Text('總結')), etc.: 100%|██████████| 30/30 [00:02<00:00, 14.38it/s]                                                                                          [03/13/26 19:15:33] INFO     Animation 40 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2484208068_6                         
+                             41431187.mp4'                                      
+[03/13/26 19:15:36] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/duo-xie-s                         
+                             hou-di-xia-yi-ke-wo-di-hui                         
+                             -jiang-jiao-du-e7870e03.mp                         
+                             3 to .wav                                          
+Animation 41: Write(Text('多謝收睇！')):   0%|          | 0/60 [00:00<?, ?it/s]Animation 41: Write(Text('多謝收睇！')):  17%|█▋        | 10/60 [00:00<00:00, 92.72it/s]Animation 41: Write(Text('多謝收睇！')):  33%|███▎      | 20/60 [00:00<00:00, 78.90it/s]Animation 41: Write(Text('多謝收睇！')):  48%|████▊     | 29/60 [00:00<00:00, 61.86it/s]Animation 41: Write(Text('多謝收睇！')):  60%|██████    | 36/60 [00:00<00:00, 54.87it/s]Animation 41: Write(Text('多謝收睇！')):  70%|███████   | 42/60 [00:00<00:00, 52.46it/s]Animation 41: Write(Text('多謝收睇！')):  80%|████████  | 48/60 [00:00<00:00, 49.55it/s]Animation 41: Write(Text('多謝收睇！')):  90%|█████████ | 54/60 [00:00<00:00, 47.24it/s]Animation 41: Write(Text('多謝收睇！')):  98%|█████████▊| 59/60 [00:01<00:00, 46.66it/s]                                                                                        [03/13/26 19:15:41] INFO     Animation 41 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_566641700_33                         
+                             51353890.mp4'                                      
+[03/13/26 19:16:15] INFO     Animation 42 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_4191553768_7                         
+                             68790109.mp4'                                      
+[03/13/26 19:16:19] INFO     Animation 43 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_1839128356_1                         
+                             72506406.mp4'                                      
+Animation 44: FadeOut(Text('多謝收睇！')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 44: FadeOut(Text('多謝收睇！')):  10%|█         | 5/48 [00:00<00:00, 49.12it/s]Animation 44: FadeOut(Text('多謝收睇！')):  23%|██▎       | 11/48 [00:00<00:00, 51.75it/s]Animation 44: FadeOut(Text('多謝收睇！')):  35%|███▌      | 17/48 [00:00<00:00, 52.90it/s]Animation 44: FadeOut(Text('多謝收睇！')):  48%|████▊     | 23/48 [00:00<00:00, 52.29it/s]Animation 44: FadeOut(Text('多謝收睇！')):  60%|██████    | 29/48 [00:00<00:00, 53.05it/s]Animation 44: FadeOut(Text('多謝收睇！')):  73%|███████▎  | 35/48 [00:00<00:00, 55.18it/s]Animation 44: FadeOut(Text('多謝收睇！')):  85%|████████▌ | 41/48 [00:00<00:00, 55.82it/s]Animation 44: FadeOut(Text('多謝收睇！')):  98%|█████████▊| 47/48 [00:00<00:00, 56.21it/s]                                                                                          [03/13/26 19:16:22] INFO     Animation 44 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/SpatialIntervalsExplain                         
+                             er/2135761390_2188973919_3                         
+                             167764975.mp4'                                     
+                    INFO     Combining to Movie file.   scene_file_writer.py:753
+[03/13/26 19:16:32] WARNING  Some options were not      scene_file_writer.py:819
+                             used: {'shortest': '1',                            
+                             'metadata':                                        
+                             'comment=Rendered with                             
+                             Manim Community v0.20.1'}                          
+                    INFO                                scene_file_writer.py:904
+                             File ready at                                      
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             9/video/media/videos/scene                         
+                             /1080p60/SpatialIntervalsE                         
+                             xplainer.mp4'                                      
+                                                                                
+                    INFO     Subcaption file has been   scene_file_writer.py:899
+                             written as                                         
+                             /home/peter/workspace/why-                         
+                             brains-dont-compute/lesson                         
+                                                                                
+                             9/video/media/videos/scene                         
+                             /1080p60/SpatialIntervalsE                         
+                             xplainer.srt                                       
+                    INFO     Rendered SpatialIntervalsExplainer     scene.py:278
+                             Played 45 animations                               

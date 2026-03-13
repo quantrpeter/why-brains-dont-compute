@@ -1,0 +1,449 @@
+/home/peter/.pyenv/versions/3.13.5/lib/python3.13/site-packages/manim_voiceover/__init__.py:4: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Manim Community v0.20.1
+
+[03/13/26 19:08:13] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/da-jia-ha                         
+                             o-huan-ying-li-dao-di-ba-k                         
+                             e-jin-ri-wo-di-7deb1da2.mp                         
+                             3 to .wav                                          
+Animation 0: Write(Text('我哋感知到啲咩')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 0: Write(Text('我哋感知到啲咩')):  10%|█         | 9/90 [00:00<00:00, 89.36it/s]Animation 0: Write(Text('我哋感知到啲咩')):  21%|██        | 19/90 [00:00<00:00, 91.82it/s]Animation 0: Write(Text('我哋感知到啲咩')):  32%|███▏      | 29/90 [00:00<00:00, 86.04it/s]Animation 0: Write(Text('我哋感知到啲咩')):  42%|████▏     | 38/90 [00:00<00:00, 66.47it/s]Animation 0: Write(Text('我哋感知到啲咩')):  51%|█████     | 46/90 [00:00<00:00, 62.30it/s]Animation 0: Write(Text('我哋感知到啲咩')):  59%|█████▉    | 53/90 [00:00<00:00, 51.88it/s]Animation 0: Write(Text('我哋感知到啲咩')):  66%|██████▌   | 59/90 [00:00<00:00, 52.00it/s]Animation 0: Write(Text('我哋感知到啲咩')):  72%|███████▏  | 65/90 [00:01<00:00, 52.63it/s]Animation 0: Write(Text('我哋感知到啲咩')):  79%|███████▉  | 71/90 [00:01<00:00, 51.05it/s]Animation 0: Write(Text('我哋感知到啲咩')):  86%|████████▌ | 77/90 [00:01<00:00, 52.13it/s]Animation 0: Write(Text('我哋感知到啲咩')):  92%|█████████▏| 83/90 [00:01<00:00, 47.84it/s]Animation 0: Write(Text('我哋感知到啲咩')):  99%|█████████▉| 89/90 [00:01<00:00, 48.46it/s]                                                                                           [03/13/26 19:08:16] INFO     Animation 0 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2257293077_3655618684_335                         
+                             1353890.mp4'                                       
+Animation 1: FadeIn(Text('What We Perceive')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 1: FadeIn(Text('What We Perceive')):  15%|█▍        | 7/48 [00:00<00:00, 68.48it/s]Animation 1: FadeIn(Text('What We Perceive')):  29%|██▉       | 14/48 [00:00<00:00, 63.54it/s]Animation 1: FadeIn(Text('What We Perceive')):  44%|████▍     | 21/48 [00:00<00:00, 58.59it/s]Animation 1: FadeIn(Text('What We Perceive')):  56%|█████▋    | 27/48 [00:00<00:00, 58.32it/s]Animation 1: FadeIn(Text('What We Perceive')):  71%|███████   | 34/48 [00:00<00:00, 61.51it/s]Animation 1: FadeIn(Text('What We Perceive')):  85%|████████▌ | 41/48 [00:00<00:00, 61.86it/s]Animation 1: FadeIn(Text('What We Perceive')): 100%|██████████| 48/48 [00:00<00:00, 59.56it/s]                                                                                              [03/13/26 19:08:19] INFO     Animation 1 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_2597481757_263                         
+                             0022415.mp4'                                       
+Animation 2: FadeIn(Text('第八課')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 2: FadeIn(Text('第八課')):  19%|█▉        | 9/48 [00:00<00:00, 86.54it/s]Animation 2: FadeIn(Text('第八課')):  38%|███▊      | 18/48 [00:00<00:00, 85.00it/s]Animation 2: FadeIn(Text('第八課')):  56%|█████▋    | 27/48 [00:00<00:00, 80.33it/s]Animation 2: FadeIn(Text('第八課')):  75%|███████▌  | 36/48 [00:00<00:00, 73.09it/s]Animation 2: FadeIn(Text('第八課')):  92%|█████████▏| 44/48 [00:00<00:00, 70.23it/s]                                                                                    [03/13/26 19:08:22] INFO     Animation 2 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1738863188_173                         
+                             187432.mp4'                                        
+Animation 3: FadeIn(Text('制片人：Peter')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 3: FadeIn(Text('制片人：Peter')):  27%|██▋       | 8/30 [00:00<00:00, 77.40it/s]Animation 3: FadeIn(Text('制片人：Peter')):  53%|█████▎    | 16/30 [00:00<00:00, 77.93it/s]Animation 3: FadeIn(Text('制片人：Peter')):  80%|████████  | 24/30 [00:00<00:00, 76.53it/s]                                                                                           [03/13/26 19:08:24] INFO     Animation 3 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_2873602199_875                         
+                             936010.mp4'                                        
+[03/13/26 19:09:17] INFO     Animation 4 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_3076924385_255                         
+                             7464032.mp4'                                       
+[03/13/26 19:09:20] INFO     Animation 5 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_807188262_1473                         
+                             251377.mp4'                                        
+Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  10%|█         | 3/30 [00:00<00:01, 21.97it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  20%|██        | 6/30 [00:00<00:01, 19.65it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 18.98it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 19.24it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  43%|████▎     | 13/30 [00:00<00:00, 19.28it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  50%|█████     | 15/30 [00:00<00:00, 17.80it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  57%|█████▋    | 17/30 [00:00<00:00, 17.54it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  63%|██████▎   | 19/30 [00:01<00:00, 17.35it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  70%|███████   | 21/30 [00:01<00:00, 17.40it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  77%|███████▋  | 23/30 [00:01<00:00, 17.45it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  83%|████████▎ | 25/30 [00:01<00:00, 17.20it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.:  93%|█████████▎| 28/30 [00:01<00:00, 18.38it/s]Animation 6: FadeOut(Text('我哋感知到啲咩')), etc.: 100%|██████████| 30/30 [00:01<00:00, 18.47it/s]                                                                                                   [03/13/26 19:09:24] INFO     Animation 6 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1868415067_931                         
+                             172955.mp4'                                        
+[03/13/26 19:09:36] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/chuan-ton                         
+                             g-shen-jing-ke-xue-jia-she                         
+                             -nao-hui-jian-85039b22.mp3                         
+                              to .wav                                           
+Animation 7: Write(Text('傳統假設：Marr 嘅計算理論')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 7: Write(Text('傳統假設：Marr 嘅計算理論')):  17%|█▋        | 6/36 [00:00<00:00, 53.19it/s]Animation 7: Write(Text('傳統假設：Marr 嘅計算理論')):  33%|███▎      | 12/36 [00:00<00:00, 43.85it/s]Animation 7: Write(Text('傳統假設：Marr 嘅計算理論')):  47%|████▋     | 17/36 [00:00<00:00, 42.76it/s]Animation 7: Write(Text('傳統假設：Marr 嘅計算理論')):  61%|██████    | 22/36 [00:00<00:00, 43.19it/s]Animation 7: Write(Text('傳統假設：Marr 嘅計算理論')):  75%|███████▌  | 27/36 [00:00<00:00, 41.11it/s]Animation 7: Write(Text('傳統假設：Marr 嘅計算理論')):  89%|████████▉ | 32/36 [00:00<00:00, 40.90it/s]                                                                                                      [03/13/26 19:09:39] INFO     Animation 7 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_309153296_3351                         
+                             353890.mp4'                                        
+Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):  11%|█         | 4/36 [00:00<00:01, 25.54it/s]Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):  19%|█▉        | 7/36 [00:00<00:01, 24.65it/s]Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):  28%|██▊       | 10/36 [00:00<00:01, 25.76it/s]Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):  36%|███▌      | 13/36 [00:00<00:00, 26.63it/s]Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):  47%|████▋     | 17/36 [00:00<00:00, 27.79it/s]Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):  56%|█████▌    | 20/36 [00:00<00:00, 28.37it/s]Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):  64%|██████▍   | 23/36 [00:00<00:00, 28.79it/s]Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):  75%|███████▌  | 27/36 [00:00<00:00, 30.99it/s]Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):  86%|████████▌ | 31/36 [00:01<00:00, 32.70it/s]Animation 8: FadeIn(Text('1. 神經檢測 — 視網膜接收光線')):  97%|█████████▋| 35/36 [00:01<00:00, 31.46it/s]                                                                                                          [03/13/26 19:09:42] INFO     Animation 8 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_3873420608_217                         
+                             7953812.mp4'                                       
+Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):   8%|▊         | 3/36 [00:00<00:01, 24.12it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):  17%|█▋        | 6/36 [00:00<00:01, 22.17it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):  25%|██▌       | 9/36 [00:00<00:01, 23.22it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):  33%|███▎      | 12/36 [00:00<00:00, 24.64it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):  42%|████▏     | 15/36 [00:00<00:00, 24.80it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):  50%|█████     | 18/36 [00:00<00:00, 25.76it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):  58%|█████▊    | 21/36 [00:00<00:00, 25.68it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):  67%|██████▋   | 24/36 [00:00<00:00, 26.24it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):  75%|███████▌  | 27/36 [00:01<00:00, 24.54it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):  83%|████████▎ | 30/36 [00:01<00:00, 23.33it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')):  92%|█████████▏| 33/36 [00:01<00:00, 22.34it/s]Animation 9: FadeIn(Text('2. 編碼 — 將刺激轉成神經訊號')): 100%|██████████| 36/36 [00:01<00:00, 23.31it/s]                                                                                                          [03/13/26 19:09:47] INFO     Animation 9 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_550434863_3916                         
+                             35256.mp4'                                         
+Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):   8%|▊         | 3/36 [00:00<00:01, 27.32it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):  17%|█▋        | 6/36 [00:00<00:01, 23.39it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):  25%|██▌       | 9/36 [00:00<00:01, 24.24it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):  33%|███▎      | 12/36 [00:00<00:00, 25.57it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):  42%|████▏     | 15/36 [00:00<00:00, 25.80it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):  50%|█████     | 18/36 [00:00<00:00, 26.29it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):  58%|█████▊    | 21/36 [00:00<00:00, 25.57it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):  67%|██████▋   | 24/36 [00:00<00:00, 26.00it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):  75%|███████▌  | 27/36 [00:01<00:00, 26.56it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):  83%|████████▎ | 30/36 [00:01<00:00, 26.12it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')):  92%|█████████▏| 33/36 [00:01<00:00, 25.19it/s]Animation 10: FadeIn(Text('3. 稀疏表徵 — 建構物理現實嘅內部模型')): 100%|██████████| 36/36 [00:01<00:00, 24.47it/s]                                                                                                                   [03/13/26 19:09:51] INFO     Animation 10 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_282329049_8149                         
+                             16991.mp4'                                         
+[03/13/26 19:10:34] INFO     Animation 11 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_3074505655_427                         
+                             5268268.mp4'                                       
+[03/13/26 19:10:36] INFO     Animation 12 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_807188262_1973                         
+                             017475.mp4'                                        
+Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:   7%|▋         | 2/30 [00:00<00:02, 11.22it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 11.32it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  20%|██        | 6/30 [00:00<00:02, 11.22it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.89it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 10.44it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  40%|████      | 12/30 [00:01<00:01,  9.86it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  43%|████▎     | 13/30 [00:01<00:01,  9.81it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  47%|████▋     | 14/30 [00:01<00:01,  9.73it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  50%|█████     | 15/30 [00:01<00:01,  9.56it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  53%|█████▎    | 16/30 [00:01<00:01,  9.54it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  57%|█████▋    | 17/30 [00:01<00:01,  9.49it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  60%|██████    | 18/30 [00:01<00:01,  9.19it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  63%|██████▎   | 19/30 [00:01<00:01,  9.39it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  67%|██████▋   | 20/30 [00:02<00:01,  9.11it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  70%|███████   | 21/30 [00:02<00:00,  9.14it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  73%|███████▎  | 22/30 [00:02<00:00,  8.84it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  77%|███████▋  | 23/30 [00:02<00:00,  8.64it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  80%|████████  | 24/30 [00:02<00:00,  8.58it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  83%|████████▎ | 25/30 [00:02<00:00,  8.47it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  87%|████████▋ | 26/30 [00:02<00:00,  7.67it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  90%|█████████ | 27/30 [00:02<00:00,  7.87it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  93%|█████████▎| 28/30 [00:03<00:00,  7.99it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.:  97%|█████████▋| 29/30 [00:03<00:00,  8.10it/s]Animation 13: FadeOut(Text('傳統假設：Marr 嘅計算理論')), etc.: 100%|██████████| 30/30 [00:03<00:00,  8.36it/s]                                                                                                               [03/13/26 19:10:43] INFO     Animation 13 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_2318141899_579                         
+                             830659.mp4'                                        
+[03/13/26 19:10:49] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/dan-xi-yo                         
+                             u-ge-gen-ben-wen-ti-ni-wen                         
+                             -ti-tong-yi-e089fe74.mp3                           
+                             to .wav                                            
+Animation 14: Write(Text('困境：逆問題')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 14: Write(Text('困境：逆問題')):  25%|██▌       | 9/36 [00:00<00:00, 85.89it/s]Animation 14: Write(Text('困境：逆問題')):  50%|█████     | 18/36 [00:00<00:00, 73.91it/s]Animation 14: Write(Text('困境：逆問題')):  72%|███████▏  | 26/36 [00:00<00:00, 64.63it/s]Animation 14: Write(Text('困境：逆問題')):  92%|█████████▏| 33/36 [00:00<00:00, 57.87it/s]                                                                                          [03/13/26 19:10:52] INFO     Animation 14 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_2887647779_335                         
+                             1353890.mp4'                                       
+Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):   6%|▋         | 3/48 [00:00<00:01, 25.16it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  12%|█▎        | 6/48 [00:00<00:01, 24.60it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  19%|█▉        | 9/48 [00:00<00:01, 24.68it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  25%|██▌       | 12/48 [00:00<00:01, 24.28it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  31%|███▏      | 15/48 [00:00<00:01, 25.13it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  38%|███▊      | 18/48 [00:00<00:01, 25.21it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  44%|████▍     | 21/48 [00:00<00:01, 24.77it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  50%|█████     | 24/48 [00:00<00:00, 24.97it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  56%|█████▋    | 27/48 [00:01<00:00, 24.63it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  62%|██████▎   | 30/48 [00:01<00:00, 24.47it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  69%|██████▉   | 33/48 [00:01<00:00, 22.86it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  75%|███████▌  | 36/48 [00:01<00:00, 21.82it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  81%|████████▏ | 39/48 [00:01<00:00, 20.41it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  88%|████████▊ | 42/48 [00:01<00:00, 20.69it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  94%|█████████▍| 45/48 [00:02<00:00, 18.80it/s]Animation 15: FadeIn(Text('同一種視網膜刺激可以嚟自唔同嘅物理來源')):  98%|█████████▊| 47/48 [00:02<00:00, 18.00it/s]                                                                                                                     [03/13/26 19:10:57] INFO     Animation 15 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1021213408_490                         
+                             082182.mp4'                                        
+Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):   4%|▍         | 2/48 [00:00<00:02, 18.44it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):   8%|▊         | 4/48 [00:00<00:02, 19.20it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  12%|█▎        | 6/48 [00:00<00:02, 18.51it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  17%|█▋        | 8/48 [00:00<00:02, 18.38it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  23%|██▎       | 11/48 [00:00<00:01, 19.24it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  27%|██▋       | 13/48 [00:00<00:01, 18.71it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  31%|███▏      | 15/48 [00:00<00:01, 19.01it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  35%|███▌      | 17/48 [00:00<00:01, 18.77it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  42%|████▏     | 20/48 [00:01<00:01, 19.18it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  48%|████▊     | 23/48 [00:01<00:01, 19.44it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  52%|█████▏    | 25/48 [00:01<00:01, 19.18it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  58%|█████▊    | 28/48 [00:01<00:01, 19.69it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  62%|██████▎   | 30/48 [00:01<00:00, 19.74it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  67%|██████▋   | 32/48 [00:01<00:00, 19.04it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  71%|███████   | 34/48 [00:01<00:00, 18.42it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  75%|███████▌  | 36/48 [00:01<00:00, 17.41it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  79%|███████▉  | 38/48 [00:02<00:00, 17.08it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  83%|████████▎ | 40/48 [00:02<00:00, 16.72it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  88%|████████▊ | 42/48 [00:02<00:00, 16.49it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  92%|█████████▏| 44/48 [00:02<00:00, 15.42it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')):  96%|█████████▌| 46/48 [00:02<00:00, 15.20it/s]Animation 16: FadeIn(Text('刺激特徵無法單獨映射返去現實 — 歧義性無法解決')): 100%|██████████| 48/48 [00:02<00:00, 15.13it/s]                                                                                                                            [03/13/26 19:11:04] INFO     Animation 16 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_3671481495_395                         
+                             3995213.mp4'                                       
+[03/13/26 19:11:41] INFO     Animation 17 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_4168684359_220                         
+                             6397818.mp4'                                       
+[03/13/26 19:11:43] INFO     Animation 18 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_807188262_1863                         
+                             449415.mp4'                                        
+Animation 19: FadeOut(Text('困境：逆問題')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:   7%|▋         | 2/30 [00:00<00:01, 15.18it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 14.86it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  20%|██        | 6/30 [00:00<00:01, 14.31it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 14.13it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 13.42it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  40%|████      | 12/30 [00:00<00:01, 13.95it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 13.73it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 13.58it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  60%|██████    | 18/30 [00:01<00:00, 13.37it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 13.28it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 12.53it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  80%|████████  | 24/30 [00:01<00:00, 12.17it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 11.77it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 12.25it/s]Animation 19: FadeOut(Text('困境：逆問題')), etc.: 100%|██████████| 30/30 [00:02<00:00, 12.99it/s]                                                                                                  [03/13/26 19:11:48] INFO     Animation 19 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_4033033061_334                         
+                             8197725.mp4'                                       
+[03/13/26 19:11:53] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/jie-jue-f                         
+                             ang-an-xi-jing-yan-zhu-yi-                         
+                             nao-wu-xi-ji-bc0121de.mp3                          
+                             to .wav                                            
+Animation 20: Write(Text('經驗主義嘅解決方案')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 20: Write(Text('經驗主義嘅解決方案')):  17%|█▋        | 6/36 [00:00<00:00, 47.11it/s]Animation 20: Write(Text('經驗主義嘅解決方案')):  31%|███       | 11/36 [00:00<00:00, 40.71it/s]Animation 20: Write(Text('經驗主義嘅解決方案')):  44%|████▍     | 16/36 [00:00<00:00, 36.97it/s]Animation 20: Write(Text('經驗主義嘅解決方案')):  56%|█████▌    | 20/36 [00:00<00:00, 34.46it/s]Animation 20: Write(Text('經驗主義嘅解決方案')):  67%|██████▋   | 24/36 [00:00<00:00, 31.98it/s]Animation 20: Write(Text('經驗主義嘅解決方案')):  78%|███████▊  | 28/36 [00:00<00:00, 30.87it/s]Animation 20: Write(Text('經驗主義嘅解決方案')):  89%|████████▉ | 32/36 [00:00<00:00, 30.58it/s]Animation 20: Write(Text('經驗主義嘅解決方案')): 100%|██████████| 36/36 [00:01<00:00, 30.99it/s]                                                                                                [03/13/26 19:11:57] INFO     Animation 20 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1121695761_335                         
+                             1353890.mp4'                                       
+Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):  10%|█         | 3/30 [00:00<00:01, 20.80it/s]Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):  20%|██        | 6/30 [00:00<00:01, 17.28it/s]Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):  27%|██▋       | 8/30 [00:00<00:01, 17.12it/s]Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):  37%|███▋      | 11/30 [00:00<00:00, 19.89it/s]Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):  47%|████▋     | 14/30 [00:00<00:00, 22.19it/s]Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):  57%|█████▋    | 17/30 [00:00<00:00, 23.14it/s]Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):  67%|██████▋   | 20/30 [00:00<00:00, 23.72it/s]Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):  77%|███████▋  | 23/30 [00:01<00:00, 23.86it/s]Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):  87%|████████▋ | 26/30 [00:01<00:00, 24.56it/s]Animation 21: FadeIn(Text('•  腦累積經驗，唔係計算物理現實')):  97%|█████████▋| 29/30 [00:01<00:00, 25.18it/s]                                                                                                              [03/13/26 19:12:01] INFO     Animation 21 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_3822966087_276                         
+                             3352518.mp4'                                       
+Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):  10%|█         | 3/30 [00:00<00:01, 21.49it/s]Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):  20%|██        | 6/30 [00:00<00:01, 19.87it/s]Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):  27%|██▋       | 8/30 [00:00<00:01, 19.51it/s]Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):  33%|███▎      | 10/30 [00:00<00:01, 19.60it/s]Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):  43%|████▎     | 13/30 [00:00<00:00, 19.73it/s]Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):  53%|█████▎    | 16/30 [00:00<00:00, 20.07it/s]Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):  63%|██████▎   | 19/30 [00:00<00:00, 20.26it/s]Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):  73%|███████▎  | 22/30 [00:01<00:00, 20.15it/s]Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):  83%|████████▎ | 25/30 [00:01<00:00, 20.64it/s]Animation 22: FadeIn(Text('•  試錯學習 — 刺激同反應嘅連結隨經驗改進')):  93%|█████████▎| 28/30 [00:01<00:00, 20.65it/s]                                                                                                                       [03/13/26 19:12:05] INFO     Animation 22 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1856624796_394                         
+                             2114968.mp4'                                       
+Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')):  10%|█         | 3/30 [00:00<00:01, 24.85it/s]Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')):  20%|██        | 6/30 [00:00<00:01, 22.50it/s]Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')):  30%|███       | 9/30 [00:00<00:00, 23.19it/s]Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')):  40%|████      | 12/30 [00:00<00:00, 24.42it/s]Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')):  50%|█████     | 15/30 [00:00<00:00, 24.33it/s]Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')):  60%|██████    | 18/30 [00:00<00:00, 24.79it/s]Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')):  70%|███████   | 21/30 [00:00<00:00, 25.05it/s]Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')):  80%|████████  | 24/30 [00:00<00:00, 25.38it/s]Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')):  90%|█████████ | 27/30 [00:01<00:00, 25.50it/s]Animation 23: FadeIn(Text('•  感知係基於發生頻率，唔係物理測量')): 100%|██████████| 30/30 [00:01<00:00, 25.08it/s]                                                                                                                  [03/13/26 19:12:10] INFO     Animation 23 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_3838020522_325                         
+                             8154475.mp4'                                       
+[03/13/26 19:12:59] INFO     Animation 24 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1594156461_357                         
+                             1818521.mp4'                                       
+[03/13/26 19:13:02] INFO     Animation 25 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_807188262_1765                         
+                             297570.mp4'                                        
+Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:   7%|▋         | 2/30 [00:00<00:02, 10.33it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 10.12it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  20%|██        | 6/30 [00:00<00:02, 10.33it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.73it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 11.09it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  40%|████      | 12/30 [00:01<00:01, 11.38it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 11.67it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 11.79it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  60%|██████    | 18/30 [00:01<00:00, 12.08it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 12.22it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 11.46it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  80%|████████  | 24/30 [00:02<00:00, 10.62it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 10.22it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.:  93%|█████████▎| 28/30 [00:02<00:00,  9.60it/s]Animation 26: FadeOut(Text('經驗主義嘅解決方案')), etc.: 100%|██████████| 30/30 [00:02<00:00,  9.83it/s]                                                                                                        [03/13/26 19:13:09] INFO     Animation 26 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_127717180_3313                         
+                             25867.mp4'                                         
+[03/13/26 19:13:14] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/zong-jie-                         
+                             chuan-tong-jia-she-hua-nao                         
+                             -jian-gou-wu-li-b04836f7.m                         
+                             p3 to .wav                                         
+Animation 27: Write(Text('總結')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 27: Write(Text('總結')):  31%|███       | 11/36 [00:00<00:00, 107.28it/s]Animation 27: Write(Text('總結')):  61%|██████    | 22/36 [00:00<00:00, 94.72it/s] Animation 27: Write(Text('總結')):  89%|████████▉ | 32/36 [00:00<00:00, 85.70it/s]                                                                                  [03/13/26 19:13:16] INFO     Animation 27 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1810312960_335                         
+                             1353890.mp4'                                       
+Animation 28: FadeIn(Text('•  傳統假設：腦建構物理現實表徵（Marr）')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 28: FadeIn(Text('•  傳統假設：腦建構物理現實表徵（Marr）')):  13%|█▎        | 4/30 [00:00<00:00, 35.82it/s]Animation 28: FadeIn(Text('•  傳統假設：腦建構物理現實表徵（Marr）')):  27%|██▋       | 8/30 [00:00<00:00, 31.79it/s]Animation 28: FadeIn(Text('•  傳統假設：腦建構物理現實表徵（Marr）')):  40%|████      | 12/30 [00:00<00:00, 32.11it/s]Animation 28: FadeIn(Text('•  傳統假設：腦建構物理現實表徵（Marr）')):  53%|█████▎    | 16/30 [00:00<00:00, 31.23it/s]Animation 28: FadeIn(Text('•  傳統假設：腦建構物理現實表徵（Marr）')):  67%|██████▋   | 20/30 [00:00<00:00, 31.43it/s]Animation 28: FadeIn(Text('•  傳統假設：腦建構物理現實表徵（Marr）')):  80%|████████  | 24/30 [00:00<00:00, 30.56it/s]Animation 28: FadeIn(Text('•  傳統假設：腦建構物理現實表徵（Marr）')):  93%|█████████▎| 28/30 [00:00<00:00, 30.35it/s]                                                                                                                      [03/13/26 19:13:19] INFO     Animation 28 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_4004580579_946                         
+                             676274.mp4'                                        
+Animation 29: FadeIn(Text('•  逆問題：刺激歧義，無法計算還原')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 29: FadeIn(Text('•  逆問題：刺激歧義，無法計算還原')):  10%|█         | 3/30 [00:00<00:00, 29.45it/s]Animation 29: FadeIn(Text('•  逆問題：刺激歧義，無法計算還原')):  23%|██▎       | 7/30 [00:00<00:00, 32.50it/s]Animation 29: FadeIn(Text('•  逆問題：刺激歧義，無法計算還原')):  37%|███▋      | 11/30 [00:00<00:00, 32.32it/s]Animation 29: FadeIn(Text('•  逆問題：刺激歧義，無法計算還原')):  50%|█████     | 15/30 [00:00<00:00, 31.56it/s]Animation 29: FadeIn(Text('•  逆問題：刺激歧義，無法計算還原')):  63%|██████▎   | 19/30 [00:00<00:00, 32.30it/s]Animation 29: FadeIn(Text('•  逆問題：刺激歧義，無法計算還原')):  77%|███████▋  | 23/30 [00:00<00:00, 32.81it/s]Animation 29: FadeIn(Text('•  逆問題：刺激歧義，無法計算還原')):  90%|█████████ | 27/30 [00:00<00:00, 33.60it/s]                                                                                                                [03/13/26 19:13:22] INFO     Animation 29 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1457356053_263                         
+                             9009771.mp4'                                       
+Animation 30: FadeIn(Text('•  經驗方案：累積經驗、試錯學習')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 30: FadeIn(Text('•  經驗方案：累積經驗、試錯學習')):  13%|█▎        | 4/30 [00:00<00:00, 35.51it/s]Animation 30: FadeIn(Text('•  經驗方案：累積經驗、試錯學習')):  27%|██▋       | 8/30 [00:00<00:00, 34.97it/s]Animation 30: FadeIn(Text('•  經驗方案：累積經驗、試錯學習')):  40%|████      | 12/30 [00:00<00:00, 30.23it/s]Animation 30: FadeIn(Text('•  經驗方案：累積經驗、試錯學習')):  53%|█████▎    | 16/30 [00:00<00:00, 27.81it/s]Animation 30: FadeIn(Text('•  經驗方案：累積經驗、試錯學習')):  63%|██████▎   | 19/30 [00:00<00:00, 27.26it/s]Animation 30: FadeIn(Text('•  經驗方案：累積經驗、試錯學習')):  73%|███████▎  | 22/30 [00:00<00:00, 27.04it/s]Animation 30: FadeIn(Text('•  經驗方案：累積經驗、試錯學習')):  83%|████████▎ | 25/30 [00:00<00:00, 26.42it/s]Animation 30: FadeIn(Text('•  經驗方案：累積經驗、試錯學習')):  93%|█████████▎| 28/30 [00:01<00:00, 26.19it/s]                                                                                                              [03/13/26 19:13:26] INFO     Animation 30 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_2240531022_128                         
+                             0690678.mp4'                                       
+Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):   7%|▋         | 2/30 [00:00<00:01, 17.93it/s]Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):  13%|█▎        | 4/30 [00:00<00:01, 14.40it/s]Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):  23%|██▎       | 7/30 [00:00<00:01, 17.93it/s]Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):  33%|███▎      | 10/30 [00:00<00:00, 20.82it/s]Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):  43%|████▎     | 13/30 [00:00<00:00, 19.61it/s]Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):  53%|█████▎    | 16/30 [00:00<00:00, 21.01it/s]Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):  63%|██████▎   | 19/30 [00:00<00:00, 21.58it/s]Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):  73%|███████▎  | 22/30 [00:01<00:00, 22.30it/s]Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):  83%|████████▎ | 25/30 [00:01<00:00, 23.28it/s]Animation 31: FadeIn(Text('•  注意：由隨機開始，隨經驗改進；分析未必揭示機制')):  93%|█████████▎| 28/30 [00:01<00:00, 23.09it/s]                                                                                                                                [03/13/26 19:13:30] INFO     Animation 31 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1003311529_210                         
+                             4511896.mp4'                                       
+[03/13/26 19:14:16] INFO     Animation 32 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1071877589_145                         
+                             1986252.mp4'                                       
+[03/13/26 19:14:20] INFO     Animation 33 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_3201849554_155                         
+                             2134910.mp4'                                       
+Animation 34: FadeOut(Text('總結')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 34: FadeOut(Text('總結')), etc.:   3%|▎         | 1/30 [00:00<00:03,  8.79it/s]Animation 34: FadeOut(Text('總結')), etc.:   7%|▋         | 2/30 [00:00<00:03,  8.54it/s]Animation 34: FadeOut(Text('總結')), etc.:  10%|█         | 3/30 [00:00<00:03,  8.38it/s]Animation 34: FadeOut(Text('總結')), etc.:  13%|█▎        | 4/30 [00:00<00:03,  8.37it/s]Animation 34: FadeOut(Text('總結')), etc.:  17%|█▋        | 5/30 [00:00<00:03,  8.24it/s]Animation 34: FadeOut(Text('總結')), etc.:  20%|██        | 6/30 [00:00<00:02,  8.14it/s]Animation 34: FadeOut(Text('總結')), etc.:  23%|██▎       | 7/30 [00:00<00:02,  7.92it/s]Animation 34: FadeOut(Text('總結')), etc.:  27%|██▋       | 8/30 [00:00<00:02,  7.80it/s]Animation 34: FadeOut(Text('總結')), etc.:  30%|███       | 9/30 [00:01<00:02,  7.92it/s]Animation 34: FadeOut(Text('總結')), etc.:  33%|███▎      | 10/30 [00:01<00:02,  7.89it/s]Animation 34: FadeOut(Text('總結')), etc.:  37%|███▋      | 11/30 [00:01<00:02,  7.97it/s]Animation 34: FadeOut(Text('總結')), etc.:  40%|████      | 12/30 [00:01<00:02,  7.67it/s]Animation 34: FadeOut(Text('總結')), etc.:  43%|████▎     | 13/30 [00:01<00:02,  7.61it/s]Animation 34: FadeOut(Text('總結')), etc.:  47%|████▋     | 14/30 [00:01<00:02,  7.65it/s]Animation 34: FadeOut(Text('總結')), etc.:  50%|█████     | 15/30 [00:01<00:01,  7.62it/s]Animation 34: FadeOut(Text('總結')), etc.:  53%|█████▎    | 16/30 [00:02<00:01,  8.03it/s]Animation 34: FadeOut(Text('總結')), etc.:  57%|█████▋    | 17/30 [00:02<00:01,  8.30it/s]Animation 34: FadeOut(Text('總結')), etc.:  60%|██████    | 18/30 [00:02<00:01,  8.07it/s]Animation 34: FadeOut(Text('總結')), etc.:  63%|██████▎   | 19/30 [00:02<00:01,  8.06it/s]Animation 34: FadeOut(Text('總結')), etc.:  67%|██████▋   | 20/30 [00:02<00:01,  7.59it/s]Animation 34: FadeOut(Text('總結')), etc.:  70%|███████   | 21/30 [00:02<00:01,  7.99it/s]Animation 34: FadeOut(Text('總結')), etc.:  73%|███████▎  | 22/30 [00:02<00:01,  7.78it/s]Animation 34: FadeOut(Text('總結')), etc.:  77%|███████▋  | 23/30 [00:02<00:00,  7.65it/s]Animation 34: FadeOut(Text('總結')), etc.:  80%|████████  | 24/30 [00:03<00:00,  7.64it/s]Animation 34: FadeOut(Text('總結')), etc.:  83%|████████▎ | 25/30 [00:03<00:00,  7.65it/s]Animation 34: FadeOut(Text('總結')), etc.:  87%|████████▋ | 26/30 [00:03<00:00,  7.51it/s]Animation 34: FadeOut(Text('總結')), etc.:  90%|█████████ | 27/30 [00:03<00:00,  7.13it/s]Animation 34: FadeOut(Text('總結')), etc.:  93%|█████████▎| 28/30 [00:03<00:00,  7.08it/s]Animation 34: FadeOut(Text('總結')), etc.:  97%|█████████▋| 29/30 [00:03<00:00,  7.32it/s]Animation 34: FadeOut(Text('總結')), etc.: 100%|██████████| 30/30 [00:03<00:00,  7.61it/s]                                                                                          [03/13/26 19:14:28] INFO     Animation 34 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1039554752_376                         
+                             1010757.mp4'                                       
+[03/13/26 19:14:33] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/duo-xie-s                         
+                             hou-di-xia-yi-ke-wo-di-hui                         
+                             -jiang-kong-8b573e11.mp3                           
+                             to .wav                                            
+Animation 35: Write(Text('多謝收睇！')):   0%|          | 0/60 [00:00<?, ?it/s]Animation 35: Write(Text('多謝收睇！')):  15%|█▌        | 9/60 [00:00<00:00, 81.33it/s]Animation 35: Write(Text('多謝收睇！')):  30%|███       | 18/60 [00:00<00:00, 71.40it/s]Animation 35: Write(Text('多謝收睇！')):  43%|████▎     | 26/60 [00:00<00:00, 62.76it/s]Animation 35: Write(Text('多謝收睇！')):  55%|█████▌    | 33/60 [00:00<00:00, 55.95it/s]Animation 35: Write(Text('多謝收睇！')):  65%|██████▌   | 39/60 [00:00<00:00, 52.67it/s]Animation 35: Write(Text('多謝收睇！')):  75%|███████▌  | 45/60 [00:00<00:00, 51.08it/s]Animation 35: Write(Text('多謝收睇！')):  85%|████████▌ | 51/60 [00:00<00:00, 53.05it/s]Animation 35: Write(Text('多謝收睇！')):  95%|█████████▌| 57/60 [00:01<00:00, 52.34it/s]                                                                                        [03/13/26 19:14:37] INFO     Animation 35 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_566641700_3351                         
+                             353890.mp4'                                        
+[03/13/26 19:15:10] INFO     Animation 36 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_2969526809_768                         
+                             790109.mp4'                                        
+[03/13/26 19:15:13] INFO     Animation 37 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_1839128356_172                         
+                             506406.mp4'                                        
+Animation 38: FadeOut(Text('多謝收睇！')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 38: FadeOut(Text('多謝收睇！')):  15%|█▍        | 7/48 [00:00<00:00, 60.98it/s]Animation 38: FadeOut(Text('多謝收睇！')):  29%|██▉       | 14/48 [00:00<00:00, 65.45it/s]Animation 38: FadeOut(Text('多謝收睇！')):  44%|████▍     | 21/48 [00:00<00:00, 64.62it/s]Animation 38: FadeOut(Text('多謝收睇！')):  58%|█████▊    | 28/48 [00:00<00:00, 65.00it/s]Animation 38: FadeOut(Text('多謝收睇！')):  73%|███████▎  | 35/48 [00:00<00:00, 63.88it/s]Animation 38: FadeOut(Text('多謝收睇！')):  88%|████████▊ | 42/48 [00:00<00:00, 60.69it/s]                                                                                          [03/13/26 19:15:17] INFO     Animation 38 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/WhatWePerceiveExplainer                         
+                             /2135761390_2188973919_316                         
+                             7764975.mp4'                                       
+                    INFO     Combining to Movie file.   scene_file_writer.py:753
+[03/13/26 19:15:26] WARNING  Some options were not      scene_file_writer.py:819
+                             used: {'shortest': '1',                            
+                             'metadata':                                        
+                             'comment=Rendered with                             
+                             Manim Community v0.20.1'}                          
+                    INFO                                scene_file_writer.py:904
+                             File ready at                                      
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             8/video/media/videos/scene                         
+                             /1080p60/WhatWePerceiveExp                         
+                             lainer.mp4'                                        
+                                                                                
+                    INFO     Subcaption file has been   scene_file_writer.py:899
+                             written as                                         
+                             /home/peter/workspace/why-                         
+                             brains-dont-compute/lesson                         
+                                                                                
+                             8/video/media/videos/scene                         
+                             /1080p60/WhatWePerceiveExp                         
+                             lainer.srt                                         
+                    INFO     Rendered WhatWePerceiveExplainer       scene.py:278
+                             Played 39 animations                               

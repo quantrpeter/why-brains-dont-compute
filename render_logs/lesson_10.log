@@ -1,0 +1,514 @@
+/home/peter/.pyenv/versions/3.13.5/lib/python3.13/site-packages/manim_voiceover/__init__.py:4: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Manim Community v0.20.1
+
+[03/13/26 19:13:38] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/da-jia-ha                         
+                             o-huan-ying-li-dao-di-shi-                         
+                             ke-jin-ri-wo-di-7190aea3.m                         
+                             p3 to .wav                                         
+Animation 0: Write(Text('角度')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 0: Write(Text('角度')):   8%|▊         | 7/90 [00:00<00:01, 61.27it/s]Animation 0: Write(Text('角度')):  17%|█▋        | 15/90 [00:00<00:01, 66.94it/s]Animation 0: Write(Text('角度')):  27%|██▋       | 24/90 [00:00<00:00, 71.30it/s]Animation 0: Write(Text('角度')):  36%|███▌      | 32/90 [00:00<00:00, 70.89it/s]Animation 0: Write(Text('角度')):  44%|████▍     | 40/90 [00:00<00:00, 68.52it/s]Animation 0: Write(Text('角度')):  53%|█████▎    | 48/90 [00:00<00:00, 68.35it/s]Animation 0: Write(Text('角度')):  61%|██████    | 55/90 [00:00<00:00, 63.33it/s]Animation 0: Write(Text('角度')):  69%|██████▉   | 62/90 [00:00<00:00, 54.65it/s]Animation 0: Write(Text('角度')):  76%|███████▌  | 68/90 [00:01<00:00, 48.11it/s]Animation 0: Write(Text('角度')):  82%|████████▏ | 74/90 [00:01<00:00, 48.70it/s]Animation 0: Write(Text('角度')):  89%|████████▉ | 80/90 [00:01<00:00, 49.10it/s]Animation 0: Write(Text('角度')):  96%|█████████▌| 86/90 [00:01<00:00, 36.33it/s]                                                                                 [03/13/26 19:13:45] INFO     Animation 0 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/225729                         
+                             3077_1327875538_3351353890                         
+                             .mp4'                                              
+Animation 1: FadeIn(Text('Angles')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 1: FadeIn(Text('Angles')):  15%|█▍        | 7/48 [00:00<00:00, 56.80it/s]Animation 1: FadeIn(Text('Angles')):  27%|██▋       | 13/48 [00:00<00:00, 56.59it/s]Animation 1: FadeIn(Text('Angles')):  40%|███▉      | 19/48 [00:00<00:00, 57.83it/s]Animation 1: FadeIn(Text('Angles')):  52%|█████▏    | 25/48 [00:00<00:00, 55.76it/s]Animation 1: FadeIn(Text('Angles')):  67%|██████▋   | 32/48 [00:00<00:00, 57.70it/s]Animation 1: FadeIn(Text('Angles')):  79%|███████▉  | 38/48 [00:00<00:00, 57.83it/s]Animation 1: FadeIn(Text('Angles')):  94%|█████████▍| 45/48 [00:00<00:00, 57.81it/s]                                                                                    [03/13/26 19:13:48] INFO     Animation 1 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_2422577137_1251460156                         
+                             .mp4'                                              
+Animation 2: FadeIn(Text('第十課')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 2: FadeIn(Text('第十課')):  12%|█▎        | 6/48 [00:00<00:00, 53.63it/s]Animation 2: FadeIn(Text('第十課')):  25%|██▌       | 12/48 [00:00<00:00, 51.02it/s]Animation 2: FadeIn(Text('第十課')):  40%|███▉      | 19/48 [00:00<00:00, 56.51it/s]Animation 2: FadeIn(Text('第十課')):  52%|█████▏    | 25/48 [00:00<00:00, 56.73it/s]Animation 2: FadeIn(Text('第十課')):  67%|██████▋   | 32/48 [00:00<00:00, 57.68it/s]Animation 2: FadeIn(Text('第十課')):  81%|████████▏ | 39/48 [00:00<00:00, 60.36it/s]Animation 2: FadeIn(Text('第十課')):  96%|█████████▌| 46/48 [00:00<00:00, 60.65it/s]                                                                                    [03/13/26 19:13:52] INFO     Animation 2 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_2381572336_1068130010                         
+                             .mp4'                                              
+Animation 3: FadeIn(Text('制片人：Peter')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 3: FadeIn(Text('制片人：Peter')):  17%|█▋        | 5/30 [00:00<00:00, 46.02it/s]Animation 3: FadeIn(Text('制片人：Peter')):  33%|███▎      | 10/30 [00:00<00:00, 45.12it/s]Animation 3: FadeIn(Text('制片人：Peter')):  57%|█████▋    | 17/30 [00:00<00:00, 49.90it/s]Animation 3: FadeIn(Text('制片人：Peter')):  77%|███████▋  | 23/30 [00:00<00:00, 49.02it/s]Animation 3: FadeIn(Text('制片人：Peter')):  97%|█████████▋| 29/30 [00:00<00:00, 52.02it/s]                                                                                           [03/13/26 19:13:55] INFO     Animation 3 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_796818243_702381826.m                         
+                             p4'                                                
+[03/13/26 19:14:31] INFO     Animation 4 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_3725676133_1499115678                         
+                             .mp4'                                              
+[03/13/26 19:14:33] INFO     Animation 5 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_807188262_1944819672.                         
+                             mp4'                                               
+Animation 6: FadeOut(Text('角度')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 6: FadeOut(Text('角度')), etc.:  10%|█         | 3/30 [00:00<00:00, 28.09it/s]Animation 6: FadeOut(Text('角度')), etc.:  20%|██        | 6/30 [00:00<00:00, 24.21it/s]Animation 6: FadeOut(Text('角度')), etc.:  30%|███       | 9/30 [00:00<00:00, 25.45it/s]Animation 6: FadeOut(Text('角度')), etc.:  40%|████      | 12/30 [00:00<00:00, 26.07it/s]Animation 6: FadeOut(Text('角度')), etc.:  53%|█████▎    | 16/30 [00:00<00:00, 27.70it/s]Animation 6: FadeOut(Text('角度')), etc.:  67%|██████▋   | 20/30 [00:00<00:00, 29.72it/s]Animation 6: FadeOut(Text('角度')), etc.:  77%|███████▋  | 23/30 [00:00<00:00, 29.35it/s]Animation 6: FadeOut(Text('角度')), etc.:  87%|████████▋ | 26/30 [00:00<00:00, 28.43it/s]Animation 6: FadeOut(Text('角度')), etc.:  97%|█████████▋| 29/30 [00:01<00:00, 28.48it/s]                                                                                         [03/13/26 19:14:36] INFO     Animation 6 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1624016093_3868947444                         
+                             .mp4'                                              
+[03/13/26 19:14:41] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/rui-jiao-                         
+                             hui-bei-gao-gu-di-luo-da-g                         
+                             uo-shi-ji-dun-2e010c72.mp3                         
+                              to .wav                                           
+Animation 7: Write(Text('感知到嘅角度')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 7: Write(Text('感知到嘅角度')):  17%|█▋        | 6/36 [00:00<00:00, 57.22it/s]Animation 7: Write(Text('感知到嘅角度')):  33%|███▎      | 12/36 [00:00<00:00, 51.26it/s]Animation 7: Write(Text('感知到嘅角度')):  50%|█████     | 18/36 [00:00<00:00, 47.67it/s]Animation 7: Write(Text('感知到嘅角度')):  64%|██████▍   | 23/36 [00:00<00:00, 45.66it/s]Animation 7: Write(Text('感知到嘅角度')):  78%|███████▊  | 28/36 [00:00<00:00, 44.41it/s]Animation 7: Write(Text('感知到嘅角度')):  92%|█████████▏| 33/36 [00:00<00:00, 44.03it/s]                                                                                         [03/13/26 19:14:44] INFO     Animation 7 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_826681009_3351353890.                         
+                             mp4'                                               
+Animation 8: FadeIn(Text('•  銳角 — 被高估（睇落大過實際）')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 8: FadeIn(Text('•  銳角 — 被高估（睇落大過實際）')):  10%|█         | 3/30 [00:00<00:00, 28.88it/s]Animation 8: FadeIn(Text('•  銳角 — 被高估（睇落大過實際）')):  20%|██        | 6/30 [00:00<00:00, 24.58it/s]Animation 8: FadeIn(Text('•  銳角 — 被高估（睇落大過實際）')):  30%|███       | 9/30 [00:00<00:00, 25.98it/s]Animation 8: FadeIn(Text('•  銳角 — 被高估（睇落大過實際）')):  43%|████▎     | 13/30 [00:00<00:00, 27.98it/s]Animation 8: FadeIn(Text('•  銳角 — 被高估（睇落大過實際）')):  53%|█████▎    | 16/30 [00:00<00:00, 28.44it/s]Animation 8: FadeIn(Text('•  銳角 — 被高估（睇落大過實際）')):  67%|██████▋   | 20/30 [00:00<00:00, 30.09it/s]Animation 8: FadeIn(Text('•  銳角 — 被高估（睇落大過實際）')):  80%|████████  | 24/30 [00:00<00:00, 29.18it/s]Animation 8: FadeIn(Text('•  銳角 — 被高估（睇落大過實際）')):  93%|█████████▎| 28/30 [00:00<00:00, 29.14it/s]                                                                                                              [03/13/26 19:14:47] INFO     Animation 8 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_3658535936_1909842169                         
+                             .mp4'                                              
+Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')):  10%|█         | 3/30 [00:00<00:00, 28.21it/s]Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')):  20%|██        | 6/30 [00:00<00:01, 23.64it/s]Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')):  30%|███       | 9/30 [00:00<00:00, 24.81it/s]Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')):  40%|████      | 12/30 [00:00<00:00, 26.33it/s]Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')):  50%|█████     | 15/30 [00:00<00:00, 27.15it/s]Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')):  60%|██████    | 18/30 [00:00<00:00, 27.44it/s]Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')):  70%|███████   | 21/30 [00:00<00:00, 27.31it/s]Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')):  80%|████████  | 24/30 [00:00<00:00, 27.42it/s]Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')):  90%|█████████ | 27/30 [00:01<00:00, 27.57it/s]Animation 9: FadeIn(Text('•  鈍角 — 被低估（睇落細過實際）')): 100%|██████████| 30/30 [00:01<00:00, 27.39it/s]                                                                                                              [03/13/26 19:14:51] INFO     Animation 9 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_417682564_3601603732.                         
+                             mp4'                                               
+Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')):  10%|█         | 3/30 [00:00<00:00, 29.04it/s]Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')):  20%|██        | 6/30 [00:00<00:00, 26.90it/s]Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')):  30%|███       | 9/30 [00:00<00:00, 26.62it/s]Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')):  40%|████      | 12/30 [00:00<00:00, 26.30it/s]Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')):  50%|█████     | 15/30 [00:00<00:00, 27.14it/s]Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')):  60%|██████    | 18/30 [00:00<00:00, 27.97it/s]Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')):  70%|███████   | 21/30 [00:00<00:00, 28.15it/s]Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')):  80%|████████  | 24/30 [00:00<00:00, 27.94it/s]Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')):  90%|█████████ | 27/30 [00:00<00:00, 28.44it/s]Animation 10: FadeIn(Text('•  系統性嘅錯估，唔係隨機誤差')): 100%|██████████| 30/30 [00:01<00:00, 27.47it/s]                                                                                                            [03/13/26 19:14:55] INFO     Animation 10 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_3829530338_4059901305                         
+                             .mp4'                                              
+[03/13/26 19:15:24] INFO     Animation 11 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1277245203_1890341576                         
+                             .mp4'                                              
+[03/13/26 19:15:26] INFO     Animation 12 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_807188262_3007370952.                         
+                             mp4'                                               
+Animation 13: FadeOut(Text('感知到嘅角度')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:   7%|▋         | 2/30 [00:00<00:02, 11.87it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 11.15it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  20%|██        | 6/30 [00:00<00:02, 10.44it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 12.19it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 13.86it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  40%|████      | 12/30 [00:00<00:01, 14.97it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 15.40it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  53%|█████▎    | 16/30 [00:01<00:00, 15.85it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  60%|██████    | 18/30 [00:01<00:00, 16.41it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 16.66it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 16.51it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  80%|████████  | 24/30 [00:01<00:00, 16.89it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 17.10it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.:  93%|█████████▎| 28/30 [00:01<00:00, 15.85it/s]Animation 13: FadeOut(Text('感知到嘅角度')), etc.: 100%|██████████| 30/30 [00:02<00:00, 15.34it/s]                                                                                                  [03/13/26 19:15:31] INFO     Animation 13 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_3062637714_1435609522                         
+                             .mp4'                                              
+[03/13/26 19:15:36] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/ji-guang-                         
+                             sao-miao-zi-ran-chang-jing                         
+                             -xian-shi-jiu-a0cbc6f5.mp3                         
+                              to .wav                                           
+Animation 14: Write(Text('角度來源嘅頻率')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 14: Write(Text('角度來源嘅頻率')):  25%|██▌       | 9/36 [00:00<00:00, 85.67it/s]Animation 14: Write(Text('角度來源嘅頻率')):  50%|█████     | 18/36 [00:00<00:00, 73.01it/s]Animation 14: Write(Text('角度來源嘅頻率')):  72%|███████▏  | 26/36 [00:00<00:00, 62.01it/s]Animation 14: Write(Text('角度來源嘅頻率')):  92%|█████████▏| 33/36 [00:00<00:00, 55.39it/s]                                                                                            [03/13/26 19:15:38] INFO     Animation 14 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_289829897_3351353890.                         
+                             mp4'                                               
+Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):   6%|▋         | 3/48 [00:00<00:01, 28.68it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  12%|█▎        | 6/48 [00:00<00:01, 24.29it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  19%|█▉        | 9/48 [00:00<00:01, 24.21it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  25%|██▌       | 12/48 [00:00<00:01, 23.01it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  31%|███▏      | 15/48 [00:00<00:01, 21.05it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  38%|███▊      | 18/48 [00:00<00:01, 20.87it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  44%|████▍     | 21/48 [00:00<00:01, 21.08it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  50%|█████     | 24/48 [00:01<00:01, 20.78it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  56%|█████▋    | 27/48 [00:01<00:00, 21.37it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  62%|██████▎   | 30/48 [00:01<00:00, 20.34it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  69%|██████▉   | 33/48 [00:01<00:00, 20.16it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  75%|███████▌  | 36/48 [00:01<00:00, 19.85it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  79%|███████▉  | 38/48 [00:01<00:00, 18.61it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  83%|████████▎ | 40/48 [00:01<00:00, 18.09it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  88%|████████▊ | 42/48 [00:02<00:00, 16.52it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  92%|█████████▏| 44/48 [00:02<00:00, 16.53it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')):  96%|█████████▌| 46/48 [00:02<00:00, 15.31it/s]Animation 15: FadeIn(Text('激光掃描顯示：90° 投影最唔常見')): 100%|██████████| 48/48 [00:02<00:00, 15.07it/s]                                                                                                             [03/13/26 19:15:44] INFO     Animation 15 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1418902950_3177413911                         
+                             .mp4'                                              
+Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):   6%|▋         | 3/48 [00:00<00:01, 29.57it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  12%|█▎        | 6/48 [00:00<00:01, 24.99it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  19%|█▉        | 9/48 [00:00<00:01, 24.47it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  25%|██▌       | 12/48 [00:00<00:01, 24.90it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  31%|███▏      | 15/48 [00:00<00:01, 24.31it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  38%|███▊      | 18/48 [00:00<00:01, 23.09it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  44%|████▍     | 21/48 [00:00<00:01, 24.12it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  50%|█████     | 24/48 [00:00<00:00, 25.42it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  56%|█████▋    | 27/48 [00:01<00:00, 25.74it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  62%|██████▎   | 30/48 [00:01<00:00, 23.58it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  69%|██████▉   | 33/48 [00:01<00:00, 22.46it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  75%|███████▌  | 36/48 [00:01<00:00, 21.06it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  81%|████████▏ | 39/48 [00:01<00:00, 20.84it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  88%|████████▊ | 42/48 [00:01<00:00, 20.45it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')):  94%|█████████▍| 45/48 [00:01<00:00, 20.72it/s]Animation 16: FadeIn(Text('直角來源需要較大嘅平面表面 — 自然界較少見')): 100%|██████████| 48/48 [00:02<00:00, 21.42it/s]                                                                                                                        [03/13/26 19:15:50] INFO     Animation 16 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_4217761694_741246818.                         
+                             mp4'                                               
+[03/13/26 19:16:23] INFO     Animation 17 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_2867589407_2010810005                         
+                             .mp4'                                              
+[03/13/26 19:16:25] INFO     Animation 18 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_807188262_1085524704.                         
+                             mp4'                                               
+Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:   7%|▋         | 2/30 [00:00<00:01, 14.42it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 14.81it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  20%|██        | 6/30 [00:00<00:01, 14.85it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 14.20it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 14.07it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  40%|████      | 12/30 [00:00<00:01, 13.62it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  47%|████▋     | 14/30 [00:00<00:01, 13.94it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 13.52it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  60%|██████    | 18/30 [00:01<00:00, 13.65it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 13.54it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 13.45it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  80%|████████  | 24/30 [00:01<00:00, 13.55it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 13.59it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 13.51it/s]Animation 19: FadeOut(Text('角度來源嘅頻率')), etc.: 100%|██████████| 30/30 [00:02<00:00, 13.18it/s]                                                                                                    [03/13/26 19:16:31] INFO     Animation 19 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_86942656_3959969942.m                         
+                             p4'                                                
+[03/13/26 19:16:35] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/tou-ying-                         
+                             jiao-du-kai-jing-yan-pai-m                         
+                             ing-ke-yi-yu-ce-02e9fd62.m                         
+                             p3 to .wav                                         
+Animation 20: Write(Text('經驗主義解釋')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 20: Write(Text('經驗主義解釋')):  22%|██▏       | 8/36 [00:00<00:00, 76.19it/s]Animation 20: Write(Text('經驗主義解釋')):  44%|████▍     | 16/36 [00:00<00:00, 64.34it/s]Animation 20: Write(Text('經驗主義解釋')):  64%|██████▍   | 23/36 [00:00<00:00, 60.84it/s]Animation 20: Write(Text('經驗主義解釋')):  83%|████████▎ | 30/36 [00:00<00:00, 52.78it/s]Animation 20: Write(Text('經驗主義解釋')): 100%|██████████| 36/36 [00:00<00:00, 49.91it/s]                                                                                          [03/13/26 19:16:38] INFO     Animation 20 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_3054676738_3351353890                         
+                             .mp4'                                              
+Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):   6%|▋         | 3/48 [00:00<00:01, 28.31it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  12%|█▎        | 6/48 [00:00<00:01, 26.42it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  19%|█▉        | 9/48 [00:00<00:01, 25.87it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  27%|██▋       | 13/48 [00:00<00:01, 28.14it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  33%|███▎      | 16/48 [00:00<00:01, 28.21it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  40%|███▉      | 19/48 [00:00<00:01, 26.79it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  46%|████▌     | 22/48 [00:00<00:01, 25.91it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  52%|█████▏    | 25/48 [00:00<00:00, 25.10it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  58%|█████▊    | 28/48 [00:01<00:00, 25.85it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  65%|██████▍   | 31/48 [00:01<00:00, 26.43it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  71%|███████   | 34/48 [00:01<00:00, 24.89it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  77%|███████▋  | 37/48 [00:01<00:00, 25.47it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  83%|████████▎ | 40/48 [00:01<00:00, 25.28it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  90%|████████▉ | 43/48 [00:01<00:00, 24.09it/s]Animation 21: FadeIn(Text('投影角度嘅經驗排名 → 預測心理物理數據')):  96%|█████████▌| 46/48 [00:01<00:00, 23.87it/s]                                                                                                                    [03/13/26 19:16:42] INFO     Animation 21 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_3187015909_2565537351                         
+                             .mp4'                                              
+Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):   6%|▋         | 3/48 [00:00<00:01, 25.88it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  12%|█▎        | 6/48 [00:00<00:01, 24.47it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  19%|█▉        | 9/48 [00:00<00:01, 22.60it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  25%|██▌       | 12/48 [00:00<00:01, 22.27it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  31%|███▏      | 15/48 [00:00<00:01, 22.53it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  38%|███▊      | 18/48 [00:00<00:01, 21.20it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  44%|████▍     | 21/48 [00:00<00:01, 22.03it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  50%|█████     | 24/48 [00:01<00:01, 21.94it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  56%|█████▋    | 27/48 [00:01<00:00, 21.73it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  62%|██████▎   | 30/48 [00:01<00:00, 21.42it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  69%|██████▉   | 33/48 [00:01<00:00, 20.90it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  75%|███████▌  | 36/48 [00:01<00:00, 21.70it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  81%|████████▏ | 39/48 [00:01<00:00, 20.83it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  88%|████████▊ | 42/48 [00:01<00:00, 20.68it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')):  94%|█████████▍| 45/48 [00:02<00:00, 20.84it/s]Animation 22: FadeIn(Text('較少見嘅角度投影，感知上會被放大；較常見嘅會被縮細')): 100%|██████████| 48/48 [00:02<00:00, 21.46it/s]                                                                                                                                 [03/13/26 19:16:47] INFO     Animation 22 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1446945649_479913088.                         
+                             mp4'                                               
+[03/13/26 19:17:28] INFO     Animation 23 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_2160711667_2798317882                         
+                             .mp4'                                              
+[03/13/26 19:17:31] INFO     Animation 24 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_807188262_555199559.m                         
+                             p4'                                                
+Animation 25: FadeOut(Text('經驗主義解釋')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:   3%|▎         | 1/30 [00:00<00:03,  9.64it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  10%|█         | 3/30 [00:00<00:02, 11.24it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  17%|█▋        | 5/30 [00:00<00:02, 11.51it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  23%|██▎       | 7/30 [00:00<00:02, 11.37it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  30%|███       | 9/30 [00:00<00:01, 11.58it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  37%|███▋      | 11/30 [00:00<00:01, 11.57it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  43%|████▎     | 13/30 [00:01<00:01, 11.07it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  50%|█████     | 15/30 [00:01<00:01, 10.48it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  57%|█████▋    | 17/30 [00:01<00:01, 10.67it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  63%|██████▎   | 19/30 [00:01<00:01, 10.78it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  70%|███████   | 21/30 [00:01<00:00, 10.96it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  77%|███████▋  | 23/30 [00:02<00:00, 10.81it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  83%|████████▎ | 25/30 [00:02<00:00, 11.01it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  90%|█████████ | 27/30 [00:02<00:00, 10.77it/s]Animation 25: FadeOut(Text('經驗主義解釋')), etc.:  97%|█████████▋| 29/30 [00:02<00:00, 10.21it/s]                                                                                                  [03/13/26 19:17:37] INFO     Animation 25 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1232297494_2033902762                         
+                             .mp4'                                              
+[03/13/26 19:17:41] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/you-ren-t                         
+                             i-chu-yan-jing-jie-pou-ce-                         
+                             yi-zhi-deng-jie-3779f95b.m                         
+                             p3 to .wav                                         
+Animation 26: Write(Text('其他解釋點解唔成立')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 26: Write(Text('其他解釋點解唔成立')):  22%|██▏       | 8/36 [00:00<00:00, 78.18it/s]Animation 26: Write(Text('其他解釋點解唔成立')):  44%|████▍     | 16/36 [00:00<00:00, 57.81it/s]Animation 26: Write(Text('其他解釋點解唔成立')):  64%|██████▍   | 23/36 [00:00<00:00, 47.27it/s]Animation 26: Write(Text('其他解釋點解唔成立')):  81%|████████  | 29/36 [00:00<00:00, 40.97it/s]Animation 26: Write(Text('其他解釋點解唔成立')):  94%|█████████▍| 34/36 [00:00<00:00, 37.75it/s]                                                                                                [03/13/26 19:17:44] INFO     Animation 26 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1893153641_3351353890                         
+                             .mp4'                                              
+Animation 27: FadeIn(Text('•  眼睛解剖 — 冇證據支持')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 27: FadeIn(Text('•  眼睛解剖 — 冇證據支持')):  17%|█▋        | 5/30 [00:00<00:00, 49.15it/s]Animation 27: FadeIn(Text('•  眼睛解剖 — 冇證據支持')):  33%|███▎      | 10/30 [00:00<00:00, 46.69it/s]Animation 27: FadeIn(Text('•  眼睛解剖 — 冇證據支持')):  50%|█████     | 15/30 [00:00<00:00, 44.30it/s]Animation 27: FadeIn(Text('•  眼睛解剖 — 冇證據支持')):  67%|██████▋   | 20/30 [00:00<00:00, 43.97it/s]Animation 27: FadeIn(Text('•  眼睛解剖 — 冇證據支持')):  83%|████████▎ | 25/30 [00:00<00:00, 43.32it/s]Animation 27: FadeIn(Text('•  眼睛解剖 — 冇證據支持')): 100%|██████████| 30/30 [00:00<00:00, 43.24it/s]                                                                                                       [03/13/26 19:17:46] INFO     Animation 27 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_3512217696_2594279251                         
+                             .mp4'                                              
+Animation 28: FadeIn(Text('•  側抑制 — 冇證據支持')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 28: FadeIn(Text('•  側抑制 — 冇證據支持')):  23%|██▎       | 7/30 [00:00<00:00, 61.54it/s]Animation 28: FadeIn(Text('•  側抑制 — 冇證據支持')):  47%|████▋     | 14/30 [00:00<00:00, 61.42it/s]Animation 28: FadeIn(Text('•  側抑制 — 冇證據支持')):  70%|███████   | 21/30 [00:00<00:00, 60.22it/s]Animation 28: FadeIn(Text('•  側抑制 — 冇證據支持')):  93%|█████████▎| 28/30 [00:00<00:00, 60.27it/s]                                                                                                     [03/13/26 19:17:48] INFO     Animation 28 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_3552018078_3582073012                         
+                             .mp4'                                              
+Animation 29: FadeIn(Text('•  經驗排名係唯一能預測數據嘅框架')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 29: FadeIn(Text('•  經驗排名係唯一能預測數據嘅框架')):  20%|██        | 6/30 [00:00<00:00, 50.08it/s]Animation 29: FadeIn(Text('•  經驗排名係唯一能預測數據嘅框架')):  40%|████      | 12/30 [00:00<00:00, 49.91it/s]Animation 29: FadeIn(Text('•  經驗排名係唯一能預測數據嘅框架')):  57%|█████▋    | 17/30 [00:00<00:00, 48.99it/s]Animation 29: FadeIn(Text('•  經驗排名係唯一能預測數據嘅框架')):  73%|███████▎  | 22/30 [00:00<00:00, 47.34it/s]Animation 29: FadeIn(Text('•  經驗排名係唯一能預測數據嘅框架')):  90%|█████████ | 27/30 [00:00<00:00, 45.90it/s]                                                                                                                [03/13/26 19:17:51] INFO     Animation 29 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1518241741_1727639121                         
+                             .mp4'                                              
+[03/13/26 19:18:13] INFO     Animation 30 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_847421149_3879940262.                         
+                             mp4'                                               
+[03/13/26 19:18:16] INFO     Animation 31 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_807188262_110432865.m                         
+                             p4'                                                
+Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:   7%|▋         | 2/30 [00:00<00:01, 14.80it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 14.10it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  20%|██        | 6/30 [00:00<00:01, 14.16it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 14.03it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 14.03it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  40%|████      | 12/30 [00:00<00:01, 13.27it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 12.22it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 12.29it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  60%|██████    | 18/30 [00:01<00:01, 11.71it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 11.65it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 12.08it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  80%|████████  | 24/30 [00:01<00:00, 12.00it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 11.97it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 11.53it/s]Animation 32: FadeOut(Text('其他解釋點解唔成立')), etc.: 100%|██████████| 30/30 [00:02<00:00, 11.48it/s]                                                                                                        [03/13/26 19:18:22] INFO     Animation 32 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_4273077891_1098158422                         
+                             .mp4'                                              
+[03/13/26 19:18:33] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/zong-jie-                         
+                             rui-jiao-gao-gu-dun-jiao-d                         
+                             i-gu-jiu-shi-du-a4844322.m                         
+                             p3 to .wav                                         
+Animation 33: Write(Text('總結')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 33: Write(Text('總結')):  25%|██▌       | 9/36 [00:00<00:00, 84.06it/s]Animation 33: Write(Text('總結')):  50%|█████     | 18/36 [00:00<00:00, 71.71it/s]Animation 33: Write(Text('總結')):  72%|███████▏  | 26/36 [00:00<00:00, 68.30it/s]Animation 33: Write(Text('總結')):  94%|█████████▍| 34/36 [00:00<00:00, 71.83it/s]                                                                                  [03/13/26 19:18:35] INFO     Animation 33 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1810312960_3351353890                         
+                             .mp4'                                              
+Animation 34: FadeIn(Text('•  銳角高估、鈍角低估')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 34: FadeIn(Text('•  銳角高估、鈍角低估')):  13%|█▎        | 4/30 [00:00<00:00, 36.92it/s]Animation 34: FadeIn(Text('•  銳角高估、鈍角低估')):  27%|██▋       | 8/30 [00:00<00:00, 34.95it/s]Animation 34: FadeIn(Text('•  銳角高估、鈍角低估')):  40%|████      | 12/30 [00:00<00:00, 35.05it/s]Animation 34: FadeIn(Text('•  銳角高估、鈍角低估')):  57%|█████▋    | 17/30 [00:00<00:00, 38.52it/s]Animation 34: FadeIn(Text('•  銳角高估、鈍角低估')):  73%|███████▎  | 22/30 [00:00<00:00, 40.41it/s]Animation 34: FadeIn(Text('•  銳角高估、鈍角低估')):  90%|█████████ | 27/30 [00:00<00:00, 43.18it/s]                                                                                                    [03/13/26 19:18:38] INFO     Animation 34 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1450075409_946676274.                         
+                             mp4'                                               
+Animation 35: FadeIn(Text('•  90° 投影最唔常見 — 直角需要大平面')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 35: FadeIn(Text('•  90° 投影最唔常見 — 直角需要大平面')):  13%|█▎        | 4/30 [00:00<00:00, 39.12it/s]Animation 35: FadeIn(Text('•  90° 投影最唔常見 — 直角需要大平面')):  27%|██▋       | 8/30 [00:00<00:00, 37.22it/s]Animation 35: FadeIn(Text('•  90° 投影最唔常見 — 直角需要大平面')):  43%|████▎     | 13/30 [00:00<00:00, 38.68it/s]Animation 35: FadeIn(Text('•  90° 投影最唔常見 — 直角需要大平面')):  57%|█████▋    | 17/30 [00:00<00:00, 31.84it/s]Animation 35: FadeIn(Text('•  90° 投影最唔常見 — 直角需要大平面')):  70%|███████   | 21/30 [00:00<00:00, 33.79it/s]Animation 35: FadeIn(Text('•  90° 投影最唔常見 — 直角需要大平面')):  87%|████████▋ | 26/30 [00:00<00:00, 35.60it/s]                                                                                                                   [03/13/26 19:18:41] INFO     Animation 35 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_2877876823_3996095182                         
+                             .mp4'                                              
+Animation 36: FadeIn(Text('•  經驗排名預測心理物理數據')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 36: FadeIn(Text('•  經驗排名預測心理物理數據')):  13%|█▎        | 4/30 [00:00<00:00, 34.43it/s]Animation 36: FadeIn(Text('•  經驗排名預測心理物理數據')):  27%|██▋       | 8/30 [00:00<00:00, 31.24it/s]Animation 36: FadeIn(Text('•  經驗排名預測心理物理數據')):  40%|████      | 12/30 [00:00<00:00, 33.99it/s]Animation 36: FadeIn(Text('•  經驗排名預測心理物理數據')):  53%|█████▎    | 16/30 [00:00<00:00, 35.53it/s]Animation 36: FadeIn(Text('•  經驗排名預測心理物理數據')):  67%|██████▋   | 20/30 [00:00<00:00, 36.53it/s]Animation 36: FadeIn(Text('•  經驗排名預測心理物理數據')):  80%|████████  | 24/30 [00:00<00:00, 36.21it/s]Animation 36: FadeIn(Text('•  經驗排名預測心理物理數據')):  93%|█████████▎| 28/30 [00:00<00:00, 35.76it/s]                                                                                                          [03/13/26 19:18:43] INFO     Animation 36 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1925426712_2822945473                         
+                             .mp4'                                              
+Animation 37: FadeIn(Text('•  其他解釋（解剖、側抑制）冇證據')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 37: FadeIn(Text('•  其他解釋（解剖、側抑制）冇證據')):  10%|█         | 3/30 [00:00<00:00, 28.27it/s]Animation 37: FadeIn(Text('•  其他解釋（解剖、側抑制）冇證據')):  20%|██        | 6/30 [00:00<00:00, 26.42it/s]Animation 37: FadeIn(Text('•  其他解釋（解剖、側抑制）冇證據')):  30%|███       | 9/30 [00:00<00:00, 27.10it/s]Animation 37: FadeIn(Text('•  其他解釋（解剖、側抑制）冇證據')):  43%|████▎     | 13/30 [00:00<00:00, 28.25it/s]Animation 37: FadeIn(Text('•  其他解釋（解剖、側抑制）冇證據')):  53%|█████▎    | 16/30 [00:00<00:00, 28.55it/s]Animation 37: FadeIn(Text('•  其他解釋（解剖、側抑制）冇證據')):  63%|██████▎   | 19/30 [00:00<00:00, 28.27it/s]Animation 37: FadeIn(Text('•  其他解釋（解剖、側抑制）冇證據')):  73%|███████▎  | 22/30 [00:00<00:00, 28.73it/s]Animation 37: FadeIn(Text('•  其他解釋（解剖、側抑制）冇證據')):  83%|████████▎ | 25/30 [00:00<00:00, 28.13it/s]Animation 37: FadeIn(Text('•  其他解釋（解剖、側抑制）冇證據')):  93%|█████████▎| 28/30 [00:00<00:00, 28.56it/s]                                                                                                                [03/13/26 19:18:47] INFO     Animation 37 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_884193977_2828019482.                         
+                             mp4'                                               
+[03/13/26 19:19:22] INFO     Animation 38 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1179409236_3292280737                         
+                             .mp4'                                              
+[03/13/26 19:19:25] INFO     Animation 39 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_3201849554_1751047887                         
+                             .mp4'                                              
+Animation 40: FadeOut(Text('總結')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 40: FadeOut(Text('總結')), etc.:   3%|▎         | 1/30 [00:00<00:02,  9.93it/s]Animation 40: FadeOut(Text('總結')), etc.:   7%|▋         | 2/30 [00:00<00:03,  9.13it/s]Animation 40: FadeOut(Text('總結')), etc.:  10%|█         | 3/30 [00:00<00:02,  9.21it/s]Animation 40: FadeOut(Text('總結')), etc.:  13%|█▎        | 4/30 [00:00<00:02,  8.81it/s]Animation 40: FadeOut(Text('總結')), etc.:  17%|█▋        | 5/30 [00:00<00:02,  8.66it/s]Animation 40: FadeOut(Text('總結')), etc.:  20%|██        | 6/30 [00:00<00:02,  8.59it/s]Animation 40: FadeOut(Text('總結')), etc.:  23%|██▎       | 7/30 [00:00<00:02,  8.58it/s]Animation 40: FadeOut(Text('總結')), etc.:  27%|██▋       | 8/30 [00:00<00:02,  8.83it/s]Animation 40: FadeOut(Text('總結')), etc.:  30%|███       | 9/30 [00:01<00:02,  8.90it/s]Animation 40: FadeOut(Text('總結')), etc.:  33%|███▎      | 10/30 [00:01<00:02,  8.89it/s]Animation 40: FadeOut(Text('總結')), etc.:  37%|███▋      | 11/30 [00:01<00:02,  8.82it/s]Animation 40: FadeOut(Text('總結')), etc.:  43%|████▎     | 13/30 [00:01<00:01,  9.94it/s]Animation 40: FadeOut(Text('總結')), etc.:  50%|█████     | 15/30 [00:01<00:01, 10.31it/s]Animation 40: FadeOut(Text('總結')), etc.:  57%|█████▋    | 17/30 [00:01<00:01, 11.03it/s]Animation 40: FadeOut(Text('總結')), etc.:  63%|██████▎   | 19/30 [00:01<00:00, 11.72it/s]Animation 40: FadeOut(Text('總結')), etc.:  70%|███████   | 21/30 [00:02<00:00, 12.09it/s]Animation 40: FadeOut(Text('總結')), etc.:  77%|███████▋  | 23/30 [00:02<00:00, 12.28it/s]Animation 40: FadeOut(Text('總結')), etc.:  83%|████████▎ | 25/30 [00:02<00:00, 12.24it/s]Animation 40: FadeOut(Text('總結')), etc.:  90%|█████████ | 27/30 [00:02<00:00, 12.16it/s]Animation 40: FadeOut(Text('總結')), etc.:  97%|█████████▋| 29/30 [00:02<00:00, 12.03it/s]                                                                                          [03/13/26 19:19:32] INFO     Animation 40 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_3891659838_2824668179                         
+                             .mp4'                                              
+[03/13/26 19:19:36] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/duo-xie-s                         
+                             hou-di-xia-yi-ke-wo-di-hui                         
+                             -jiang-ming-an-bf0f49e8.mp                         
+                             3 to .wav                                          
+Animation 41: Write(Text('多謝收睇！')):   0%|          | 0/60 [00:00<?, ?it/s]Animation 41: Write(Text('多謝收睇！')):  17%|█▋        | 10/60 [00:00<00:00, 87.10it/s]Animation 41: Write(Text('多謝收睇！')):  32%|███▏      | 19/60 [00:00<00:00, 83.14it/s]Animation 41: Write(Text('多謝收睇！')):  47%|████▋     | 28/60 [00:00<00:00, 68.14it/s]Animation 41: Write(Text('多謝收睇！')):  60%|██████    | 36/60 [00:00<00:00, 58.69it/s]Animation 41: Write(Text('多謝收睇！')):  72%|███████▏  | 43/60 [00:00<00:00, 54.92it/s]Animation 41: Write(Text('多謝收睇！')):  82%|████████▏ | 49/60 [00:00<00:00, 52.27it/s]Animation 41: Write(Text('多謝收睇！')):  92%|█████████▏| 55/60 [00:00<00:00, 48.17it/s]Animation 41: Write(Text('多謝收睇！')): 100%|██████████| 60/60 [00:01<00:00, 44.93it/s]                                                                                        [03/13/26 19:19:40] INFO     Animation 41 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_566641700_3351353890.                         
+                             mp4'                                               
+[03/13/26 19:20:08] INFO     Animation 42 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1685877781_768790109.                         
+                             mp4'                                               
+[03/13/26 19:20:12] INFO     Animation 43 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_1839128356_172506406.                         
+                             mp4'                                               
+Animation 44: FadeOut(Text('多謝收睇！')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 44: FadeOut(Text('多謝收睇！')):  12%|█▎        | 6/48 [00:00<00:00, 55.47it/s]Animation 44: FadeOut(Text('多謝收睇！')):  25%|██▌       | 12/48 [00:00<00:00, 52.89it/s]Animation 44: FadeOut(Text('多謝收睇！')):  38%|███▊      | 18/48 [00:00<00:00, 51.31it/s]Animation 44: FadeOut(Text('多謝收睇！')):  50%|█████     | 24/48 [00:00<00:00, 50.65it/s]Animation 44: FadeOut(Text('多謝收睇！')):  62%|██████▎   | 30/48 [00:00<00:00, 52.95it/s]Animation 44: FadeOut(Text('多謝收睇！')):  75%|███████▌  | 36/48 [00:00<00:00, 51.44it/s]Animation 44: FadeOut(Text('多謝收睇！')):  88%|████████▊ | 42/48 [00:00<00:00, 51.99it/s]Animation 44: FadeOut(Text('多謝收睇！')): 100%|██████████| 48/48 [00:00<00:00, 51.28it/s]                                                                                          [03/13/26 19:20:16] INFO     Animation 44 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AnglesExplainer/213576                         
+                             1390_2188973919_3167764975                         
+                             .mp4'                                              
+                    INFO     Combining to Movie file.   scene_file_writer.py:753
+[03/13/26 19:20:26] WARNING  Some options were not      scene_file_writer.py:819
+                             used: {'shortest': '1',                            
+                             'metadata':                                        
+                             'comment=Rendered with                             
+                             Manim Community v0.20.1'}                          
+                    INFO                                scene_file_writer.py:904
+                             File ready at                                      
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             10/video/media/videos/scen                         
+                             e/1080p60/AnglesExplainer.                         
+                             mp4'                                               
+                                                                                
+                    INFO     Subcaption file has been   scene_file_writer.py:899
+                             written as                                         
+                             /home/peter/workspace/why-                         
+                             brains-dont-compute/lesson                         
+                                                                                
+                             10/video/media/videos/scen                         
+                             e/1080p60/AnglesExplainer.                         
+                             srt                                                
+                    INFO     Rendered AnglesExplainer               scene.py:278
+                             Played 45 animations                               

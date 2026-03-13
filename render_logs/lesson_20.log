@@ -1,0 +1,459 @@
+/home/peter/.pyenv/versions/3.13.5/lib/python3.13/site-packages/manim_voiceover/__init__.py:4: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Manim Community v0.20.1
+
+[03/13/26 19:31:52] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/da-jia-ha                         
+                             o-huan-ying-li-dao-di-er-s                         
+                             hi-ke-jin-ri-wo-c587be49.m                         
+                             p3 to .wav                                         
+Animation 0: Write(Text('聯想')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 0: Write(Text('聯想')):   8%|▊         | 7/90 [00:00<00:01, 57.94it/s]Animation 0: Write(Text('聯想')):  14%|█▍        | 13/90 [00:00<00:01, 58.39it/s]Animation 0: Write(Text('聯想')):  23%|██▎       | 21/90 [00:00<00:01, 62.89it/s]Animation 0: Write(Text('聯想')):  31%|███       | 28/90 [00:00<00:00, 62.94it/s]Animation 0: Write(Text('聯想')):  39%|███▉      | 35/90 [00:00<00:00, 61.49it/s]Animation 0: Write(Text('聯想')):  47%|████▋     | 42/90 [00:00<00:00, 61.50it/s]Animation 0: Write(Text('聯想')):  54%|█████▍    | 49/90 [00:00<00:00, 59.55it/s]Animation 0: Write(Text('聯想')):  61%|██████    | 55/90 [00:00<00:00, 56.70it/s]Animation 0: Write(Text('聯想')):  68%|██████▊   | 61/90 [00:01<00:00, 56.83it/s]Animation 0: Write(Text('聯想')):  74%|███████▍  | 67/90 [00:01<00:00, 52.67it/s]Animation 0: Write(Text('聯想')):  81%|████████  | 73/90 [00:01<00:00, 53.43it/s]Animation 0: Write(Text('聯想')):  88%|████████▊ | 79/90 [00:01<00:00, 54.04it/s]Animation 0: Write(Text('聯想')):  96%|█████████▌| 86/90 [00:01<00:00, 58.06it/s]                                                                                 [03/13/26 19:31:58] INFO     Animation 0 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2257293077_1508118360_3351                         
+                             353890.mp4'                                        
+Animation 1: FadeIn(Text('Associations')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 1: FadeIn(Text('Associations')):  12%|█▎        | 6/48 [00:00<00:00, 57.55it/s]Animation 1: FadeIn(Text('Associations')):  25%|██▌       | 12/48 [00:00<00:00, 58.62it/s]Animation 1: FadeIn(Text('Associations')):  38%|███▊      | 18/48 [00:00<00:00, 57.53it/s]Animation 1: FadeIn(Text('Associations')):  52%|█████▏    | 25/48 [00:00<00:00, 59.69it/s]Animation 1: FadeIn(Text('Associations')):  67%|██████▋   | 32/48 [00:00<00:00, 61.24it/s]Animation 1: FadeIn(Text('Associations')):  81%|████████▏ | 39/48 [00:00<00:00, 59.07it/s]Animation 1: FadeIn(Text('Associations')):  94%|█████████▍| 45/48 [00:00<00:00, 56.66it/s]                                                                                          [03/13/26 19:32:01] INFO     Animation 1 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_263060636_17734                         
+                             44912.mp4'                                         
+Animation 2: FadeIn(Text('第二十課')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 2: FadeIn(Text('第二十課')):  19%|█▉        | 9/48 [00:00<00:00, 81.51it/s]Animation 2: FadeIn(Text('第二十課')):  38%|███▊      | 18/48 [00:00<00:00, 83.61it/s]Animation 2: FadeIn(Text('第二十課')):  56%|█████▋    | 27/48 [00:00<00:00, 80.68it/s]Animation 2: FadeIn(Text('第二十課')):  75%|███████▌  | 36/48 [00:00<00:00, 80.53it/s]Animation 2: FadeIn(Text('第二十課')):  94%|█████████▍| 45/48 [00:00<00:00, 77.96it/s]                                                                                      [03/13/26 19:32:05] INFO     Animation 2 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_3380915691_2328                         
+                             845159.mp4'                                        
+Animation 3: FadeIn(Text('制片人：Peter')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 3: FadeIn(Text('制片人：Peter')):  23%|██▎       | 7/30 [00:00<00:00, 60.00it/s]Animation 3: FadeIn(Text('制片人：Peter')):  50%|█████     | 15/30 [00:00<00:00, 66.51it/s]Animation 3: FadeIn(Text('制片人：Peter')):  73%|███████▎  | 22/30 [00:00<00:00, 66.27it/s]Animation 3: FadeIn(Text('制片人：Peter')):  97%|█████████▋| 29/30 [00:00<00:00, 64.40it/s]                                                                                           [03/13/26 19:32:07] INFO     Animation 3 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_3105519941_3444                         
+                             32280.mp4'                                         
+[03/13/26 19:32:39] INFO     Animation 4 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_415671007_11651                         
+                             36991.mp4'                                         
+[03/13/26 19:32:40] INFO     Animation 5 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_807188262_20268                         
+                             16749.mp4'                                         
+Animation 6: FadeOut(Text('聯想')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 6: FadeOut(Text('聯想')), etc.:  13%|█▎        | 4/30 [00:00<00:00, 37.07it/s]Animation 6: FadeOut(Text('聯想')), etc.:  27%|██▋       | 8/30 [00:00<00:00, 37.13it/s]Animation 6: FadeOut(Text('聯想')), etc.:  40%|████      | 12/30 [00:00<00:00, 37.32it/s]Animation 6: FadeOut(Text('聯想')), etc.:  53%|█████▎    | 16/30 [00:00<00:00, 35.87it/s]Animation 6: FadeOut(Text('聯想')), etc.:  67%|██████▋   | 20/30 [00:00<00:00, 34.24it/s]Animation 6: FadeOut(Text('聯想')), etc.:  80%|████████  | 24/30 [00:00<00:00, 31.27it/s]Animation 6: FadeOut(Text('聯想')), etc.:  93%|█████████▎| 28/30 [00:00<00:00, 29.21it/s]                                                                                         [03/13/26 19:32:43] INFO     Animation 6 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_1441781596_1786                         
+                             174579.mp4'                                        
+[03/13/26 19:32:48] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/jin-hua-s                         
+                             u-zao-kai-lian-xiang-xi-xi                         
+                             an-tian-kai-ni-4f435167.mp                         
+                             3 to .wav                                          
+Animation 7: Write(Text('進化塑造嘅聯想')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 7: Write(Text('進化塑造嘅聯想')):  22%|██▏       | 8/36 [00:00<00:00, 69.33it/s]Animation 7: Write(Text('進化塑造嘅聯想')):  42%|████▏     | 15/36 [00:00<00:00, 60.57it/s]Animation 7: Write(Text('進化塑造嘅聯想')):  61%|██████    | 22/36 [00:00<00:00, 51.14it/s]Animation 7: Write(Text('進化塑造嘅聯想')):  78%|███████▊  | 28/36 [00:00<00:00, 45.91it/s]Animation 7: Write(Text('進化塑造嘅聯想')):  92%|█████████▏| 33/36 [00:00<00:00, 44.79it/s]                                                                                           [03/13/26 19:32:51] INFO     Animation 7 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_166855130_33513                         
+                             53890.mp4'                                         
+Animation 8: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:   6%|▋         | 3/48 [00:00<00:02, 18.89it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  12%|█▎        | 6/48 [00:00<00:02, 18.37it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  17%|█▋        | 8/48 [00:00<00:02, 16.15it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  21%|██        | 10/48 [00:00<00:02, 16.17it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  25%|██▌       | 12/48 [00:00<00:02, 16.92it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  29%|██▉       | 14/48 [00:00<00:01, 17.79it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  35%|███▌      | 17/48 [00:00<00:01, 20.44it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  42%|████▏     | 20/48 [00:01<00:01, 20.01it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  48%|████▊     | 23/48 [00:01<00:01, 20.45it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  54%|█████▍    | 26/48 [00:01<00:01, 21.02it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  62%|██████▎   | 30/48 [00:01<00:00, 24.16it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  69%|██████▉   | 33/48 [00:01<00:00, 24.92it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  75%|███████▌  | 36/48 [00:01<00:00, 25.41it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  81%|████████▏ | 39/48 [00:01<00:00, 26.24it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  90%|████████▉ | 43/48 [00:01<00:00, 27.79it/s]Animation 8: FadeIn(VGroup of 2 submobjects), etc.:  96%|█████████▌| 46/48 [00:02<00:00, 26.38it/s]                                                                                                   [03/13/26 19:32:55] INFO     Animation 8 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_1457733545_3379                         
+                             031448.mp4'                                        
+Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):   8%|▊         | 3/36 [00:00<00:01, 21.71it/s]Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):  17%|█▋        | 6/36 [00:00<00:01, 21.07it/s]Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):  25%|██▌       | 9/36 [00:00<00:01, 22.26it/s]Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):  33%|███▎      | 12/36 [00:00<00:01, 23.66it/s]Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):  42%|████▏     | 15/36 [00:00<00:00, 22.58it/s]Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):  50%|█████     | 18/36 [00:00<00:00, 23.42it/s]Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):  61%|██████    | 22/36 [00:00<00:00, 26.84it/s]Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):  72%|███████▏  | 26/36 [00:01<00:00, 28.90it/s]Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):  83%|████████▎ | 30/36 [00:01<00:00, 29.95it/s]Animation 9: FadeIn(Text('唔使學，生嚟就有，例如：吸吮、驚嚇、定向')):  94%|█████████▍| 34/36 [00:01<00:00, 28.29it/s]                                                                                                                      [03/13/26 19:32:59] INFO     Animation 9 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_1608147346_1561                         
+                             433576.mp4'                                        
+[03/13/26 19:33:36] INFO     Animation 10 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_2760182348_3395                         
+                             928833.mp4'                                        
+[03/13/26 19:33:39] INFO     Animation 11 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_807188262_37077                         
+                             13816.mp4'                                         
+Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:   7%|▋         | 2/30 [00:00<00:02, 11.27it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 10.09it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  20%|██        | 6/30 [00:00<00:02, 10.41it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.34it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 10.59it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  40%|████      | 12/30 [00:01<00:01, 10.77it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 10.87it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 10.26it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  60%|██████    | 18/30 [00:01<00:01, 10.46it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 10.64it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  73%|███████▎  | 22/30 [00:02<00:00, 10.56it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  80%|████████  | 24/30 [00:02<00:00, 10.73it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 10.99it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 11.34it/s]Animation 12: FadeOut(Text('進化塑造嘅聯想')), etc.: 100%|██████████| 30/30 [00:02<00:00, 11.68it/s]                                                                                                    [03/13/26 19:33:45] INFO     Animation 12 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_1428550865_2888                         
+                             859300.mp4'                                        
+[03/13/26 19:33:55] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/zhong-she                         
+                             n-xue-xi-kai-lian-xiang-ba                         
+                             o-gua-ba-fu-luo-8f0fd164.m                         
+                             p3 to .wav                                         
+Animation 13: Write(Text('終身學習嘅聯想')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 13: Write(Text('終身學習嘅聯想')):  22%|██▏       | 8/36 [00:00<00:00, 70.25it/s]Animation 13: Write(Text('終身學習嘅聯想')):  44%|████▍     | 16/36 [00:00<00:00, 64.55it/s]Animation 13: Write(Text('終身學習嘅聯想')):  64%|██████▍   | 23/36 [00:00<00:00, 55.05it/s]Animation 13: Write(Text('終身學習嘅聯想')):  81%|████████  | 29/36 [00:00<00:00, 49.30it/s]Animation 13: Write(Text('終身學習嘅聯想')):  97%|█████████▋| 35/36 [00:00<00:00, 46.76it/s]                                                                                            [03/13/26 19:33:58] INFO     Animation 13 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_1981445699_3351                         
+                             353890.mp4'                                        
+Animation 14: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:   8%|▊         | 4/48 [00:00<00:01, 27.66it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  15%|█▍        | 7/48 [00:00<00:01, 25.95it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  23%|██▎       | 11/48 [00:00<00:01, 26.98it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  29%|██▉       | 14/48 [00:00<00:01, 26.24it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  35%|███▌      | 17/48 [00:00<00:01, 26.88it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  42%|████▏     | 20/48 [00:00<00:01, 27.41it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  48%|████▊     | 23/48 [00:00<00:00, 27.78it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  54%|█████▍    | 26/48 [00:00<00:00, 25.94it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  60%|██████    | 29/48 [00:01<00:00, 26.14it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  69%|██████▉   | 33/48 [00:01<00:00, 28.11it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  77%|███████▋  | 37/48 [00:01<00:00, 30.13it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  85%|████████▌ | 41/48 [00:01<00:00, 29.53it/s]Animation 14: FadeIn(VGroup of 2 submobjects), etc.:  94%|█████████▍| 45/48 [00:01<00:00, 30.77it/s]                                                                                                    [03/13/26 19:34:02] INFO     Animation 14 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_896813823_39734                         
+                             89441.mp4'                                         
+Animation 15: FadeIn(Text('練習同重複強化刺激反應連結')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 15: FadeIn(Text('練習同重複強化刺激反應連結')):  14%|█▍        | 5/36 [00:00<00:00, 45.86it/s]Animation 15: FadeIn(Text('練習同重複強化刺激反應連結')):  28%|██▊       | 10/36 [00:00<00:00, 41.86it/s]Animation 15: FadeIn(Text('練習同重複強化刺激反應連結')):  42%|████▏     | 15/36 [00:00<00:00, 39.13it/s]Animation 15: FadeIn(Text('練習同重複強化刺激反應連結')):  56%|█████▌    | 20/36 [00:00<00:00, 39.77it/s]Animation 15: FadeIn(Text('練習同重複強化刺激反應連結')):  69%|██████▉   | 25/36 [00:00<00:00, 41.19it/s]Animation 15: FadeIn(Text('練習同重複強化刺激反應連結')):  83%|████████▎ | 30/36 [00:00<00:00, 42.54it/s]Animation 15: FadeIn(Text('練習同重複強化刺激反應連結')):  97%|█████████▋| 35/36 [00:00<00:00, 41.85it/s]                                                                                                         [03/13/26 19:34:05] INFO     Animation 15 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_920179523_35725                         
+                             76961.mp4'                                         
+[03/13/26 19:34:41] INFO     Animation 16 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_863368336_27542                         
+                             10278.mp4'                                         
+[03/13/26 19:34:44] INFO     Animation 17 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_807188262_25539                         
+                             2122.mp4'                                          
+Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:   7%|▋         | 2/30 [00:00<00:01, 14.42it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 13.65it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  20%|██        | 6/30 [00:00<00:01, 13.59it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 13.02it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 13.13it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  40%|████      | 12/30 [00:00<00:01, 13.20it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 12.96it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 12.86it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  60%|██████    | 18/30 [00:01<00:00, 13.16it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 13.07it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 13.27it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  80%|████████  | 24/30 [00:01<00:00, 13.16it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 13.44it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 13.55it/s]Animation 18: FadeOut(Text('終身學習嘅聯想')), etc.: 100%|██████████| 30/30 [00:02<00:00, 13.28it/s]                                                                                                    [03/13/26 19:34:49] INFO     Animation 18 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_2390820467_4036                         
+                             653590.mp4'                                        
+[03/13/26 19:34:55] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/wen-hua-s                         
+                             u-zao-kai-lian-xiang-bao-g                         
+                             ua-yu-yan-she-6c2f0a5d.mp3                         
+                              to .wav                                           
+Animation 19: Write(Text('文化塑造嘅聯想')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 19: Write(Text('文化塑造嘅聯想')):  19%|█▉        | 7/36 [00:00<00:00, 62.71it/s]Animation 19: Write(Text('文化塑造嘅聯想')):  39%|███▉      | 14/36 [00:00<00:00, 58.47it/s]Animation 19: Write(Text('文化塑造嘅聯想')):  56%|█████▌    | 20/36 [00:00<00:00, 58.81it/s]Animation 19: Write(Text('文化塑造嘅聯想')):  72%|███████▏  | 26/36 [00:00<00:00, 56.43it/s]Animation 19: Write(Text('文化塑造嘅聯想')):  89%|████████▉ | 32/36 [00:00<00:00, 50.20it/s]                                                                                            [03/13/26 19:34:59] INFO     Animation 19 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_2956035241_3351                         
+                             353890.mp4'                                        
+Animation 20: FadeIn(Text('•  語言：詞彙同概念嘅連結')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 20: FadeIn(Text('•  語言：詞彙同概念嘅連結')):  17%|█▋        | 5/30 [00:00<00:00, 43.89it/s]Animation 20: FadeIn(Text('•  語言：詞彙同概念嘅連結')):  33%|███▎      | 10/30 [00:00<00:00, 40.23it/s]Animation 20: FadeIn(Text('•  語言：詞彙同概念嘅連結')):  53%|█████▎    | 16/30 [00:00<00:00, 44.74it/s]Animation 20: FadeIn(Text('•  語言：詞彙同概念嘅連結')):  73%|███████▎  | 22/30 [00:00<00:00, 46.64it/s]Animation 20: FadeIn(Text('•  語言：詞彙同概念嘅連結')):  90%|█████████ | 27/30 [00:00<00:00, 47.06it/s]                                                                                                        [03/13/26 19:35:01] INFO     Animation 20 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_2027066387_3139                         
+                             23160.mp4'                                         
+Animation 21: FadeIn(Text('•  社會規範：咩可以做、咩唔可以做')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 21: FadeIn(Text('•  社會規範：咩可以做、咩唔可以做')):  17%|█▋        | 5/30 [00:00<00:00, 40.63it/s]Animation 21: FadeIn(Text('•  社會規範：咩可以做、咩唔可以做')):  33%|███▎      | 10/30 [00:00<00:00, 42.05it/s]Animation 21: FadeIn(Text('•  社會規範：咩可以做、咩唔可以做')):  50%|█████     | 15/30 [00:00<00:00, 42.83it/s]Animation 21: FadeIn(Text('•  社會規範：咩可以做、咩唔可以做')):  67%|██████▋   | 20/30 [00:00<00:00, 44.26it/s]Animation 21: FadeIn(Text('•  社會規範：咩可以做、咩唔可以做')):  83%|████████▎ | 25/30 [00:00<00:00, 45.58it/s]Animation 21: FadeIn(Text('•  社會規範：咩可以做、咩唔可以做')): 100%|██████████| 30/30 [00:00<00:00, 45.81it/s]                                                                                                                [03/13/26 19:35:03] INFO     Animation 21 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_3328402913_2537                         
+                             719032.mp4'                                        
+Animation 22: FadeIn(Text('•  工具：文化傳承嘅技術')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 22: FadeIn(Text('•  工具：文化傳承嘅技術')):  13%|█▎        | 4/30 [00:00<00:00, 37.28it/s]Animation 22: FadeIn(Text('•  工具：文化傳承嘅技術')):  27%|██▋       | 8/30 [00:00<00:00, 33.76it/s]Animation 22: FadeIn(Text('•  工具：文化傳承嘅技術')):  43%|████▎     | 13/30 [00:00<00:00, 36.37it/s]Animation 22: FadeIn(Text('•  工具：文化傳承嘅技術')):  57%|█████▋    | 17/30 [00:00<00:00, 36.72it/s]Animation 22: FadeIn(Text('•  工具：文化傳承嘅技術')):  70%|███████   | 21/30 [00:00<00:00, 37.00it/s]Animation 22: FadeIn(Text('•  工具：文化傳承嘅技術')):  83%|████████▎ | 25/30 [00:00<00:00, 37.92it/s]Animation 22: FadeIn(Text('•  工具：文化傳承嘅技術')):  97%|█████████▋| 29/30 [00:00<00:00, 37.93it/s]                                                                                                      [03/13/26 19:35:06] INFO     Animation 22 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_756063689_38924                         
+                             4010.mp4'                                          
+Animation 23: FadeIn(Text('文化進化係快速適應，唔使等基因變異')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 23: FadeIn(Text('文化進化係快速適應，唔使等基因變異')):  11%|█         | 4/36 [00:00<00:00, 35.41it/s]Animation 23: FadeIn(Text('文化進化係快速適應，唔使等基因變異')):  22%|██▏       | 8/36 [00:00<00:00, 35.42it/s]Animation 23: FadeIn(Text('文化進化係快速適應，唔使等基因變異')):  33%|███▎      | 12/36 [00:00<00:00, 36.05it/s]Animation 23: FadeIn(Text('文化進化係快速適應，唔使等基因變異')):  44%|████▍     | 16/36 [00:00<00:00, 35.97it/s]Animation 23: FadeIn(Text('文化進化係快速適應，唔使等基因變異')):  56%|█████▌    | 20/36 [00:00<00:00, 35.15it/s]Animation 23: FadeIn(Text('文化進化係快速適應，唔使等基因變異')):  67%|██████▋   | 24/36 [00:00<00:00, 34.50it/s]Animation 23: FadeIn(Text('文化進化係快速適應，唔使等基因變異')):  78%|███████▊  | 28/36 [00:00<00:00, 29.88it/s]Animation 23: FadeIn(Text('文化進化係快速適應，唔使等基因變異')):  89%|████████▉ | 32/36 [00:01<00:00, 27.61it/s]Animation 23: FadeIn(Text('文化進化係快速適應，唔使等基因變異')): 100%|██████████| 36/36 [00:01<00:00, 28.25it/s]                                                                                                                 [03/13/26 19:35:10] INFO     Animation 23 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_911086963_13030                         
+                             34477.mp4'                                         
+[03/13/26 19:35:58] INFO     Animation 24 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_692475787_65786                         
+                             5394.mp4'                                          
+[03/13/26 19:36:01] INFO     Animation 25 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_807188262_25110                         
+                             31680.mp4'                                         
+Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:   7%|▋         | 2/30 [00:00<00:02, 10.07it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 10.39it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  20%|██        | 6/30 [00:00<00:02, 10.37it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.79it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 11.07it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  40%|████      | 12/30 [00:01<00:01, 11.13it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 10.67it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 10.95it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  60%|██████    | 18/30 [00:01<00:01, 11.20it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 11.23it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  73%|███████▎  | 22/30 [00:02<00:00, 11.28it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  80%|████████  | 24/30 [00:02<00:00, 11.35it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 11.38it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 11.28it/s]Animation 26: FadeOut(Text('文化塑造嘅聯想')), etc.: 100%|██████████| 30/30 [00:02<00:00, 11.22it/s]                                                                                                    [03/13/26 19:36:07] INFO     Animation 26 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_4028678380_1057                         
+                             401578.mp4'                                        
+[03/13/26 19:36:14] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/zong-jie-                         
+                             yi-xia-jin-hua-lian-xiang-                         
+                             xi-xian-tian-bd635eed.mp3                          
+                             to .wav                                            
+Animation 27: Write(Text('總結')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 27: Write(Text('總結')):  28%|██▊       | 10/36 [00:00<00:00, 93.03it/s]Animation 27: Write(Text('總結')):  56%|█████▌    | 20/36 [00:00<00:00, 81.04it/s]Animation 27: Write(Text('總結')):  81%|████████  | 29/36 [00:00<00:00, 71.90it/s]                                                                                  [03/13/26 19:36:17] INFO     Animation 27 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_1810312960_3351                         
+                             353890.mp4'                                        
+Animation 28: FadeIn(Text('•  進化聯想：先天反應，物種特定')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 28: FadeIn(Text('•  進化聯想：先天反應，物種特定')):  13%|█▎        | 4/30 [00:00<00:00, 36.77it/s]Animation 28: FadeIn(Text('•  進化聯想：先天反應，物種特定')):  27%|██▋       | 8/30 [00:00<00:00, 34.67it/s]Animation 28: FadeIn(Text('•  進化聯想：先天反應，物種特定')):  43%|████▎     | 13/30 [00:00<00:00, 36.89it/s]Animation 28: FadeIn(Text('•  進化聯想：先天反應，物種特定')):  57%|█████▋    | 17/30 [00:00<00:00, 37.24it/s]Animation 28: FadeIn(Text('•  進化聯想：先天反應，物種特定')):  70%|███████   | 21/30 [00:00<00:00, 36.07it/s]Animation 28: FadeIn(Text('•  進化聯想：先天反應，物種特定')):  83%|████████▎ | 25/30 [00:00<00:00, 33.73it/s]Animation 28: FadeIn(Text('•  進化聯想：先天反應，物種特定')):  97%|█████████▋| 29/30 [00:00<00:00, 34.17it/s]                                                                                                              [03/13/26 19:36:19] INFO     Animation 28 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_1770771642_9466                         
+                             76274.mp4'                                         
+Animation 29: FadeIn(Text('•  終身學習：巴甫洛夫、史金納、制約')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 29: FadeIn(Text('•  終身學習：巴甫洛夫、史金納、制約')):  13%|█▎        | 4/30 [00:00<00:00, 33.83it/s]Animation 29: FadeIn(Text('•  終身學習：巴甫洛夫、史金納、制約')):  30%|███       | 9/30 [00:00<00:00, 39.20it/s]Animation 29: FadeIn(Text('•  終身學習：巴甫洛夫、史金納、制約')):  43%|████▎     | 13/30 [00:00<00:00, 38.55it/s]Animation 29: FadeIn(Text('•  終身學習：巴甫洛夫、史金納、制約')):  57%|█████▋    | 17/30 [00:00<00:00, 37.44it/s]Animation 29: FadeIn(Text('•  終身學習：巴甫洛夫、史金納、制約')):  70%|███████   | 21/30 [00:00<00:00, 37.77it/s]Animation 29: FadeIn(Text('•  終身學習：巴甫洛夫、史金納、制約')):  83%|████████▎ | 25/30 [00:00<00:00, 38.04it/s]Animation 29: FadeIn(Text('•  終身學習：巴甫洛夫、史金納、制約')):  97%|█████████▋| 29/30 [00:00<00:00, 38.59it/s]                                                                                                                  [03/13/26 19:36:22] INFO     Animation 29 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_4141905933_4294                         
+                             511260.mp4'                                        
+Animation 30: FadeIn(Text('•  文化聯想：語言、規範、工具')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 30: FadeIn(Text('•  文化聯想：語言、規範、工具')):  13%|█▎        | 4/30 [00:00<00:00, 39.95it/s]Animation 30: FadeIn(Text('•  文化聯想：語言、規範、工具')):  27%|██▋       | 8/30 [00:00<00:00, 37.75it/s]Animation 30: FadeIn(Text('•  文化聯想：語言、規範、工具')):  43%|████▎     | 13/30 [00:00<00:00, 41.57it/s]Animation 30: FadeIn(Text('•  文化聯想：語言、規範、工具')):  60%|██████    | 18/30 [00:00<00:00, 44.75it/s]Animation 30: FadeIn(Text('•  文化聯想：語言、規範、工具')):  77%|███████▋  | 23/30 [00:00<00:00, 45.83it/s]Animation 30: FadeIn(Text('•  文化聯想：語言、規範、工具')):  93%|█████████▎| 28/30 [00:00<00:00, 45.50it/s]                                                                                                            [03/13/26 19:36:25] INFO     Animation 30 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_2804660194_4498                         
+                             07620.mp4'                                         
+Animation 31: FadeIn(Text('•  三種來源一齊塑造刺激同行為嘅連結')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 31: FadeIn(Text('•  三種來源一齊塑造刺激同行為嘅連結')):  10%|█         | 3/30 [00:00<00:01, 26.23it/s]Animation 31: FadeIn(Text('•  三種來源一齊塑造刺激同行為嘅連結')):  20%|██        | 6/30 [00:00<00:00, 28.04it/s]Animation 31: FadeIn(Text('•  三種來源一齊塑造刺激同行為嘅連結')):  33%|███▎      | 10/30 [00:00<00:00, 31.60it/s]Animation 31: FadeIn(Text('•  三種來源一齊塑造刺激同行為嘅連結')):  47%|████▋     | 14/30 [00:00<00:00, 32.43it/s]Animation 31: FadeIn(Text('•  三種來源一齊塑造刺激同行為嘅連結')):  60%|██████    | 18/30 [00:00<00:00, 30.00it/s]Animation 31: FadeIn(Text('•  三種來源一齊塑造刺激同行為嘅連結')):  73%|███████▎  | 22/30 [00:00<00:00, 31.41it/s]Animation 31: FadeIn(Text('•  三種來源一齊塑造刺激同行為嘅連結')):  87%|████████▋ | 26/30 [00:00<00:00, 32.76it/s]Animation 31: FadeIn(Text('•  三種來源一齊塑造刺激同行為嘅連結')): 100%|██████████| 30/30 [00:00<00:00, 33.62it/s]                                                                                                                  [03/13/26 19:36:29] INFO     Animation 31 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_4127184214_1000                         
+                             749285.mp4'                                        
+[03/13/26 19:37:19] INFO     Animation 32 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_2498626219_5325                         
+                             72962.mp4'                                         
+[03/13/26 19:37:22] INFO     Animation 33 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_3201849554_9733                         
+                             45194.mp4'                                         
+Animation 34: FadeOut(Text('總結')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 34: FadeOut(Text('總結')), etc.:   7%|▋         | 2/30 [00:00<00:01, 17.01it/s]Animation 34: FadeOut(Text('總結')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 16.26it/s]Animation 34: FadeOut(Text('總結')), etc.:  20%|██        | 6/30 [00:00<00:01, 16.68it/s]Animation 34: FadeOut(Text('總結')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 16.84it/s]Animation 34: FadeOut(Text('總結')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 14.07it/s]Animation 34: FadeOut(Text('總結')), etc.:  40%|████      | 12/30 [00:00<00:01, 12.91it/s]Animation 34: FadeOut(Text('總結')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 12.40it/s]Animation 34: FadeOut(Text('總結')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 11.85it/s]Animation 34: FadeOut(Text('總結')), etc.:  60%|██████    | 18/30 [00:01<00:01, 11.97it/s]Animation 34: FadeOut(Text('總結')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 12.40it/s]Animation 34: FadeOut(Text('總結')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 12.67it/s]Animation 34: FadeOut(Text('總結')), etc.:  80%|████████  | 24/30 [00:01<00:00, 12.90it/s]Animation 34: FadeOut(Text('總結')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 12.73it/s]Animation 34: FadeOut(Text('總結')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 11.95it/s]Animation 34: FadeOut(Text('總結')), etc.: 100%|██████████| 30/30 [00:02<00:00, 12.23it/s]                                                                                          [03/13/26 19:37:27] INFO     Animation 34 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_2702314783_2140                         
+                             910437.mp4'                                        
+[03/13/26 19:37:30] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/duo-xie-s                         
+                             hou-di-xia-yi-ke-wo-di-hui                         
+                             -jiang-ji-zhi-45ce04ad.mp3                         
+                              to .wav                                           
+Animation 35: Write(Text('多謝收睇！')):   0%|          | 0/60 [00:00<?, ?it/s]Animation 35: Write(Text('多謝收睇！')):  15%|█▌        | 9/60 [00:00<00:00, 83.72it/s]Animation 35: Write(Text('多謝收睇！')):  30%|███       | 18/60 [00:00<00:00, 82.62it/s]Animation 35: Write(Text('多謝收睇！')):  45%|████▌     | 27/60 [00:00<00:00, 75.54it/s]Animation 35: Write(Text('多謝收睇！')):  58%|█████▊    | 35/60 [00:00<00:00, 66.25it/s]Animation 35: Write(Text('多謝收睇！')):  70%|███████   | 42/60 [00:00<00:00, 62.69it/s]Animation 35: Write(Text('多謝收睇！')):  82%|████████▏ | 49/60 [00:00<00:00, 62.22it/s]Animation 35: Write(Text('多謝收睇！')):  93%|█████████▎| 56/60 [00:00<00:00, 60.33it/s]                                                                                        [03/13/26 19:37:34] INFO     Animation 35 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_566641700_33513                         
+                             53890.mp4'                                         
+Animation 36: FadeIn(Text('下一課：機制')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 36: FadeIn(Text('下一課：機制')):  17%|█▋        | 8/48 [00:00<00:00, 71.04it/s]Animation 36: FadeIn(Text('下一課：機制')):  33%|███▎      | 16/48 [00:00<00:00, 71.52it/s]Animation 36: FadeIn(Text('下一課：機制')):  52%|█████▏    | 25/48 [00:00<00:00, 75.87it/s]Animation 36: FadeIn(Text('下一課：機制')):  69%|██████▉   | 33/48 [00:00<00:00, 75.00it/s]Animation 36: FadeIn(Text('下一課：機制')):  85%|████████▌ | 41/48 [00:00<00:00, 74.35it/s]                                                                                           [03/13/26 19:37:37] INFO     Animation 36 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_721825149_62734                         
+                             6545.mp4'                                          
+[03/13/26 19:38:08] INFO     Animation 37 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_210306640_37743                         
+                             25454.mp4'                                         
+[03/13/26 19:38:12] INFO     Animation 38 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_1839128356_3564                         
+                             604178.mp4'                                        
+Animation 39: FadeOut(Text('多謝收睇！')), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:   8%|▊         | 4/48 [00:00<00:01, 32.25it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:  17%|█▋        | 8/48 [00:00<00:01, 32.66it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:  25%|██▌       | 12/48 [00:00<00:01, 32.29it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:  33%|███▎      | 16/48 [00:00<00:00, 32.43it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:  42%|████▏     | 20/48 [00:00<00:00, 33.00it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:  50%|█████     | 24/48 [00:00<00:00, 32.80it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:  58%|█████▊    | 28/48 [00:00<00:00, 33.48it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:  67%|██████▋   | 32/48 [00:00<00:00, 32.98it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:  75%|███████▌  | 36/48 [00:01<00:00, 33.19it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:  83%|████████▎ | 40/48 [00:01<00:00, 33.76it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.:  92%|█████████▏| 44/48 [00:01<00:00, 33.82it/s]Animation 39: FadeOut(Text('多謝收睇！')), etc.: 100%|██████████| 48/48 [00:01<00:00, 34.47it/s]                                                                                                [03/13/26 19:38:17] INFO     Animation 39 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/AssociationsExplainer/                         
+                             2135761390_70255141_190638                         
+                             4897.mp4'                                          
+                    INFO     Combining to Movie file.   scene_file_writer.py:753
+[03/13/26 19:38:24] WARNING  Some options were not      scene_file_writer.py:819
+                             used: {'shortest': '1',                            
+                             'metadata':                                        
+                             'comment=Rendered with                             
+                             Manim Community v0.20.1'}                          
+                    INFO                                scene_file_writer.py:904
+                             File ready at                                      
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             20/video/media/videos/scen                         
+                             e/1080p60/AssociationsExpl                         
+                             ainer.mp4'                                         
+                                                                                
+                    INFO     Subcaption file has been   scene_file_writer.py:899
+                             written as                                         
+                             /home/peter/workspace/why-                         
+                             brains-dont-compute/lesson                         
+                                                                                
+                             20/video/media/videos/scen                         
+                             e/1080p60/AssociationsExpl                         
+                             ainer.srt                                          
+                    INFO     Rendered AssociationsExplainer         scene.py:278
+                             Played 40 animations                               

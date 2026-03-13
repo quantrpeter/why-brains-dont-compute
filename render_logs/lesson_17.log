@@ -1,0 +1,489 @@
+/home/peter/.pyenv/versions/3.13.5/lib/python3.13/site-packages/manim_voiceover/__init__.py:4: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Manim Community v0.20.1
+
+[03/13/26 19:25:16] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/da-jia-ha                         
+                             o-huan-ying-li-dao-di-shi-                         
+                             qi-ke-jin-ri-wo-3f20c76d.m                         
+                             p3 to .wav                                         
+Animation 0: Write(Text('物體大小')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 0: Write(Text('物體大小')):   7%|▋         | 6/90 [00:00<00:01, 57.37it/s]Animation 0: Write(Text('物體大小')):  14%|█▍        | 13/90 [00:00<00:01, 57.66it/s]Animation 0: Write(Text('物體大小')):  21%|██        | 19/90 [00:00<00:01, 56.94it/s]Animation 0: Write(Text('物體大小')):  28%|██▊       | 25/90 [00:00<00:01, 57.47it/s]Animation 0: Write(Text('物體大小')):  34%|███▍      | 31/90 [00:00<00:01, 57.24it/s]Animation 0: Write(Text('物體大小')):  41%|████      | 37/90 [00:00<00:01, 52.73it/s]Animation 0: Write(Text('物體大小')):  48%|████▊     | 43/90 [00:00<00:00, 50.42it/s]Animation 0: Write(Text('物體大小')):  54%|█████▍    | 49/90 [00:00<00:00, 47.60it/s]Animation 0: Write(Text('物體大小')):  60%|██████    | 54/90 [00:01<00:00, 47.83it/s]Animation 0: Write(Text('物體大小')):  67%|██████▋   | 60/90 [00:01<00:00, 49.70it/s]Animation 0: Write(Text('物體大小')):  73%|███████▎  | 66/90 [00:01<00:00, 51.28it/s]Animation 0: Write(Text('物體大小')):  81%|████████  | 73/90 [00:01<00:00, 55.37it/s]Animation 0: Write(Text('物體大小')):  88%|████████▊ | 79/90 [00:01<00:00, 52.04it/s]Animation 0: Write(Text('物體大小')):  94%|█████████▍| 85/90 [00:01<00:00, 48.76it/s]Animation 0: Write(Text('物體大小')): 100%|██████████| 90/90 [00:01<00:00, 41.09it/s]                                                                                     [03/13/26 19:25:22] INFO     Animation 0 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/22                         
+                             57293077_1802757138_335135                         
+                             3890.mp4'                                          
+Animation 1: FadeIn(Text('Object Size')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 1: FadeIn(Text('Object Size')):  15%|█▍        | 7/48 [00:00<00:00, 66.16it/s]Animation 1: FadeIn(Text('Object Size')):  31%|███▏      | 15/48 [00:00<00:00, 68.49it/s]Animation 1: FadeIn(Text('Object Size')):  46%|████▌     | 22/48 [00:00<00:00, 67.94it/s]Animation 1: FadeIn(Text('Object Size')):  62%|██████▎   | 30/48 [00:00<00:00, 68.72it/s]Animation 1: FadeIn(Text('Object Size')):  77%|███████▋  | 37/48 [00:00<00:00, 66.13it/s]Animation 1: FadeIn(Text('Object Size')):  92%|█████████▏| 44/48 [00:00<00:00, 62.46it/s]                                                                                         [03/13/26 19:25:25] INFO     Animation 1 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_3883477348_344898                         
+                             083.mp4'                                           
+Animation 2: FadeIn(Text('第十七課')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 2: FadeIn(Text('第十七課')):  12%|█▎        | 6/48 [00:00<00:00, 54.24it/s]Animation 2: FadeIn(Text('第十七課')):  25%|██▌       | 12/48 [00:00<00:00, 50.80it/s]Animation 2: FadeIn(Text('第十七課')):  38%|███▊      | 18/48 [00:00<00:00, 50.50it/s]Animation 2: FadeIn(Text('第十七課')):  52%|█████▏    | 25/48 [00:00<00:00, 55.90it/s]Animation 2: FadeIn(Text('第十七課')):  65%|██████▍   | 31/48 [00:00<00:00, 56.37it/s]Animation 2: FadeIn(Text('第十七課')):  77%|███████▋  | 37/48 [00:00<00:00, 57.38it/s]Animation 2: FadeIn(Text('第十七課')):  92%|█████████▏| 44/48 [00:00<00:00, 57.78it/s]                                                                                      [03/13/26 19:25:29] INFO     Animation 2 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_469973074_4058359                         
+                             140.mp4'                                           
+Animation 3: FadeIn(Text('制片人：Peter')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 3: FadeIn(Text('制片人：Peter')):  20%|██        | 6/30 [00:00<00:00, 53.48it/s]Animation 3: FadeIn(Text('制片人：Peter')):  40%|████      | 12/30 [00:00<00:00, 52.55it/s]Animation 3: FadeIn(Text('制片人：Peter')):  63%|██████▎   | 19/30 [00:00<00:00, 56.66it/s]Animation 3: FadeIn(Text('制片人：Peter')):  83%|████████▎ | 25/30 [00:00<00:00, 55.48it/s]                                                                                           [03/13/26 19:25:32] INFO     Animation 3 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_796818243_2542136                         
+                             739.mp4'                                           
+[03/13/26 19:26:09] INFO     Animation 4 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_147166913_1390372                         
+                             37.mp4'                                            
+[03/13/26 19:26:11] INFO     Animation 5 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_807188262_2615267                         
+                             409.mp4'                                           
+Animation 6: FadeOut(Text('物體大小')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 6: FadeOut(Text('物體大小')), etc.:  13%|█▎        | 4/30 [00:00<00:00, 31.08it/s]Animation 6: FadeOut(Text('物體大小')), etc.:  27%|██▋       | 8/30 [00:00<00:00, 27.76it/s]Animation 6: FadeOut(Text('物體大小')), etc.:  37%|███▋      | 11/30 [00:00<00:00, 26.46it/s]Animation 6: FadeOut(Text('物體大小')), etc.:  47%|████▋     | 14/30 [00:00<00:00, 25.66it/s]Animation 6: FadeOut(Text('物體大小')), etc.:  57%|█████▋    | 17/30 [00:00<00:00, 25.40it/s]Animation 6: FadeOut(Text('物體大小')), etc.:  67%|██████▋   | 20/30 [00:00<00:00, 25.23it/s]Animation 6: FadeOut(Text('物體大小')), etc.:  80%|████████  | 24/30 [00:00<00:00, 26.86it/s]Animation 6: FadeOut(Text('物體大小')), etc.:  90%|█████████ | 27/30 [00:01<00:00, 26.16it/s]Animation 6: FadeOut(Text('物體大小')), etc.: 100%|██████████| 30/30 [00:01<00:00, 25.81it/s]                                                                                             [03/13/26 19:26:15] INFO     Animation 6 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_3739766676_107613                         
+                             5051.mp4'                                          
+[03/13/26 19:26:20] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/ai-bin-ha                         
+                             o-si-xiao-ying-xi-jing-dia                         
+                             n-kai-da-xiao-16e7d1b0.mp3                         
+                              to .wav                                           
+Animation 7: Write(Text('艾賓浩斯效應')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 7: Write(Text('艾賓浩斯效應')):  19%|█▉        | 7/36 [00:00<00:00, 61.93it/s]Animation 7: Write(Text('艾賓浩斯效應')):  39%|███▉      | 14/36 [00:00<00:00, 57.69it/s]Animation 7: Write(Text('艾賓浩斯效應')):  56%|█████▌    | 20/36 [00:00<00:00, 56.50it/s]Animation 7: Write(Text('艾賓浩斯效應')):  72%|███████▏  | 26/36 [00:00<00:00, 51.75it/s]Animation 7: Write(Text('艾賓浩斯效應')):  89%|████████▉ | 32/36 [00:00<00:00, 50.67it/s]                                                                                         [03/13/26 19:26:23] INFO     Animation 7 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_1605825939_335135                         
+                             3890.mp4'                                          
+Animation 8: FadeIn(Circle):   0%|          | 0/30 [00:00<?, ?it/s]Animation 8: FadeIn(Circle):  37%|███▋      | 11/30 [00:00<00:00, 92.62it/s]Animation 8: FadeIn(Circle):  77%|███████▋  | 23/30 [00:00<00:00, 102.10it/s]                                                                             [03/13/26 19:26:25] INFO     Animation 8 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_2306404722_125456                         
+                             504.mp4'                                           
+Animation 9: FadeIn(VGroup of 6 submobjects), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 9: FadeIn(VGroup of 6 submobjects), etc.:  15%|█▍        | 7/48 [00:00<00:00, 69.48it/s]Animation 9: FadeIn(VGroup of 6 submobjects), etc.:  29%|██▉       | 14/48 [00:00<00:00, 64.87it/s]Animation 9: FadeIn(VGroup of 6 submobjects), etc.:  46%|████▌     | 22/48 [00:00<00:00, 68.13it/s]Animation 9: FadeIn(VGroup of 6 submobjects), etc.:  60%|██████    | 29/48 [00:00<00:00, 64.95it/s]Animation 9: FadeIn(VGroup of 6 submobjects), etc.:  75%|███████▌  | 36/48 [00:00<00:00, 64.95it/s]Animation 9: FadeIn(VGroup of 6 submobjects), etc.:  90%|████████▉ | 43/48 [00:00<00:00, 64.03it/s]                                                                                                   [03/13/26 19:26:28] INFO     Animation 9 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_1347699965_329912                         
+                             0149.mp4'                                          
+Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:   0%|          | 0/36 [00:00<?, ?it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:   8%|▊         | 3/36 [00:00<00:01, 24.08it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:  17%|█▋        | 6/36 [00:00<00:01, 22.05it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:  25%|██▌       | 9/36 [00:00<00:01, 20.89it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:  33%|███▎      | 12/36 [00:00<00:01, 21.27it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:  42%|████▏     | 15/36 [00:00<00:00, 21.45it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:  50%|█████     | 18/36 [00:00<00:00, 21.12it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:  58%|█████▊    | 21/36 [00:00<00:00, 21.62it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:  67%|██████▋   | 24/36 [00:01<00:00, 21.82it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:  75%|███████▌  | 27/36 [00:01<00:00, 21.52it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:  83%|████████▎ | 30/36 [00:01<00:00, 21.21it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.:  92%|█████████▏| 33/36 [00:01<00:00, 21.86it/s]Animation 10: FadeIn(Text('小圓包圍 → 睇落大啲')), etc.: 100%|██████████| 36/36 [00:01<00:00, 22.02it/s]                                                                                                        [03/13/26 19:26:32] INFO     Animation 10 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_3796355416_402996                         
+                             4397.mp4'                                          
+[03/13/26 19:27:15] INFO     Animation 11 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_86476638_30084210                         
+                             28.mp4'                                            
+[03/13/26 19:27:17] INFO     Animation 12 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_807188262_1434306                         
+                             873.mp4'                                           
+Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:   7%|▋         | 2/30 [00:00<00:01, 15.48it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 14.84it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  20%|██        | 6/30 [00:00<00:01, 14.59it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 15.41it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 15.94it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  40%|████      | 12/30 [00:00<00:01, 16.31it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  47%|████▋     | 14/30 [00:00<00:00, 16.34it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  53%|█████▎    | 16/30 [00:00<00:00, 16.84it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  60%|██████    | 18/30 [00:01<00:00, 17.05it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 16.27it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  73%|███████▎  | 22/30 [00:01<00:00, 16.10it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  80%|████████  | 24/30 [00:01<00:00, 16.58it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 16.78it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.:  93%|█████████▎| 28/30 [00:01<00:00, 16.64it/s]Animation 13: FadeOut(Text('艾賓浩斯效應')), etc.: 100%|██████████| 30/30 [00:01<00:00, 17.21it/s]                                                                                                  [03/13/26 19:27:22] INFO     Animation 13 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_1836064129_181104                         
+                             2113.mp4'                                          
+[03/13/26 19:27:27] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/san-wei-c                         
+                             hang-jing-you-hao-duo-da-x                         
+                             iao-xian-suo-b8117ad2.mp3                          
+                             to .wav                                            
+Animation 14: Write(Text('3D 場景嘅大小線索')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 14: Write(Text('3D 場景嘅大小線索')):  19%|█▉        | 7/36 [00:00<00:00, 61.93it/s]Animation 14: Write(Text('3D 場景嘅大小線索')):  39%|███▉      | 14/36 [00:00<00:00, 55.39it/s]Animation 14: Write(Text('3D 場景嘅大小線索')):  56%|█████▌    | 20/36 [00:00<00:00, 50.63it/s]Animation 14: Write(Text('3D 場景嘅大小線索')):  72%|███████▏  | 26/36 [00:00<00:00, 46.31it/s]Animation 14: Write(Text('3D 場景嘅大小線索')):  86%|████████▌ | 31/36 [00:00<00:00, 44.07it/s]Animation 14: Write(Text('3D 場景嘅大小線索')): 100%|██████████| 36/36 [00:00<00:00, 39.88it/s]                                                                                               [03/13/26 19:27:31] INFO     Animation 14 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_2299618423_335135                         
+                             3890.mp4'                                          
+Animation 15: FadeIn(Text('•  透視：近大遠細')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 15: FadeIn(Text('•  透視：近大遠細')):  20%|██        | 6/30 [00:00<00:00, 50.19it/s]Animation 15: FadeIn(Text('•  透視：近大遠細')):  40%|████      | 12/30 [00:00<00:00, 49.77it/s]Animation 15: FadeIn(Text('•  透視：近大遠細')):  57%|█████▋    | 17/30 [00:00<00:00, 45.48it/s]Animation 15: FadeIn(Text('•  透視：近大遠細')):  73%|███████▎  | 22/30 [00:00<00:00, 46.69it/s]Animation 15: FadeIn(Text('•  透視：近大遠細')):  90%|█████████ | 27/30 [00:00<00:00, 46.78it/s]                                                                                                [03/13/26 19:27:34] INFO     Animation 15 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_3525822512_216395                         
+                             9187.mp4'                                          
+Animation 16: FadeIn(Text('•  遮擋：前面遮後面')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 16: FadeIn(Text('•  遮擋：前面遮後面')):  13%|█▎        | 4/30 [00:00<00:00, 39.57it/s]Animation 16: FadeIn(Text('•  遮擋：前面遮後面')):  27%|██▋       | 8/30 [00:00<00:00, 34.71it/s]Animation 16: FadeIn(Text('•  遮擋：前面遮後面')):  40%|████      | 12/30 [00:00<00:00, 36.79it/s]Animation 16: FadeIn(Text('•  遮擋：前面遮後面')):  53%|█████▎    | 16/30 [00:00<00:00, 33.79it/s]Animation 16: FadeIn(Text('•  遮擋：前面遮後面')):  70%|███████   | 21/30 [00:00<00:00, 35.47it/s]Animation 16: FadeIn(Text('•  遮擋：前面遮後面')):  87%|████████▋ | 26/30 [00:00<00:00, 37.50it/s]                                                                                                  [03/13/26 19:27:37] INFO     Animation 16 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_2732004551_201116                         
+                             2780.mp4'                                          
+Animation 17: FadeIn(Text('•  空氣透視：遠嘅模糊')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 17: FadeIn(Text('•  空氣透視：遠嘅模糊')):  17%|█▋        | 5/30 [00:00<00:00, 39.78it/s]Animation 17: FadeIn(Text('•  空氣透視：遠嘅模糊')):  33%|███▎      | 10/30 [00:00<00:00, 38.41it/s]Animation 17: FadeIn(Text('•  空氣透視：遠嘅模糊')):  47%|████▋     | 14/30 [00:00<00:00, 37.48it/s]Animation 17: FadeIn(Text('•  空氣透視：遠嘅模糊')):  60%|██████    | 18/30 [00:00<00:00, 37.89it/s]Animation 17: FadeIn(Text('•  空氣透視：遠嘅模糊')):  73%|███████▎  | 22/30 [00:00<00:00, 36.78it/s]Animation 17: FadeIn(Text('•  空氣透視：遠嘅模糊')):  87%|████████▋ | 26/30 [00:00<00:00, 36.32it/s]                                                                                                    [03/13/26 19:27:40] INFO     Animation 17 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_4256526790_392349                         
+                             0102.mp4'                                          
+Animation 18: FadeIn(Text('•  運動視差：近嘅動得快')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 18: FadeIn(Text('•  運動視差：近嘅動得快')):  13%|█▎        | 4/30 [00:00<00:00, 39.44it/s]Animation 18: FadeIn(Text('•  運動視差：近嘅動得快')):  27%|██▋       | 8/30 [00:00<00:00, 36.70it/s]Animation 18: FadeIn(Text('•  運動視差：近嘅動得快')):  40%|████      | 12/30 [00:00<00:00, 38.12it/s]Animation 18: FadeIn(Text('•  運動視差：近嘅動得快')):  53%|█████▎    | 16/30 [00:00<00:00, 35.91it/s]Animation 18: FadeIn(Text('•  運動視差：近嘅動得快')):  67%|██████▋   | 20/30 [00:00<00:00, 36.13it/s]Animation 18: FadeIn(Text('•  運動視差：近嘅動得快')):  80%|████████  | 24/30 [00:00<00:00, 35.27it/s]Animation 18: FadeIn(Text('•  運動視差：近嘅動得快')):  93%|█████████▎| 28/30 [00:00<00:00, 34.91it/s]                                                                                                      [03/13/26 19:27:44] INFO     Animation 18 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_3106764343_101369                         
+                             6140.mp4'                                          
+Animation 19: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:   6%|▋         | 3/48 [00:00<00:01, 22.83it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  12%|█▎        | 6/48 [00:00<00:01, 23.01it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  19%|█▉        | 9/48 [00:00<00:01, 21.87it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  25%|██▌       | 12/48 [00:00<00:01, 21.64it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  31%|███▏      | 15/48 [00:00<00:01, 21.55it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  38%|███▊      | 18/48 [00:00<00:01, 19.95it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  44%|████▍     | 21/48 [00:01<00:01, 18.88it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  50%|█████     | 24/48 [00:01<00:01, 19.38it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  56%|█████▋    | 27/48 [00:01<00:01, 20.56it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  62%|██████▎   | 30/48 [00:01<00:00, 21.00it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  69%|██████▉   | 33/48 [00:01<00:00, 21.21it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  75%|███████▌  | 36/48 [00:01<00:00, 21.36it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  81%|████████▏ | 39/48 [00:01<00:00, 21.60it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  88%|████████▊ | 42/48 [00:01<00:00, 22.13it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  94%|█████████▍| 45/48 [00:02<00:00, 18.86it/s]Animation 19: FadeIn(VGroup of 2 submobjects), etc.:  98%|█████████▊| 47/48 [00:02<00:00, 17.41it/s]                                                                                                    [03/13/26 19:27:49] INFO     Animation 19 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_530087675_4810978                         
+                             60.mp4'                                            
+[03/13/26 19:28:31] INFO     Animation 20 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_153284550_2835160                         
+                             084.mp4'                                           
+[03/13/26 19:28:34] INFO     Animation 21 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_807188262_1648723                         
+                             742.mp4'                                           
+Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:   7%|▋         | 2/30 [00:00<00:02,  9.57it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  10%|█         | 3/30 [00:00<00:02,  9.29it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  13%|█▎        | 4/30 [00:00<00:02,  9.14it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  17%|█▋        | 5/30 [00:00<00:02,  8.63it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  20%|██        | 6/30 [00:00<00:02,  8.62it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  23%|██▎       | 7/30 [00:00<00:02,  8.72it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  27%|██▋       | 8/30 [00:00<00:02,  8.37it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  30%|███       | 9/30 [00:01<00:02,  8.57it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  33%|███▎      | 10/30 [00:01<00:02,  8.75it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  37%|███▋      | 11/30 [00:01<00:02,  8.82it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  40%|████      | 12/30 [00:01<00:02,  8.69it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  43%|████▎     | 13/30 [00:01<00:01,  8.65it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  47%|████▋     | 14/30 [00:01<00:01,  8.62it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  50%|█████     | 15/30 [00:01<00:01,  8.33it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  53%|█████▎    | 16/30 [00:01<00:01,  8.49it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  57%|█████▋    | 17/30 [00:01<00:01,  8.39it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  60%|██████    | 18/30 [00:02<00:01,  8.11it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  63%|██████▎   | 19/30 [00:02<00:01,  8.06it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  67%|██████▋   | 20/30 [00:02<00:01,  8.11it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  70%|███████   | 21/30 [00:02<00:01,  7.71it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  73%|███████▎  | 22/30 [00:02<00:01,  7.48it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  77%|███████▋  | 23/30 [00:02<00:00,  7.33it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  80%|████████  | 24/30 [00:02<00:00,  7.10it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  83%|████████▎ | 25/30 [00:03<00:00,  6.99it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  87%|████████▋ | 26/30 [00:03<00:00,  6.94it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  90%|█████████ | 27/30 [00:03<00:00,  6.86it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  93%|█████████▎| 28/30 [00:03<00:00,  6.89it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.:  97%|█████████▋| 29/30 [00:03<00:00,  6.82it/s]Animation 22: FadeOut(Text('3D 場景嘅大小線索')), etc.: 100%|██████████| 30/30 [00:03<00:00,  7.08it/s]                                                                                                       [03/13/26 19:28:43] INFO     Animation 22 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_1198666065_181496                         
+                             9038.mp4'                                          
+[03/13/26 19:28:48] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/yue-liang                         
+                             -cuo-jue-xi-di-ping-xian-k                         
+                             ai-yue-liang-di-b8d12929.m                         
+                             p3 to .wav                                         
+Animation 23: Write(Text('月亮錯覺')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 23: Write(Text('月亮錯覺')):  22%|██▏       | 8/36 [00:00<00:00, 74.21it/s]Animation 23: Write(Text('月亮錯覺')):  44%|████▍     | 16/36 [00:00<00:00, 66.14it/s]Animation 23: Write(Text('月亮錯覺')):  64%|██████▍   | 23/36 [00:00<00:00, 61.81it/s]Animation 23: Write(Text('月亮錯覺')):  83%|████████▎ | 30/36 [00:00<00:00, 61.54it/s]                                                                                      [03/13/26 19:28:51] INFO     Animation 23 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_3505126392_335135                         
+                             3890.mp4'                                          
+Animation 24: FadeIn(Text('地平線月亮')), etc.:   0%|          | 0/36 [00:00<?, ?it/s]Animation 24: FadeIn(Text('地平線月亮')), etc.:  11%|█         | 4/36 [00:00<00:00, 38.75it/s]Animation 24: FadeIn(Text('地平線月亮')), etc.:  22%|██▏       | 8/36 [00:00<00:00, 34.54it/s]Animation 24: FadeIn(Text('地平線月亮')), etc.:  36%|███▌      | 13/36 [00:00<00:00, 40.73it/s]Animation 24: FadeIn(Text('地平線月亮')), etc.:  53%|█████▎    | 19/36 [00:00<00:00, 44.79it/s]Animation 24: FadeIn(Text('地平線月亮')), etc.:  67%|██████▋   | 24/36 [00:00<00:00, 45.48it/s]Animation 24: FadeIn(Text('地平線月亮')), etc.:  81%|████████  | 29/36 [00:00<00:00, 43.95it/s]Animation 24: FadeIn(Text('地平線月亮')), etc.:  94%|█████████▍| 34/36 [00:00<00:00, 44.19it/s]                                                                                               [03/13/26 19:28:54] INFO     Animation 24 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_370091610_2989746                         
+                             842.mp4'                                           
+Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):   8%|▊         | 3/36 [00:00<00:01, 22.87it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):  17%|█▋        | 6/36 [00:00<00:01, 21.56it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):  25%|██▌       | 9/36 [00:00<00:01, 22.64it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):  33%|███▎      | 12/36 [00:00<00:01, 23.77it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):  42%|████▏     | 15/36 [00:00<00:00, 23.66it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):  50%|█████     | 18/36 [00:00<00:00, 23.19it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):  58%|█████▊    | 21/36 [00:00<00:00, 23.54it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):  67%|██████▋   | 24/36 [00:01<00:00, 22.29it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):  75%|███████▌  | 27/36 [00:01<00:00, 22.93it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):  83%|████████▎ | 30/36 [00:01<00:00, 23.73it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')):  92%|█████████▏| 33/36 [00:01<00:00, 23.98it/s]Animation 25: FadeIn(Text('地平線嘅月亮睇落大過天頂嘅月亮，但物理上一樣大')): 100%|██████████| 36/36 [00:01<00:00, 24.62it/s]                                                                                                                             [03/13/26 19:28:59] INFO     Animation 25 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_182375941_2302286                         
+                             389.mp4'                                           
+Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):   8%|▊         | 3/36 [00:00<00:01, 23.18it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):  17%|█▋        | 6/36 [00:00<00:01, 20.04it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):  25%|██▌       | 9/36 [00:00<00:01, 20.26it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):  33%|███▎      | 12/36 [00:00<00:01, 22.35it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):  42%|████▏     | 15/36 [00:00<00:00, 23.52it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):  50%|█████     | 18/36 [00:00<00:00, 24.60it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):  61%|██████    | 22/36 [00:00<00:00, 27.05it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):  69%|██████▉   | 25/36 [00:01<00:00, 27.72it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):  78%|███████▊  | 28/36 [00:01<00:00, 27.87it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')):  89%|████████▉ | 32/36 [00:01<00:00, 29.30it/s]Animation 26: FadeIn(Text('地平線月亮喺縮細嘅地面投影中排名更高')): 100%|██████████| 36/36 [00:01<00:00, 29.59it/s]                                                                                                                   [03/13/26 19:29:03] INFO     Animation 26 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_2712363541_206476                         
+                             728.mp4'                                           
+[03/13/26 19:29:46] INFO     Animation 27 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_3124658044_255451                         
+                             9859.mp4'                                          
+[03/13/26 19:29:49] INFO     Animation 28 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_807188262_2594305                         
+                             712.mp4'                                           
+Animation 29: FadeOut(Text('月亮錯覺')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:   7%|▋         | 2/30 [00:00<00:02, 11.39it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 10.58it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  20%|██        | 6/30 [00:00<00:02, 10.15it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.39it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 10.46it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  40%|████      | 12/30 [00:01<00:01, 10.85it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 10.98it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 10.71it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  60%|██████    | 18/30 [00:01<00:01, 10.60it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 10.63it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  73%|███████▎  | 22/30 [00:02<00:00, 10.48it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  80%|████████  | 24/30 [00:02<00:00, 10.49it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 10.45it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.:  93%|█████████▎| 28/30 [00:02<00:00, 10.48it/s]Animation 29: FadeOut(Text('月亮錯覺')), etc.: 100%|██████████| 30/30 [00:02<00:00, 10.57it/s]                                                                                              [03/13/26 19:29:56] INFO     Animation 29 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_1898361643_602539                         
+                             424.mp4'                                           
+[03/13/26 19:30:07] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/zong-jie-                         
+                             yi-xia-ai-bin-hao-si-xiao-                         
+                             ying-xi-zhou-5f88e92b.mp3                          
+                             to .wav                                            
+Animation 30: Write(Text('總結')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 30: Write(Text('總結')):  25%|██▌       | 9/36 [00:00<00:00, 89.99it/s]Animation 30: Write(Text('總結')):  50%|█████     | 18/36 [00:00<00:00, 78.94it/s]Animation 30: Write(Text('總結')):  72%|███████▏  | 26/36 [00:00<00:00, 69.02it/s]Animation 30: Write(Text('總結')):  94%|█████████▍| 34/36 [00:00<00:00, 66.82it/s]                                                                                  [03/13/26 19:30:11] INFO     Animation 30 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_1810312960_335135                         
+                             3890.mp4'                                          
+Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')):  10%|█         | 3/30 [00:00<00:01, 26.96it/s]Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')):  20%|██        | 6/30 [00:00<00:00, 25.28it/s]Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')):  30%|███       | 9/30 [00:00<00:00, 24.83it/s]Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')):  40%|████      | 12/30 [00:00<00:00, 23.67it/s]Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')):  50%|█████     | 15/30 [00:00<00:00, 22.95it/s]Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')):  60%|██████    | 18/30 [00:00<00:00, 23.70it/s]Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')):  70%|███████   | 21/30 [00:00<00:00, 23.51it/s]Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')):  80%|████████  | 24/30 [00:01<00:00, 23.37it/s]Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')):  90%|█████████ | 27/30 [00:01<00:00, 23.21it/s]Animation 31: FadeIn(Text('•  艾賓浩斯效應：周圍物體改變感知大小')): 100%|██████████| 30/30 [00:01<00:00, 22.31it/s]                                                                                                                    [03/13/26 19:30:14] INFO     Animation 31 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_1127643403_946676                         
+                             274.mp4'                                           
+Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')):  10%|█         | 3/30 [00:00<00:01, 21.61it/s]Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')):  20%|██        | 6/30 [00:00<00:01, 21.93it/s]Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')):  30%|███       | 9/30 [00:00<00:00, 22.46it/s]Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')):  40%|████      | 12/30 [00:00<00:00, 22.72it/s]Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')):  50%|█████     | 15/30 [00:00<00:00, 23.53it/s]Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')):  60%|██████    | 18/30 [00:00<00:00, 24.12it/s]Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')):  70%|███████   | 21/30 [00:00<00:00, 24.09it/s]Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')):  80%|████████  | 24/30 [00:01<00:00, 24.45it/s]Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')):  90%|█████████ | 27/30 [00:01<00:00, 23.68it/s]Animation 32: FadeIn(Text('•  透視、遮擋、空氣透視、運動視差係 3D 線索')): 100%|██████████| 30/30 [00:01<00:00, 22.93it/s]                                                                                                                          [03/13/26 19:30:18] INFO     Animation 32 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_2643607674_140693                         
+                             0465.mp4'                                          
+Animation 33: FadeIn(Text('•  大小距離悖論：背景物體睇落大啲')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 33: FadeIn(Text('•  大小距離悖論：背景物體睇落大啲')):  13%|█▎        | 4/30 [00:00<00:00, 33.11it/s]Animation 33: FadeIn(Text('•  大小距離悖論：背景物體睇落大啲')):  27%|██▋       | 8/30 [00:00<00:00, 30.62it/s]Animation 33: FadeIn(Text('•  大小距離悖論：背景物體睇落大啲')):  40%|████      | 12/30 [00:00<00:00, 29.17it/s]Animation 33: FadeIn(Text('•  大小距離悖論：背景物體睇落大啲')):  50%|█████     | 15/30 [00:00<00:00, 28.45it/s]Animation 33: FadeIn(Text('•  大小距離悖論：背景物體睇落大啲')):  60%|██████    | 18/30 [00:00<00:00, 28.54it/s]Animation 33: FadeIn(Text('•  大小距離悖論：背景物體睇落大啲')):  70%|███████   | 21/30 [00:00<00:00, 28.59it/s]Animation 33: FadeIn(Text('•  大小距離悖論：背景物體睇落大啲')):  80%|████████  | 24/30 [00:00<00:00, 28.14it/s]Animation 33: FadeIn(Text('•  大小距離悖論：背景物體睇落大啲')):  90%|█████████ | 27/30 [00:00<00:00, 26.54it/s]Animation 33: FadeIn(Text('•  大小距離悖論：背景物體睇落大啲')): 100%|██████████| 30/30 [00:01<00:00, 24.98it/s]                                                                                                                [03/13/26 19:30:22] INFO     Animation 33 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_3810259771_413713                         
+                             1984.mp4'                                          
+Animation 34: FadeIn(Text('•  月亮錯覺：地平線月亮排名更高')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 34: FadeIn(Text('•  月亮錯覺：地平線月亮排名更高')):  13%|█▎        | 4/30 [00:00<00:00, 26.21it/s]Animation 34: FadeIn(Text('•  月亮錯覺：地平線月亮排名更高')):  23%|██▎       | 7/30 [00:00<00:00, 24.87it/s]Animation 34: FadeIn(Text('•  月亮錯覺：地平線月亮排名更高')):  33%|███▎      | 10/30 [00:00<00:00, 25.51it/s]Animation 34: FadeIn(Text('•  月亮錯覺：地平線月亮排名更高')):  47%|████▋     | 14/30 [00:00<00:00, 29.13it/s]Animation 34: FadeIn(Text('•  月亮錯覺：地平線月亮排名更高')):  57%|█████▋    | 17/30 [00:00<00:00, 29.26it/s]Animation 34: FadeIn(Text('•  月亮錯覺：地平線月亮排名更高')):  67%|██████▋   | 20/30 [00:00<00:00, 29.40it/s]Animation 34: FadeIn(Text('•  月亮錯覺：地平線月亮排名更高')):  80%|████████  | 24/30 [00:00<00:00, 29.75it/s]Animation 34: FadeIn(Text('•  月亮錯覺：地平線月亮排名更高')):  93%|█████████▎| 28/30 [00:00<00:00, 30.57it/s]                                                                                                              [03/13/26 19:30:27] INFO     Animation 34 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_4088231886_255764                         
+                             1408.mp4'                                          
+[03/13/26 19:31:23] INFO     Animation 35 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_240729724_3574183                         
+                             984.mp4'                                           
+[03/13/26 19:31:27] INFO     Animation 36 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_3201849554_222573                         
+                             0478.mp4'                                          
+Animation 37: FadeOut(Text('總結')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 37: FadeOut(Text('總結')), etc.:   7%|▋         | 2/30 [00:00<00:02, 11.39it/s]Animation 37: FadeOut(Text('總結')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 11.62it/s]Animation 37: FadeOut(Text('總結')), etc.:  20%|██        | 6/30 [00:00<00:02, 11.34it/s]Animation 37: FadeOut(Text('總結')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.50it/s]Animation 37: FadeOut(Text('總結')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 10.69it/s]Animation 37: FadeOut(Text('總結')), etc.:  40%|████      | 12/30 [00:01<00:01, 10.26it/s]Animation 37: FadeOut(Text('總結')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 10.40it/s]Animation 37: FadeOut(Text('總結')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 10.05it/s]Animation 37: FadeOut(Text('總結')), etc.:  60%|██████    | 18/30 [00:01<00:01, 10.20it/s]Animation 37: FadeOut(Text('總結')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 10.56it/s]Animation 37: FadeOut(Text('總結')), etc.:  73%|███████▎  | 22/30 [00:02<00:00, 10.37it/s]Animation 37: FadeOut(Text('總結')), etc.:  80%|████████  | 24/30 [00:02<00:00,  9.85it/s]Animation 37: FadeOut(Text('總結')), etc.:  87%|████████▋ | 26/30 [00:02<00:00,  9.89it/s]Animation 37: FadeOut(Text('總結')), etc.:  90%|█████████ | 27/30 [00:02<00:00,  9.78it/s]Animation 37: FadeOut(Text('總結')), etc.:  93%|█████████▎| 28/30 [00:02<00:00,  9.36it/s]Animation 37: FadeOut(Text('總結')), etc.:  97%|█████████▋| 29/30 [00:02<00:00,  9.32it/s]Animation 37: FadeOut(Text('總結')), etc.: 100%|██████████| 30/30 [00:02<00:00,  9.20it/s]                                                                                          [03/13/26 19:31:34] INFO     Animation 37 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_2725740938_168705                         
+                             0516.mp4'                                          
+[03/13/26 19:31:39] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/duo-xie-s                         
+                             hou-di-xia-yi-ke-wo-di-hui                         
+                             -jiang-li-ti-82dd1536.mp3                          
+                             to .wav                                            
+Animation 38: Write(Text('多謝收睇！')):   0%|          | 0/60 [00:00<?, ?it/s]Animation 38: Write(Text('多謝收睇！')):  15%|█▌        | 9/60 [00:00<00:00, 81.36it/s]Animation 38: Write(Text('多謝收睇！')):  30%|███       | 18/60 [00:00<00:00, 79.41it/s]Animation 38: Write(Text('多謝收睇！')):  43%|████▎     | 26/60 [00:00<00:00, 76.50it/s]Animation 38: Write(Text('多謝收睇！')):  57%|█████▋    | 34/60 [00:00<00:00, 70.80it/s]Animation 38: Write(Text('多謝收睇！')):  70%|███████   | 42/60 [00:00<00:00, 65.72it/s]Animation 38: Write(Text('多謝收睇！')):  83%|████████▎ | 50/60 [00:00<00:00, 68.55it/s]Animation 38: Write(Text('多謝收睇！')):  95%|█████████▌| 57/60 [00:00<00:00, 67.46it/s]                                                                                        [03/13/26 19:31:43] INFO     Animation 38 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_566641700_3351353                         
+                             890.mp4'                                           
+Animation 39: FadeIn(Text('下一課：立體視覺')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 39: FadeIn(Text('下一課：立體視覺')):  10%|█         | 5/48 [00:00<00:00, 44.27it/s]Animation 39: FadeIn(Text('下一課：立體視覺')):  21%|██        | 10/48 [00:00<00:01, 36.83it/s]Animation 39: FadeIn(Text('下一課：立體視覺')):  33%|███▎      | 16/48 [00:00<00:00, 43.75it/s]Animation 39: FadeIn(Text('下一課：立體視覺')):  46%|████▌     | 22/48 [00:00<00:00, 47.21it/s]Animation 39: FadeIn(Text('下一課：立體視覺')):  58%|█████▊    | 28/48 [00:00<00:00, 49.89it/s]Animation 39: FadeIn(Text('下一課：立體視覺')):  71%|███████   | 34/48 [00:00<00:00, 51.34it/s]Animation 39: FadeIn(Text('下一課：立體視覺')):  83%|████████▎ | 40/48 [00:00<00:00, 53.80it/s]Animation 39: FadeIn(Text('下一課：立體視覺')):  96%|█████████▌| 46/48 [00:00<00:00, 53.63it/s]                                                                                               [03/13/26 19:31:45] INFO     Animation 39 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_1493188367_627346                         
+                             545.mp4'                                           
+[03/13/26 19:32:14] INFO     Animation 40 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_2148518588_321507                         
+                             6404.mp4'                                          
+[03/13/26 19:32:19] INFO     Animation 41 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_1839128356_285289                         
+                             9789.mp4'                                          
+Animation 42: FadeOut(Text('多謝收睇！')), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:   8%|▊         | 4/48 [00:00<00:01, 30.89it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:  17%|█▋        | 8/48 [00:00<00:01, 30.66it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:  25%|██▌       | 12/48 [00:00<00:01, 31.57it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:  33%|███▎      | 16/48 [00:00<00:01, 31.40it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:  42%|████▏     | 20/48 [00:00<00:00, 31.77it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:  50%|█████     | 24/48 [00:00<00:00, 31.21it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:  58%|█████▊    | 28/48 [00:00<00:00, 31.53it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:  67%|██████▋   | 32/48 [00:01<00:00, 32.47it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:  75%|███████▌  | 36/48 [00:01<00:00, 32.03it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:  83%|████████▎ | 40/48 [00:01<00:00, 32.01it/s]Animation 42: FadeOut(Text('多謝收睇！')), etc.:  92%|█████████▏| 44/48 [00:01<00:00, 33.47it/s]                                                                                                [03/13/26 19:32:23] INFO     Animation 42 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/partial_movie_fi                         
+                             les/ObjectSizeExplainer/21                         
+                             35761390_3393832082_270030                         
+                             9378.mp4'                                          
+                    INFO     Combining to Movie file.   scene_file_writer.py:753
+[03/13/26 19:32:32] WARNING  Some options were not      scene_file_writer.py:819
+                             used: {'shortest': '1',                            
+                             'metadata':                                        
+                             'comment=Rendered with                             
+                             Manim Community v0.20.1'}                          
+                    INFO                                scene_file_writer.py:904
+                             File ready at                                      
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             17/video/media/videos/scen                         
+                             e/1080p60/ObjectSizeExplai                         
+                             ner.mp4'                                           
+                                                                                
+                    INFO     Subcaption file has been   scene_file_writer.py:899
+                             written as                                         
+                             /home/peter/workspace/why-                         
+                             brains-dont-compute/lesson                         
+                                                                                
+                             17/video/media/videos/scen                         
+                             e/1080p60/ObjectSizeExplai                         
+                             ner.srt                                            
+                    INFO     Rendered ObjectSizeExplainer           scene.py:278
+                             Played 43 animations                               

@@ -1,0 +1,800 @@
+/home/peter/.pyenv/versions/3.13.5/lib/python3.13/site-packages/manim_voiceover/__init__.py:4: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+  import pkg_resources
+Manim Community v0.20.1
+
+[03/13/26 18:54:28] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/da-jia-ha                         
+                             o-huan-ying-li-dao-di-wu-k                         
+                             e-jin-ri-wo-di-bea35b26.mp                         
+                             3 to .wav                                          
+Animation 0: Write(Text('神經網絡')):   0%|          | 0/90 [00:00<?, ?it/s]Animation 0: Write(Text('神經網絡')):   4%|▍         | 4/90 [00:00<00:02, 31.71it/s]Animation 0: Write(Text('神經網絡')):  11%|█         | 10/90 [00:00<00:01, 42.89it/s]Animation 0: Write(Text('神經網絡')):  17%|█▋        | 15/90 [00:00<00:01, 44.43it/s]Animation 0: Write(Text('神經網絡')):  23%|██▎       | 21/90 [00:00<00:01, 45.72it/s]Animation 0: Write(Text('神經網絡')):  29%|██▉       | 26/90 [00:00<00:01, 46.28it/s]Animation 0: Write(Text('神經網絡')):  34%|███▍      | 31/90 [00:00<00:01, 46.68it/s]Animation 0: Write(Text('神經網絡')):  41%|████      | 37/90 [00:00<00:01, 50.57it/s]Animation 0: Write(Text('神經網絡')):  48%|████▊     | 43/90 [00:00<00:00, 49.39it/s]Animation 0: Write(Text('神經網絡')):  53%|█████▎    | 48/90 [00:01<00:01, 41.80it/s]Animation 0: Write(Text('神經網絡')):  59%|█████▉    | 53/90 [00:01<00:01, 35.30it/s]Animation 0: Write(Text('神經網絡')):  63%|██████▎   | 57/90 [00:01<00:00, 33.62it/s]Animation 0: Write(Text('神經網絡')):  68%|██████▊   | 61/90 [00:01<00:00, 33.19it/s]Animation 0: Write(Text('神經網絡')):  72%|███████▏  | 65/90 [00:01<00:00, 28.45it/s]Animation 0: Write(Text('神經網絡')):  77%|███████▋  | 69/90 [00:01<00:00, 27.22it/s]Animation 0: Write(Text('神經網絡')):  80%|████████  | 72/90 [00:02<00:00, 25.83it/s]Animation 0: Write(Text('神經網絡')):  83%|████████▎ | 75/90 [00:02<00:00, 25.44it/s]Animation 0: Write(Text('神經網絡')):  87%|████████▋ | 78/90 [00:02<00:00, 25.25it/s]Animation 0: Write(Text('神經網絡')):  90%|█████████ | 81/90 [00:02<00:00, 26.23it/s]Animation 0: Write(Text('神經網絡')):  93%|█████████▎| 84/90 [00:02<00:00, 26.36it/s]Animation 0: Write(Text('神經網絡')):  97%|█████████▋| 87/90 [00:02<00:00, 27.04it/s]                                                                                     [03/13/26 18:54:34] INFO     Animation 0 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2257293077_1622248051_335                         
+                             1353890.mp4'                                       
+Animation 1: FadeIn(Text('Neural Networks')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 1: FadeIn(Text('Neural Networks')):   8%|▊         | 4/48 [00:00<00:01, 37.47it/s]Animation 1: FadeIn(Text('Neural Networks')):  17%|█▋        | 8/48 [00:00<00:01, 21.79it/s]Animation 1: FadeIn(Text('Neural Networks')):  25%|██▌       | 12/48 [00:00<00:01, 24.74it/s]Animation 1: FadeIn(Text('Neural Networks')):  33%|███▎      | 16/48 [00:00<00:01, 27.43it/s]Animation 1: FadeIn(Text('Neural Networks')):  42%|████▏     | 20/48 [00:00<00:00, 29.06it/s]Animation 1: FadeIn(Text('Neural Networks')):  50%|█████     | 24/48 [00:00<00:00, 30.00it/s]Animation 1: FadeIn(Text('Neural Networks')):  58%|█████▊    | 28/48 [00:01<00:00, 28.36it/s]Animation 1: FadeIn(Text('Neural Networks')):  65%|██████▍   | 31/48 [00:01<00:00, 28.23it/s]Animation 1: FadeIn(Text('Neural Networks')):  73%|███████▎  | 35/48 [00:01<00:00, 29.50it/s]Animation 1: FadeIn(Text('Neural Networks')):  81%|████████▏ | 39/48 [00:01<00:00, 31.28it/s]Animation 1: FadeIn(Text('Neural Networks')):  90%|████████▉ | 43/48 [00:01<00:00, 29.91it/s]Animation 1: FadeIn(Text('Neural Networks')): 100%|██████████| 48/48 [00:01<00:00, 32.94it/s]                                                                                             [03/13/26 18:54:38] INFO     Animation 1 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_977100352_7663                         
+                             76210.mp4'                                         
+Animation 2: FadeIn(Text('第五課')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 2: FadeIn(Text('第五課')):  17%|█▋        | 8/48 [00:00<00:00, 70.65it/s]Animation 2: FadeIn(Text('第五課')):  33%|███▎      | 16/48 [00:00<00:00, 60.88it/s]Animation 2: FadeIn(Text('第五課')):  48%|████▊     | 23/48 [00:00<00:00, 60.45it/s]Animation 2: FadeIn(Text('第五課')):  62%|██████▎   | 30/48 [00:00<00:00, 61.08it/s]Animation 2: FadeIn(Text('第五課')):  77%|███████▋  | 37/48 [00:00<00:00, 59.46it/s]Animation 2: FadeIn(Text('第五課')):  90%|████████▉ | 43/48 [00:00<00:00, 50.66it/s]                                                                                    [03/13/26 18:54:41] INFO     Animation 2 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1639717906_388                         
+                             0656992.mp4'                                       
+Animation 3: FadeIn(Text('制片人：Peter')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 3: FadeIn(Text('制片人：Peter')):  20%|██        | 6/30 [00:00<00:00, 53.47it/s]Animation 3: FadeIn(Text('制片人：Peter')):  40%|████      | 12/30 [00:00<00:00, 56.02it/s]Animation 3: FadeIn(Text('制片人：Peter')):  60%|██████    | 18/30 [00:00<00:00, 52.31it/s]Animation 3: FadeIn(Text('制片人：Peter')):  80%|████████  | 24/30 [00:00<00:00, 48.10it/s]Animation 3: FadeIn(Text('制片人：Peter')): 100%|██████████| 30/30 [00:00<00:00, 46.19it/s]                                                                                           [03/13/26 18:54:44] INFO     Animation 3 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2778607271_349                         
+                             5984225.mp4'                                       
+[03/13/26 18:55:25] INFO     Animation 4 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1630960050_187                         
+                             1353396.mp4'                                       
+[03/13/26 18:55:28] INFO     Animation 5 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_807188262_4244                         
+                             240371.mp4'                                        
+Animation 6: FadeOut(Text('神經網絡')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:   7%|▋         | 2/30 [00:00<00:01, 19.68it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:  13%|█▎        | 4/30 [00:00<00:01, 16.91it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:  20%|██        | 6/30 [00:00<00:01, 16.90it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 17.64it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:  37%|███▋      | 11/30 [00:00<00:00, 20.94it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:  47%|████▋     | 14/30 [00:00<00:00, 21.04it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:  57%|█████▋    | 17/30 [00:00<00:00, 20.39it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 19.46it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:  77%|███████▋  | 23/30 [00:01<00:00, 20.33it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 22.38it/s]Animation 6: FadeOut(Text('神經網絡')), etc.:  97%|█████████▋| 29/30 [00:01<00:00, 23.07it/s]                                                                                             [03/13/26 18:55:32] INFO     Animation 6 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1625859193_680                         
+                             998246.mp4'                                        
+                    WARNING  Font Menlo not in ['AR PL UKai  text_mobject.py:464
+                             CN', 'AR PL UKai HK', 'AR PL                       
+                             UKai TW', 'AR PL UKai TW MBE',                     
+                             'AR PL UMing CN', 'AR PL UMing                     
+                             HK', 'AR PL UMing TW', 'AR PL                      
+                             UMing TW MBE', 'C059',                             
+                             'Caladea', 'Carlito',                              
+                             'Crystal', 'Cyrvetica',                            
+                             'D050000L', 'DejaVu Math TeX                       
+                             Gyre', 'DejaVu Sans', 'DejaVu                      
+                             Sans Mono', 'DejaVu Serif',                        
+                             'Droid Sans Fallback',                             
+                             'FreeMono', 'FreeSans',                            
+                             'FreeSerif', 'Gentium',                            
+                             'Gentium Basic', 'Gentium Book                     
+                             Basic', 'GentiumAlt',                              
+                             'JetBrains Mono', 'Liberation                      
+                             Mono', 'Liberation Sans',                          
+                             'Liberation Sans Narrow',                          
+                             'Liberation Serif', 'Linux                         
+                             Biolinum Keyboard O', 'Linux                       
+                             Biolinum O', 'Linux Libertine                      
+                             Display O', 'Linux Libertine                       
+                             Initials O', 'Linux Libertine                      
+                             Mono O', 'Linux Libertine O',                      
+                             'Monospace', 'Nimbus Mono PS',                     
+                             'Nimbus Roman', 'Nimbus Sans',                     
+                             'Nimbus Sans Narrow', 'Noto                        
+                             Color Emoji', 'Noto Kufi                           
+                             Arabic', 'Noto Looped Lao',                        
+                             'Noto Looped Lao UI', 'Noto                        
+                             Looped Thai', 'Noto Looped Thai                    
+                             UI', 'Noto Mono', 'Noto Music',                    
+                             'Noto Naskh Arabic', 'Noto                         
+                             Naskh Arabic UI', 'Noto                            
+                             Nastaliq Urdu', 'Noto Rashi                        
+                             Hebrew', 'Noto Sans', 'Noto                        
+                             Sans Adlam', 'Noto Sans Adlam                      
+                             Unjoined', 'Noto Sans Anatolian                    
+                             Hieroglyphs', 'Noto Sans                           
+                             Arabic', 'Noto Sans Arabic UI',                    
+                             'Noto Sans Armenian', 'Noto                        
+                             Sans Avestan', 'Noto Sans                          
+                             Balinese', 'Noto Sans Bamum',                      
+                             'Noto Sans Bassa Vah', 'Noto                       
+                             Sans Batak', 'Noto Sans                            
+                             Bengali', 'Noto Sans Bengali                       
+                             UI', 'Noto Sans Bhaiksuki',                        
+                             'Noto Sans Brahmi', 'Noto Sans                     
+                             Buginese', 'Noto Sans Buhid',                      
+                             'Noto Sans CJK HK', 'Noto Sans                     
+                             CJK JP', 'Noto Sans CJK KR',                       
+                             'Noto Sans CJK SC', 'Noto Sans                     
+                             CJK TC', 'Noto Sans Canadian                       
+                             Aboriginal', 'Noto Sans                            
+                             Carian', 'Noto Sans Caucasian                      
+                             Albanian', 'Noto Sans Chakma',                     
+                             'Noto Sans Cham', 'Noto Sans                       
+                             Cherokee', 'Noto Sans Coptic',                     
+                             'Noto Sans Cuneiform', 'Noto                       
+                             Sans Cypriot', 'Noto Sans                          
+                             Deseret', 'Noto Sans                               
+                             Devanagari', 'Noto Sans                            
+                             Devanagari UI', 'Noto Sans                         
+                             Display', 'Noto Sans Duployan',                    
+                             'Noto Sans Egyptian                                
+                             Hieroglyphs', 'Noto Sans                           
+                             Elbasan', 'Noto Sans Elymaic',                     
+                             'Noto Sans Ethiopic', 'Noto                        
+                             Sans Georgian', 'Noto Sans                         
+                             Glagolitic', 'Noto Sans                            
+                             Gothic', 'Noto Sans Grantha',                      
+                             'Noto Sans Gujarati', 'Noto                        
+                             Sans Gujarati UI', 'Noto Sans                      
+                             Gunjala Gondi', 'Noto Sans                         
+                             Gurmukhi', 'Noto Sans Gurmukhi                     
+                             UI', 'Noto Sans Hanifi                             
+                             Rohingya', 'Noto Sans Hanunoo',                    
+                             'Noto Sans Hatran', 'Noto Sans                     
+                             Hebrew', 'Noto Sans Imperial                       
+                             Aramaic', 'Noto Sans Indic                         
+                             Siyaq Numbers', 'Noto Sans                         
+                             Inscriptional Pahlavi', 'Noto                      
+                             Sans Inscriptional Parthian',                      
+                             'Noto Sans Javanese', 'Noto                        
+                             Sans Kaithi', 'Noto Sans                           
+                             Kannada', 'Noto Sans Kannada                       
+                             UI', 'Noto Sans Kayah Li',                         
+                             'Noto Sans Kharoshthi', 'Noto                      
+                             Sans Khmer', 'Noto Sans Khmer                      
+                             UI', 'Noto Sans Khojki', 'Noto                     
+                             Sans Khudawadi', 'Noto Sans                        
+                             Lao', 'Noto Sans Lao UI', 'Noto                    
+                             Sans Lepcha', 'Noto Sans                           
+                             Limbu', 'Noto Sans Linear A',                      
+                             'Noto Sans Linear B', 'Noto                        
+                             Sans Lisu', 'Noto Sans Lycian',                    
+                             'Noto Sans Lydian', 'Noto Sans                     
+                             Mahajani', 'Noto Sans                              
+                             Malayalam', 'Noto Sans                             
+                             Malayalam UI', 'Noto Sans                          
+                             Mandaic', 'Noto Sans                               
+                             Manichaean', 'Noto Sans                            
+                             Marchen', 'Noto Sans Masaram                       
+                             Gondi', 'Noto Sans Math', 'Noto                    
+                             Sans Mayan Numerals', 'Noto                        
+                             Sans Medefaidrin', 'Noto Sans                      
+                             Meetei Mayek', 'Noto Sans Mende                    
+                             Kikakui', 'Noto Sans Meroitic',                    
+                             'Noto Sans Miao', 'Noto Sans                       
+                             Modi', 'Noto Sans Mongolian',                      
+                             'Noto Sans Mono', 'Noto Sans                       
+                             Mono CJK HK', 'Noto Sans Mono                      
+                             CJK JP', 'Noto Sans Mono CJK                       
+                             KR', 'Noto Sans Mono CJK SC',                      
+                             'Noto Sans Mono CJK TC', 'Noto                     
+                             Sans Mro', 'Noto Sans Multani',                    
+                             'Noto Sans Myanmar', 'Noto Sans                    
+                             Myanmar UI', 'Noto Sans NKo',                      
+                             'Noto Sans Nabataean', 'Noto                       
+                             Sans New Tai Lue', 'Noto Sans                      
+                             Newa', 'Noto Sans Nushu', 'Noto                    
+                             Sans Ogham', 'Noto Sans Ol                         
+                             Chiki', 'Noto Sans Old                             
+                             Hungarian', 'Noto Sans Old                         
+                             Italic', 'Noto Sans Old North                      
+                             Arabian', 'Noto Sans Old                           
+                             Permic', 'Noto Sans Old                            
+                             Persian', 'Noto Sans Old                           
+                             Sogdian', 'Noto Sans Old South                     
+                             Arabian', 'Noto Sans Old                           
+                             Turkic', 'Noto Sans Oriya',                        
+                             'Noto Sans Oriya UI', 'Noto                        
+                             Sans Osage', 'Noto Sans                            
+                             Osmanya', 'Noto Sans Pahawh                        
+                             Hmong', 'Noto Sans Palmyrene',                     
+                             'Noto Sans Pau Cin Hau', 'Noto                     
+                             Sans PhagsPa', 'Noto Sans                          
+                             Phoenician', 'Noto Sans Psalter                    
+                             Pahlavi', 'Noto Sans Rejang',                      
+                             'Noto Sans Runic', 'Noto Sans                      
+                             Samaritan', 'Noto Sans                             
+                             Saurashtra', 'Noto Sans                            
+                             Sharada', 'Noto Sans Shavian',                     
+                             'Noto Sans Siddham', 'Noto Sans                    
+                             SignWriting', 'Noto Sans                           
+                             Sinhala', 'Noto Sans Sinhala                       
+                             UI', 'Noto Sans Sogdian', 'Noto                    
+                             Sans Sora Sompeng', 'Noto Sans                     
+                             Soyombo', 'Noto Sans                               
+                             Sundanese', 'Noto Sans Syloti                      
+                             Nagri', 'Noto Sans Symbols',                       
+                             'Noto Sans Symbols2', 'Noto                        
+                             Sans Syriac', 'Noto Sans                           
+                             Tagalog', 'Noto Sans Tagbanwa',                    
+                             'Noto Sans Tai Le', 'Noto Sans                     
+                             Tai Tham', 'Noto Sans Tai                          
+                             Viet', 'Noto Sans Takri', 'Noto                    
+                             Sans Tamil', 'Noto Sans Tamil                      
+                             Supplement', 'Noto Sans Tamil                      
+                             UI', 'Noto Sans Telugu', 'Noto                     
+                             Sans Telugu UI', 'Noto Sans                        
+                             Thaana', 'Noto Sans Thai',                         
+                             'Noto Sans Thai UI', 'Noto Sans                    
+                             Tifinagh', 'Noto Sans Tifinagh                     
+                             APT', 'Noto Sans Tifinagh                          
+                             Adrar', 'Noto Sans Tifinagh                        
+                             Agraw Imazighen', 'Noto Sans                       
+                             Tifinagh Ahaggar', 'Noto Sans                      
+                             Tifinagh Air', 'Noto Sans                          
+                             Tifinagh Azawagh', 'Noto Sans                      
+                             Tifinagh Ghat', 'Noto Sans                         
+                             Tifinagh Hawad', 'Noto Sans                        
+                             Tifinagh Rhissa Ixa', 'Noto                        
+                             Sans Tifinagh SIL', 'Noto Sans                     
+                             Tifinagh Tawellemmet', 'Noto                       
+                             Sans Tirhuta', 'Noto Sans                          
+                             Ugaritic', 'Noto Sans Vai',                        
+                             'Noto Sans Wancho', 'Noto Sans                     
+                             Warang Citi', 'Noto Sans Yi',                      
+                             'Noto Sans Zanabazar Square',                      
+                             'Noto Serif', 'Noto Serif                          
+                             Ahom', 'Noto Serif Armenian',                      
+                             'Noto Serif Balinese', 'Noto                       
+                             Serif Bengali', 'Noto Serif CJK                    
+                             HK', 'Noto Serif CJK JP', 'Noto                    
+                             Serif CJK KR', 'Noto Serif CJK                     
+                             SC', 'Noto Serif CJK TC', 'Noto                    
+                             Serif Devanagari', 'Noto Serif                     
+                             Display', 'Noto Serif Dogra',                      
+                             'Noto Serif Ethiopic', 'Noto                       
+                             Serif Georgian', 'Noto Serif                       
+                             Grantha', 'Noto Serif                              
+                             Gujarati', 'Noto Serif                             
+                             Gurmukhi', 'Noto Serif Hebrew',                    
+                             'Noto Serif Hmong Nyiakeng',                       
+                             'Noto Serif Kannada', 'Noto                        
+                             Serif Khmer', 'Noto Serif                          
+                             Khojki', 'Noto Serif Lao',                         
+                             'Noto Serif Malayalam', 'Noto                      
+                             Serif Myanmar', 'Noto Serif                        
+                             Sinhala', 'Noto Serif Tamil',                      
+                             'Noto Serif Tamil Slanted',                        
+                             'Noto Serif Tangut', 'Noto                         
+                             Serif Telugu', 'Noto Serif                         
+                             Thai', 'Noto Serif Tibetan',                       
+                             'Noto Serif Yezidi', 'Noto                         
+                             Traditional Nushu',                                
+                             'OpenSymbol', 'P052', 'POV-Ray                     
+                             Logo', 'Sans', 'Serif',                            
+                             'Standard Symbols PS',                             
+                             'System-ui', 'Time Roman',                         
+                             'Tuffy', 'URW Bookman', 'URW                       
+                             Gothic', 'Ubuntu', 'Ubuntu                         
+                             Mono', 'Ubuntu Sans', 'Ubuntu                      
+                             Sans Mono', 'Z003'].                               
+[03/13/26 18:55:39] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/yi-jiu-si                         
+                             -san-nian-mcculloch-tong-p                         
+                             itts-fa-biao-7c58fd72.mp3                          
+                             to .wav                                            
+Animation 7: Write(Text('McCulloch & Pitts (1943)')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 7: Write(Text('McCulloch & Pitts (1943)')):  11%|█         | 4/36 [00:00<00:01, 30.25it/s]Animation 7: Write(Text('McCulloch & Pitts (1943)')):  22%|██▏       | 8/36 [00:00<00:00, 29.67it/s]Animation 7: Write(Text('McCulloch & Pitts (1943)')):  33%|███▎      | 12/36 [00:00<00:00, 31.32it/s]Animation 7: Write(Text('McCulloch & Pitts (1943)')):  44%|████▍     | 16/36 [00:00<00:00, 32.24it/s]Animation 7: Write(Text('McCulloch & Pitts (1943)')):  58%|█████▊    | 21/36 [00:00<00:00, 34.82it/s]Animation 7: Write(Text('McCulloch & Pitts (1943)')):  69%|██████▉   | 25/36 [00:00<00:00, 33.97it/s]Animation 7: Write(Text('McCulloch & Pitts (1943)')):  81%|████████  | 29/36 [00:00<00:00, 33.50it/s]Animation 7: Write(Text('McCulloch & Pitts (1943)')):  92%|█████████▏| 33/36 [00:01<00:00, 32.59it/s]                                                                                                     [03/13/26 18:55:43] INFO     Animation 7 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_3569485269_335                         
+                             1353890.mp4'                                       
+Animation 8: FadeIn(VGroup of 2 submobjects):   0%|          | 0/30 [00:00<?, ?it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  23%|██▎       | 7/30 [00:00<00:00, 69.99it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  47%|████▋     | 14/30 [00:00<00:00, 65.34it/s]Animation 8: FadeIn(VGroup of 2 submobjects):  73%|███████▎  | 22/30 [00:00<00:00, 71.02it/s]Animation 8: FadeIn(VGroup of 2 submobjects): 100%|██████████| 30/30 [00:00<00:00, 73.29it/s]                                                                                             [03/13/26 18:55:46] INFO     Animation 8 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2656752016_106                         
+                             0665195.mp4'                                       
+Animation 9: FadeIn(Text('McCulloch & Pitts')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 9: FadeIn(Text('McCulloch & Pitts')):  17%|█▋        | 5/30 [00:00<00:00, 42.89it/s]Animation 9: FadeIn(Text('McCulloch & Pitts')):  33%|███▎      | 10/30 [00:00<00:00, 36.30it/s]Animation 9: FadeIn(Text('McCulloch & Pitts')):  50%|█████     | 15/30 [00:00<00:00, 38.24it/s]Animation 9: FadeIn(Text('McCulloch & Pitts')):  70%|███████   | 21/30 [00:00<00:00, 43.06it/s]Animation 9: FadeIn(Text('McCulloch & Pitts')):  90%|█████████ | 27/30 [00:00<00:00, 47.70it/s]                                                                                               [03/13/26 18:55:49] INFO     Animation 9 : Partial      scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_4198577601_349                         
+                             3453086.mp4'                                       
+Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):   8%|▊         | 3/36 [00:00<00:01, 21.84it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):  17%|█▋        | 6/36 [00:00<00:01, 21.11it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):  25%|██▌       | 9/36 [00:00<00:01, 20.29it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):  33%|███▎      | 12/36 [00:00<00:01, 21.38it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):  42%|████▏     | 15/36 [00:00<00:01, 20.81it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):  50%|█████     | 18/36 [00:00<00:00, 19.06it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):  58%|█████▊    | 21/36 [00:01<00:00, 19.79it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):  67%|██████▋   | 24/36 [00:01<00:00, 19.71it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):  75%|███████▌  | 27/36 [00:01<00:00, 19.96it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):  83%|████████▎ | 30/36 [00:01<00:00, 20.27it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')):  92%|█████████▏| 33/36 [00:01<00:00, 20.79it/s]Animation 10: FadeIn(Text('問題可以透過可修改嘅網絡連接嚟解決')): 100%|██████████| 36/36 [00:01<00:00, 20.68it/s]                                                                                                                 [03/13/26 18:55:54] INFO     Animation 10 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2928646454_775                         
+                             652288.mp4'                                        
+Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')):  10%|█         | 3/30 [00:00<00:01, 25.49it/s]Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')):  20%|██        | 6/30 [00:00<00:01, 23.58it/s]Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')):  30%|███       | 9/30 [00:00<00:00, 23.51it/s]Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')):  40%|████      | 12/30 [00:00<00:00, 23.31it/s]Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')):  50%|█████     | 15/30 [00:00<00:00, 24.04it/s]Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')):  60%|██████    | 18/30 [00:00<00:00, 23.44it/s]Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')):  70%|███████   | 21/30 [00:00<00:00, 22.50it/s]Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')):  80%|████████  | 24/30 [00:01<00:00, 21.39it/s]Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')):  90%|█████████ | 27/30 [00:01<00:00, 21.98it/s]Animation 11: FadeIn(Text('A logical calculus of the ideas immanent in nervous activity')): 100%|██████████| 30/30 [00:01<00:00, 22.10it/s]                                                                                                                                           [03/13/26 18:55:57] INFO     Animation 11 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_4203767589_317                         
+                             8497875.mp4'                                       
+[03/13/26 18:57:11] INFO     Animation 12 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_990353533_3914                         
+                             349644.mp4'                                        
+[03/13/26 18:57:13] INFO     Animation 13 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_807188262_4135                         
+                             944412.mp4'                                        
+Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:   3%|▎         | 1/30 [00:00<00:03,  9.32it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  10%|█         | 3/30 [00:00<00:02,  9.03it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  17%|█▋        | 5/30 [00:00<00:02, 10.06it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  23%|██▎       | 7/30 [00:00<00:02, 10.36it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  30%|███       | 9/30 [00:00<00:02, 10.11it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  37%|███▋      | 11/30 [00:01<00:01, 10.29it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  43%|████▎     | 13/30 [00:01<00:01, 10.70it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  50%|█████     | 15/30 [00:01<00:01, 11.32it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  57%|█████▋    | 17/30 [00:01<00:01, 10.68it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  63%|██████▎   | 19/30 [00:01<00:01,  9.54it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  70%|███████   | 21/30 [00:02<00:00, 10.14it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  77%|███████▋  | 23/30 [00:02<00:00, 10.62it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  83%|████████▎ | 25/30 [00:02<00:00, 10.56it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  90%|█████████ | 27/30 [00:02<00:00, 10.92it/s]Animation 14: FadeOut(Text('McCulloch & Pitts (1943)')), etc.:  97%|█████████▋| 29/30 [00:02<00:00, 10.78it/s]                                                                                                              [03/13/26 18:57:21] INFO     Animation 14 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1085796375_259                         
+                             0764089.mp4'                                       
+[03/13/26 18:57:29] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/ren-gong-                         
+                             shen-jing-wang-luo-you-yi-                         
+                             ge-hao-zhong-2ce21137.mp3                          
+                             to .wav                                            
+Animation 15: Write(Text('人工神經網絡嘅關鍵特徵')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 15: Write(Text('人工神經網絡嘅關鍵特徵')):  17%|█▋        | 6/36 [00:00<00:00, 53.60it/s]Animation 15: Write(Text('人工神經網絡嘅關鍵特徵')):  33%|███▎      | 12/36 [00:00<00:00, 51.42it/s]Animation 15: Write(Text('人工神經網絡嘅關鍵特徵')):  50%|█████     | 18/36 [00:00<00:00, 39.84it/s]Animation 15: Write(Text('人工神經網絡嘅關鍵特徵')):  64%|██████▍   | 23/36 [00:00<00:00, 27.62it/s]Animation 15: Write(Text('人工神經網絡嘅關鍵特徵')):  75%|███████▌  | 27/36 [00:00<00:00, 24.87it/s]Animation 15: Write(Text('人工神經網絡嘅關鍵特徵')):  83%|████████▎ | 30/36 [00:01<00:00, 22.61it/s]Animation 15: Write(Text('人工神經網絡嘅關鍵特徵')):  92%|█████████▏| 33/36 [00:01<00:00, 21.86it/s]Animation 15: Write(Text('人工神經網絡嘅關鍵特徵')): 100%|██████████| 36/36 [00:01<00:00, 18.67it/s]                                                                                                    [03/13/26 18:57:34] INFO     Animation 15 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_4235580869_335                         
+                             1353890.mp4'                                       
+Animation 16: FadeIn(VGroup of 2 submobjects):   0%|          | 0/30 [00:00<?, ?it/s]Animation 16: FadeIn(VGroup of 2 submobjects):  13%|█▎        | 4/30 [00:00<00:00, 38.90it/s]Animation 16: FadeIn(VGroup of 2 submobjects):  30%|███       | 9/30 [00:00<00:00, 42.85it/s]Animation 16: FadeIn(VGroup of 2 submobjects):  47%|████▋     | 14/30 [00:00<00:00, 38.97it/s]Animation 16: FadeIn(VGroup of 2 submobjects):  67%|██████▋   | 20/30 [00:00<00:00, 42.83it/s]Animation 16: FadeIn(VGroup of 2 submobjects):  83%|████████▎ | 25/30 [00:00<00:00, 41.87it/s]Animation 16: FadeIn(VGroup of 2 submobjects): 100%|██████████| 30/30 [00:00<00:00, 40.67it/s]                                                                                              [03/13/26 18:57:37] INFO     Animation 16 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_531703616_2122                         
+                             922891.mp4'                                        
+Animation 17: FadeIn(VGroup of 2 submobjects):   0%|          | 0/30 [00:00<?, ?it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  17%|█▋        | 5/30 [00:00<00:00, 38.70it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  30%|███       | 9/30 [00:00<00:00, 35.02it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  43%|████▎     | 13/30 [00:00<00:00, 35.42it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  57%|█████▋    | 17/30 [00:00<00:00, 33.56it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  70%|███████   | 21/30 [00:00<00:00, 32.85it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  83%|████████▎ | 25/30 [00:00<00:00, 32.21it/s]Animation 17: FadeIn(VGroup of 2 submobjects):  97%|█████████▋| 29/30 [00:00<00:00, 32.12it/s]                                                                                              [03/13/26 18:57:41] INFO     Animation 17 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2580896612_132                         
+                             8008911.mp4'                                       
+Animation 18: FadeIn(VGroup of 2 submobjects):   0%|          | 0/30 [00:00<?, ?it/s]Animation 18: FadeIn(VGroup of 2 submobjects):  13%|█▎        | 4/30 [00:00<00:00, 34.65it/s]Animation 18: FadeIn(VGroup of 2 submobjects):  27%|██▋       | 8/30 [00:00<00:00, 33.34it/s]Animation 18: FadeIn(VGroup of 2 submobjects):  40%|████      | 12/30 [00:00<00:00, 32.58it/s]Animation 18: FadeIn(VGroup of 2 submobjects):  53%|█████▎    | 16/30 [00:00<00:00, 31.52it/s]Animation 18: FadeIn(VGroup of 2 submobjects):  67%|██████▋   | 20/30 [00:00<00:00, 31.17it/s]Animation 18: FadeIn(VGroup of 2 submobjects):  80%|████████  | 24/30 [00:00<00:00, 32.28it/s]Animation 18: FadeIn(VGroup of 2 submobjects):  93%|█████████▎| 28/30 [00:00<00:00, 33.05it/s]                                                                                              [03/13/26 18:57:44] INFO     Animation 18 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2341436246_408                         
+                             3258433.mp4'                                       
+Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')):  10%|█         | 3/30 [00:00<00:00, 28.98it/s]Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')):  20%|██        | 6/30 [00:00<00:00, 27.16it/s]Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')):  30%|███       | 9/30 [00:00<00:00, 26.55it/s]Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')):  40%|████      | 12/30 [00:00<00:00, 26.90it/s]Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')):  50%|█████     | 15/30 [00:00<00:00, 26.08it/s]Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')):  60%|██████    | 18/30 [00:00<00:00, 24.77it/s]Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')):  70%|███████   | 21/30 [00:00<00:00, 24.49it/s]Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')):  80%|████████  | 24/30 [00:00<00:00, 23.69it/s]Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')):  90%|█████████ | 27/30 [00:01<00:00, 23.97it/s]Animation 19: FadeIn(Text('呢啲特徵同生物學習好相似')): 100%|██████████| 30/30 [00:01<00:00, 23.73it/s]                                                                                                       [03/13/26 18:57:49] INFO     Animation 19 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1292334022_379                         
+                             9506176.mp4'                                       
+[03/13/26 18:59:17] INFO     Animation 20 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_98565786_64100                         
+                             82.mp4'                                            
+[03/13/26 18:59:20] INFO     Animation 21 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_807188262_7553                         
+                             41899.mp4'                                         
+Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:   7%|▋         | 2/30 [00:00<00:02, 10.14it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 10.88it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  20%|██        | 6/30 [00:00<00:02, 11.51it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  27%|██▋       | 8/30 [00:00<00:01, 11.90it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 11.82it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  40%|████      | 12/30 [00:01<00:01, 12.39it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 12.37it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 12.75it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  60%|██████    | 18/30 [00:01<00:01, 11.36it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 10.13it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  73%|███████▎  | 22/30 [00:02<00:00,  9.49it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  77%|███████▋  | 23/30 [00:02<00:00,  9.24it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  80%|████████  | 24/30 [00:02<00:00,  9.19it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  83%|████████▎ | 25/30 [00:02<00:00,  8.36it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  87%|████████▋ | 26/30 [00:02<00:00,  8.70it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  90%|█████████ | 27/30 [00:02<00:00,  8.89it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.:  93%|█████████▎| 28/30 [00:02<00:00,  9.08it/s]Animation 22: FadeOut(Text('人工神經網絡嘅關鍵特徵')), etc.: 100%|██████████| 30/30 [00:02<00:00,  9.66it/s]                                                                                                            [03/13/26 18:59:27] INFO     Animation 22 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2656833497_220                         
+                             3175395.mp4'                                       
+[03/13/26 18:59:39] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/dan-xi-re                         
+                             n-gong-shen-jing-wang-luo-                         
+                             you-yi-ge-gen-f57bb1a9.mp3                         
+                              to .wav                                           
+Animation 23: Write(Text('信用分配問題 Credit Assignment')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 23: Write(Text('信用分配問題 Credit Assignment')):  11%|█         | 4/36 [00:00<00:00, 32.93it/s]Animation 23: Write(Text('信用分配問題 Credit Assignment')):  22%|██▏       | 8/36 [00:00<00:01, 26.05it/s]Animation 23: Write(Text('信用分配問題 Credit Assignment')):  31%|███       | 11/36 [00:00<00:00, 26.58it/s]Animation 23: Write(Text('信用分配問題 Credit Assignment')):  39%|███▉      | 14/36 [00:00<00:00, 26.61it/s]Animation 23: Write(Text('信用分配問題 Credit Assignment')):  47%|████▋     | 17/36 [00:00<00:00, 27.35it/s]Animation 23: Write(Text('信用分配問題 Credit Assignment')):  56%|█████▌    | 20/36 [00:00<00:00, 27.94it/s]Animation 23: Write(Text('信用分配問題 Credit Assignment')):  64%|██████▍   | 23/36 [00:00<00:00, 28.54it/s]Animation 23: Write(Text('信用分配問題 Credit Assignment')):  75%|███████▌  | 27/36 [00:00<00:00, 28.90it/s]Animation 23: Write(Text('信用分配問題 Credit Assignment')):  83%|████████▎ | 30/36 [00:01<00:00, 28.35it/s]Animation 23: Write(Text('信用分配問題 Credit Assignment')):  94%|█████████▍| 34/36 [00:01<00:00, 28.98it/s]                                                                                                            [03/13/26 18:59:43] INFO     Animation 23 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_3797271811_335                         
+                             1353890.mp4'                                       
+Animation 24: FadeIn(VGroup of 2 submobjects):   0%|          | 0/30 [00:00<?, ?it/s]Animation 24: FadeIn(VGroup of 2 submobjects):  10%|█         | 3/30 [00:00<00:00, 29.07it/s]Animation 24: FadeIn(VGroup of 2 submobjects):  20%|██        | 6/30 [00:00<00:00, 25.32it/s]Animation 24: FadeIn(VGroup of 2 submobjects):  33%|███▎      | 10/30 [00:00<00:00, 27.85it/s]Animation 24: FadeIn(VGroup of 2 submobjects):  47%|████▋     | 14/30 [00:00<00:00, 31.85it/s]Animation 24: FadeIn(VGroup of 2 submobjects):  60%|██████    | 18/30 [00:00<00:00, 33.58it/s]Animation 24: FadeIn(VGroup of 2 submobjects):  73%|███████▎  | 22/30 [00:00<00:00, 33.60it/s]Animation 24: FadeIn(VGroup of 2 submobjects):  87%|████████▋ | 26/30 [00:00<00:00, 33.69it/s]Animation 24: FadeIn(VGroup of 2 submobjects): 100%|██████████| 30/30 [00:00<00:00, 34.29it/s]                                                                                              [03/13/26 18:59:46] INFO     Animation 24 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1745945696_387                         
+                             0027747.mp4'                                       
+Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):   4%|▍         | 2/48 [00:00<00:02, 16.58it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):   8%|▊         | 4/48 [00:00<00:03, 12.41it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  12%|█▎        | 6/48 [00:00<00:03, 11.36it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  17%|█▋        | 8/48 [00:00<00:03, 11.72it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  21%|██        | 10/48 [00:00<00:03, 12.38it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  25%|██▌       | 12/48 [00:00<00:02, 12.72it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  29%|██▉       | 14/48 [00:01<00:02, 12.96it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  33%|███▎      | 16/48 [00:01<00:02, 13.37it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  38%|███▊      | 18/48 [00:01<00:02, 13.59it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  42%|████▏     | 20/48 [00:01<00:01, 14.75it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  46%|████▌     | 22/48 [00:01<00:01, 15.55it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  50%|█████     | 24/48 [00:01<00:01, 15.66it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  54%|█████▍    | 26/48 [00:01<00:01, 16.37it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  58%|█████▊    | 28/48 [00:01<00:01, 16.13it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  62%|██████▎   | 30/48 [00:02<00:01, 16.16it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  67%|██████▋   | 32/48 [00:02<00:01, 15.65it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  71%|███████   | 34/48 [00:02<00:01, 13.46it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  75%|███████▌  | 36/48 [00:02<00:00, 13.20it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  79%|███████▉  | 38/48 [00:02<00:00, 13.88it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  83%|████████▎ | 40/48 [00:02<00:00, 14.94it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  88%|████████▊ | 42/48 [00:02<00:00, 15.18it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  92%|█████████▏| 44/48 [00:03<00:00, 14.77it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')):  96%|█████████▌| 46/48 [00:03<00:00, 14.83it/s]Animation 25: FadeIn(Text('網絡有好多層、好多權重。當輸出錯咗，點樣知道邊個權重要改？邊個要負責任？')): 100%|██████████| 48/48 [00:03<00:00, 15.03it/s]                                                                                                                                                       [03/13/26 18:59:53] INFO     Animation 25 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_111451139_8362                         
+                             54178.mp4'                                         
+Animation 26: FadeIn(Text('• 算法計算主導，神經網絡慢、難理解')):   0%|          | 0/24 [00:00<?, ?it/s]Animation 26: FadeIn(Text('• 算法計算主導，神經網絡慢、難理解')):  12%|█▎        | 3/24 [00:00<00:00, 25.21it/s]Animation 26: FadeIn(Text('• 算法計算主導，神經網絡慢、難理解')):  25%|██▌       | 6/24 [00:00<00:00, 24.33it/s]Animation 26: FadeIn(Text('• 算法計算主導，神經網絡慢、難理解')):  38%|███▊      | 9/24 [00:00<00:00, 26.25it/s]Animation 26: FadeIn(Text('• 算法計算主導，神經網絡慢、難理解')):  54%|█████▍    | 13/24 [00:00<00:00, 28.94it/s]Animation 26: FadeIn(Text('• 算法計算主導，神經網絡慢、難理解')):  67%|██████▋   | 16/24 [00:00<00:00, 28.44it/s]Animation 26: FadeIn(Text('• 算法計算主導，神經網絡慢、難理解')):  79%|███████▉  | 19/24 [00:00<00:00, 27.43it/s]Animation 26: FadeIn(Text('• 算法計算主導，神經網絡慢、難理解')):  92%|█████████▏| 22/24 [00:00<00:00, 25.29it/s]                                                                                                                 [03/13/26 18:59:57] INFO     Animation 26 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1513463750_359                         
+                             3845689.mp4'                                       
+Animation 27: FadeIn(Text('• 缺乏有效嘅訓練方法')):   0%|          | 0/24 [00:00<?, ?it/s]Animation 27: FadeIn(Text('• 缺乏有效嘅訓練方法')):  17%|█▋        | 4/24 [00:00<00:00, 39.65it/s]Animation 27: FadeIn(Text('• 缺乏有效嘅訓練方法')):  33%|███▎      | 8/24 [00:00<00:00, 39.36it/s]Animation 27: FadeIn(Text('• 缺乏有效嘅訓練方法')):  50%|█████     | 12/24 [00:00<00:00, 37.76it/s]Animation 27: FadeIn(Text('• 缺乏有效嘅訓練方法')):  67%|██████▋   | 16/24 [00:00<00:00, 36.83it/s]Animation 27: FadeIn(Text('• 缺乏有效嘅訓練方法')):  83%|████████▎ | 20/24 [00:00<00:00, 35.94it/s]Animation 27: FadeIn(Text('• 缺乏有效嘅訓練方法')): 100%|██████████| 24/24 [00:00<00:00, 35.66it/s]                                                                                                   [03/13/26 19:00:01] INFO     Animation 27 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1399857319_119                         
+                             2035536.mp4'                                       
+[03/13/26 19:01:28] INFO     Animation 28 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_3895385639_305                         
+                             7779333.mp4'                                       
+[03/13/26 19:01:31] INFO     Animation 29 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_807188262_3203                         
+                             214152.mp4'                                        
+Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:   7%|▋         | 2/30 [00:00<00:03,  8.98it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  10%|█         | 3/30 [00:00<00:03,  8.30it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  13%|█▎        | 4/30 [00:00<00:03,  8.10it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  17%|█▋        | 5/30 [00:00<00:03,  8.17it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  20%|██        | 6/30 [00:00<00:03,  7.89it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  23%|██▎       | 7/30 [00:00<00:02,  7.72it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  27%|██▋       | 8/30 [00:00<00:02,  8.15it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  30%|███       | 9/30 [00:01<00:02,  8.52it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  33%|███▎      | 10/30 [00:01<00:02,  8.61it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  37%|███▋      | 11/30 [00:01<00:02,  8.14it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  40%|████      | 12/30 [00:01<00:02,  7.67it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  43%|████▎     | 13/30 [00:01<00:02,  7.19it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  47%|████▋     | 14/30 [00:01<00:02,  6.77it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  50%|█████     | 15/30 [00:01<00:02,  6.67it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  53%|█████▎    | 16/30 [00:02<00:02,  6.47it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  57%|█████▋    | 17/30 [00:02<00:02,  6.46it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  60%|██████    | 18/30 [00:02<00:01,  6.39it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  63%|██████▎   | 19/30 [00:02<00:01,  6.52it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  67%|██████▋   | 20/30 [00:02<00:01,  6.52it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  70%|███████   | 21/30 [00:02<00:01,  6.58it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  73%|███████▎  | 22/30 [00:03<00:01,  6.39it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  77%|███████▋  | 23/30 [00:03<00:01,  6.63it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  80%|████████  | 24/30 [00:03<00:00,  6.77it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  83%|████████▎ | 25/30 [00:03<00:00,  7.13it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  90%|█████████ | 27/30 [00:03<00:00,  8.51it/s]Animation 30: FadeOut(Text('信用分配問題 Credit Assignment')), etc.:  97%|█████████▋| 29/30 [00:03<00:00,  9.61it/s]                                                                                                                    [03/13/26 19:01:39] INFO     Animation 30 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_3766016013_579                         
+                             964875.mp4'                                        
+[03/13/26 19:01:56] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/yi-jiu-wu                         
+                             -ba-nian-rosenblatt-fa-min                         
+                             g-zuo-gan-zhi-a3530a2d.mp3                         
+                              to .wav                                           
+Animation 31: Write(Text('感知器 Perceptron')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 31: Write(Text('感知器 Perceptron')):  17%|█▋        | 6/36 [00:00<00:00, 50.58it/s]Animation 31: Write(Text('感知器 Perceptron')):  33%|███▎      | 12/36 [00:00<00:00, 43.13it/s]Animation 31: Write(Text('感知器 Perceptron')):  47%|████▋     | 17/36 [00:00<00:00, 43.08it/s]Animation 31: Write(Text('感知器 Perceptron')):  61%|██████    | 22/36 [00:00<00:00, 41.40it/s]Animation 31: Write(Text('感知器 Perceptron')):  75%|███████▌  | 27/36 [00:00<00:00, 38.90it/s]Animation 31: Write(Text('感知器 Perceptron')):  89%|████████▉ | 32/36 [00:00<00:00, 38.98it/s]Animation 31: Write(Text('感知器 Perceptron')): 100%|██████████| 36/36 [00:00<00:00, 39.21it/s]                                                                                               [03/13/26 19:01:59] INFO     Animation 31 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_3668388402_335                         
+                             1353890.mp4'                                       
+Animation 32: FadeIn(VGroup of 2 submobjects), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 32: FadeIn(VGroup of 2 submobjects), etc.:  10%|█         | 3/30 [00:00<00:01, 26.49it/s]Animation 32: FadeIn(VGroup of 2 submobjects), etc.:  20%|██        | 6/30 [00:00<00:01, 22.69it/s]Animation 32: FadeIn(VGroup of 2 submobjects), etc.:  30%|███       | 9/30 [00:00<00:01, 19.99it/s]Animation 32: FadeIn(VGroup of 2 submobjects), etc.:  40%|████      | 12/30 [00:00<00:00, 19.28it/s]Animation 32: FadeIn(VGroup of 2 submobjects), etc.:  47%|████▋     | 14/30 [00:00<00:00, 19.42it/s]Animation 32: FadeIn(VGroup of 2 submobjects), etc.:  57%|█████▋    | 17/30 [00:00<00:00, 21.01it/s]Animation 32: FadeIn(VGroup of 2 submobjects), etc.:  67%|██████▋   | 20/30 [00:00<00:00, 21.14it/s]Animation 32: FadeIn(VGroup of 2 submobjects), etc.:  77%|███████▋  | 23/30 [00:01<00:00, 21.97it/s]Animation 32: FadeIn(VGroup of 2 submobjects), etc.:  87%|████████▋ | 26/30 [00:01<00:00, 22.55it/s]Animation 32: FadeIn(VGroup of 2 submobjects), etc.:  97%|█████████▋| 29/30 [00:01<00:00, 24.35it/s]                                                                                                    [03/13/26 19:02:04] INFO     Animation 32 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1843168927_189                         
+                             9467649.mp4'                                       
+Animation 33: FadeIn(Text('兩層分類器')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 33: FadeIn(Text('兩層分類器')), etc.:  10%|█         | 3/30 [00:00<00:00, 29.05it/s]Animation 33: FadeIn(Text('兩層分類器')), etc.:  20%|██        | 6/30 [00:00<00:00, 27.55it/s]Animation 33: FadeIn(Text('兩層分類器')), etc.:  30%|███       | 9/30 [00:00<00:00, 24.08it/s]Animation 33: FadeIn(Text('兩層分類器')), etc.:  40%|████      | 12/30 [00:00<00:00, 23.18it/s]Animation 33: FadeIn(Text('兩層分類器')), etc.:  50%|█████     | 15/30 [00:00<00:00, 21.70it/s]Animation 33: FadeIn(Text('兩層分類器')), etc.:  60%|██████    | 18/30 [00:00<00:00, 21.35it/s]Animation 33: FadeIn(Text('兩層分類器')), etc.:  70%|███████   | 21/30 [00:00<00:00, 21.29it/s]Animation 33: FadeIn(Text('兩層分類器')), etc.:  80%|████████  | 24/30 [00:01<00:00, 20.72it/s]Animation 33: FadeIn(Text('兩層分類器')), etc.:  90%|█████████ | 27/30 [00:01<00:00, 19.92it/s]Animation 33: FadeIn(Text('兩層分類器')), etc.: 100%|██████████| 30/30 [00:01<00:00, 20.69it/s]                                                                                               [03/13/26 19:02:08] INFO     Animation 33 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2133534472_240                         
+                             1137437.mp4'                                       
+Animation 34: FadeIn(VGroup of 4 submobjects):   0%|          | 0/36 [00:00<?, ?it/s]Animation 34: FadeIn(VGroup of 4 submobjects):  11%|█         | 4/36 [00:00<00:01, 27.17it/s]Animation 34: FadeIn(VGroup of 4 submobjects):  19%|█▉        | 7/36 [00:00<00:01, 27.45it/s]Animation 34: FadeIn(VGroup of 4 submobjects):  28%|██▊       | 10/36 [00:00<00:00, 27.98it/s]Animation 34: FadeIn(VGroup of 4 submobjects):  36%|███▌      | 13/36 [00:00<00:00, 28.20it/s]Animation 34: FadeIn(VGroup of 4 submobjects):  47%|████▋     | 17/36 [00:00<00:00, 29.40it/s]Animation 34: FadeIn(VGroup of 4 submobjects):  58%|█████▊    | 21/36 [00:00<00:00, 30.89it/s]Animation 34: FadeIn(VGroup of 4 submobjects):  69%|██████▉   | 25/36 [00:00<00:00, 31.17it/s]Animation 34: FadeIn(VGroup of 4 submobjects):  81%|████████  | 29/36 [00:01<00:00, 27.78it/s]Animation 34: FadeIn(VGroup of 4 submobjects):  89%|████████▉ | 32/36 [00:01<00:00, 26.79it/s]Animation 34: FadeIn(VGroup of 4 submobjects):  97%|█████████▋| 35/36 [00:01<00:00, 25.45it/s]                                                                                              [03/13/26 19:02:14] INFO     Animation 34 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2920635066_258                         
+                             4936925.mp4'                                       
+[03/13/26 19:04:22] INFO     Animation 35 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_3297144743_389                         
+                             075059.mp4'                                        
+[03/13/26 19:04:26] INFO     Animation 36 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_807188262_6335                         
+                             48992.mp4'                                         
+Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:   7%|▋         | 2/30 [00:00<00:02, 11.75it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  13%|█▎        | 4/30 [00:00<00:02, 10.89it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  20%|██        | 6/30 [00:00<00:02, 10.81it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  27%|██▋       | 8/30 [00:00<00:02, 10.92it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  33%|███▎      | 10/30 [00:00<00:01, 10.67it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  40%|████      | 12/30 [00:01<00:01, 10.50it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  47%|████▋     | 14/30 [00:01<00:01, 11.32it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  53%|█████▎    | 16/30 [00:01<00:01, 12.14it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  60%|██████    | 18/30 [00:01<00:01, 11.60it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  67%|██████▋   | 20/30 [00:01<00:00, 10.88it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  73%|███████▎  | 22/30 [00:02<00:00, 10.36it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  80%|████████  | 24/30 [00:02<00:00, 10.24it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  87%|████████▋ | 26/30 [00:02<00:00, 10.30it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  93%|█████████▎| 28/30 [00:02<00:00,  9.66it/s]Animation 37: FadeOut(Text('感知器 Perceptron')), etc.:  97%|█████████▋| 29/30 [00:02<00:00,  9.53it/s]                                                                                                       [03/13/26 19:04:33] INFO     Animation 37 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_4006606631_256                         
+                             2803287.mp4'                                       
+[03/13/26 19:04:44] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/zong-jie-                         
+                             yi-xia-mcculloch-tong-pitt                         
+                             s-ti-chu-ke-xiu-0481962b.m                         
+                             p3 to .wav                                         
+Animation 38: Write(Text('總結')):   0%|          | 0/36 [00:00<?, ?it/s]Animation 38: Write(Text('總結')):  19%|█▉        | 7/36 [00:00<00:00, 67.90it/s]Animation 38: Write(Text('總結')):  39%|███▉      | 14/36 [00:00<00:00, 57.52it/s]Animation 38: Write(Text('總結')):  56%|█████▌    | 20/36 [00:00<00:00, 53.39it/s]Animation 38: Write(Text('總結')):  72%|███████▏  | 26/36 [00:00<00:00, 54.41it/s]Animation 38: Write(Text('總結')):  89%|████████▉ | 32/36 [00:00<00:00, 51.42it/s]                                                                                  [03/13/26 19:04:48] INFO     Animation 38 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1810312960_335                         
+                             1353890.mp4'                                       
+Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')):  10%|█         | 3/30 [00:00<00:01, 25.93it/s]Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')):  20%|██        | 6/30 [00:00<00:00, 25.26it/s]Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')):  30%|███       | 9/30 [00:00<00:00, 23.92it/s]Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')):  40%|████      | 12/30 [00:00<00:00, 23.01it/s]Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')):  50%|█████     | 15/30 [00:00<00:00, 22.61it/s]Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')):  60%|██████    | 18/30 [00:00<00:00, 22.67it/s]Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')):  70%|███████   | 21/30 [00:00<00:00, 22.84it/s]Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')):  80%|████████  | 24/30 [00:01<00:00, 22.72it/s]Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')):  90%|█████████ | 27/30 [00:01<00:00, 22.38it/s]Animation 39: FadeIn(Text('•  McCulloch & Pitts (1943)：可修改網絡解決問題')): 100%|██████████| 30/30 [00:01<00:00, 19.73it/s]                                                                                                                              [03/13/26 19:04:52] INFO     Animation 39 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2149892356_946                         
+                             676274.mp4'                                        
+Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):  10%|█         | 3/30 [00:00<00:01, 20.79it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):  20%|██        | 6/30 [00:00<00:01, 18.69it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):  30%|███       | 9/30 [00:00<00:01, 19.16it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):  37%|███▋      | 11/30 [00:00<00:01, 18.85it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):  43%|████▎     | 13/30 [00:00<00:00, 19.17it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):  53%|█████▎    | 16/30 [00:00<00:00, 19.71it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):  60%|██████    | 18/30 [00:00<00:00, 19.66it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):  70%|███████   | 21/30 [00:01<00:00, 19.93it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):  80%|████████  | 24/30 [00:01<00:00, 20.11it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')):  90%|█████████ | 27/30 [00:01<00:00, 20.26it/s]Animation 40: FadeIn(Text('•  關鍵特徵：試錯學習、獎勵、唔使事先知答案')): 100%|██████████| 30/30 [00:01<00:00, 19.97it/s]                                                                                                                          [03/13/26 19:04:56] INFO     Animation 40 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1427938071_783                         
+                             772832.mp4'                                        
+Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')):  10%|█         | 3/30 [00:00<00:00, 27.16it/s]Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')):  20%|██        | 6/30 [00:00<00:00, 27.28it/s]Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')):  30%|███       | 9/30 [00:00<00:00, 28.26it/s]Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')):  40%|████      | 12/30 [00:00<00:00, 28.42it/s]Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')):  50%|█████     | 15/30 [00:00<00:00, 26.09it/s]Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')):  60%|██████    | 18/30 [00:00<00:00, 26.54it/s]Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')):  70%|███████   | 21/30 [00:00<00:00, 26.46it/s]Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')):  80%|████████  | 24/30 [00:00<00:00, 26.28it/s]Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')):  90%|█████████ | 27/30 [00:01<00:00, 26.77it/s]Animation 41: FadeIn(Text('•  信用分配問題：邊個權重要改？')): 100%|██████████| 30/30 [00:01<00:00, 26.83it/s]                                                                                                              [03/13/26 19:05:00] INFO     Animation 41 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1411278068_100                         
+                             1081881.mp4'                                       
+Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):  10%|█         | 3/30 [00:00<00:01, 19.69it/s]Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):  17%|█▋        | 5/30 [00:00<00:01, 19.22it/s]Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):  23%|██▎       | 7/30 [00:00<00:01, 19.42it/s]Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):  33%|███▎      | 10/30 [00:00<00:00, 20.54it/s]Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):  43%|████▎     | 13/30 [00:00<00:00, 20.85it/s]Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):  53%|█████▎    | 16/30 [00:00<00:00, 21.57it/s]Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):  63%|██████▎   | 19/30 [00:00<00:00, 21.61it/s]Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):  73%|███████▎  | 22/30 [00:01<00:00, 22.41it/s]Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):  83%|████████▎ | 25/30 [00:01<00:00, 22.80it/s]Animation 42: FadeIn(Text('•  神經網絡未能起飛：慢、難理解、缺訓練法')):  93%|█████████▎| 28/30 [00:01<00:00, 22.54it/s]                                                                                                                        [03/13/26 19:05:05] INFO     Animation 42 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_472091463_1265                         
+                             749497.mp4'                                        
+Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')):   0%|          | 0/30 [00:00<?, ?it/s]Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')):  10%|█         | 3/30 [00:00<00:01, 22.21it/s]Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')):  20%|██        | 6/30 [00:00<00:01, 23.01it/s]Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')):  30%|███       | 9/30 [00:00<00:00, 23.02it/s]Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')):  40%|████      | 12/30 [00:00<00:00, 24.12it/s]Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')):  50%|█████     | 15/30 [00:00<00:00, 24.73it/s]Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')):  60%|██████    | 18/30 [00:00<00:00, 23.78it/s]Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')):  70%|███████   | 21/30 [00:00<00:00, 23.81it/s]Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')):  80%|████████  | 24/30 [00:01<00:00, 23.83it/s]Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')):  90%|█████████ | 27/30 [00:01<00:00, 23.79it/s]Animation 43: FadeIn(Text('•  Rosenblatt 感知器 vs Minsky & Papert XOR 批評')): 100%|██████████| 30/30 [00:01<00:00, 23.50it/s]                                                                                                                               [03/13/26 19:05:11] INFO     Animation 43 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1884342589_247                         
+                             5567226.mp4'                                       
+[03/13/26 19:06:55] INFO     Animation 44 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_48763873_21343                         
+                             58752.mp4'                                         
+[03/13/26 19:06:59] INFO     Animation 45 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_3201849554_168                         
+                             0665261.mp4'                                       
+Animation 46: FadeOut(Text('總結')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 46: FadeOut(Text('總結')), etc.:   7%|▋         | 2/30 [00:00<00:02,  9.92it/s]Animation 46: FadeOut(Text('總結')), etc.:  10%|█         | 3/30 [00:00<00:02,  9.75it/s]Animation 46: FadeOut(Text('總結')), etc.:  13%|█▎        | 4/30 [00:00<00:02,  9.71it/s]Animation 46: FadeOut(Text('總結')), etc.:  17%|█▋        | 5/30 [00:00<00:02,  9.61it/s]Animation 46: FadeOut(Text('總結')), etc.:  20%|██        | 6/30 [00:00<00:02,  8.36it/s]Animation 46: FadeOut(Text('總結')), etc.:  23%|██▎       | 7/30 [00:00<00:02,  8.23it/s]Animation 46: FadeOut(Text('總結')), etc.:  27%|██▋       | 8/30 [00:00<00:02,  8.55it/s]Animation 46: FadeOut(Text('總結')), etc.:  30%|███       | 9/30 [00:01<00:02,  7.84it/s]Animation 46: FadeOut(Text('總結')), etc.:  33%|███▎      | 10/30 [00:01<00:02,  8.13it/s]Animation 46: FadeOut(Text('總結')), etc.:  37%|███▋      | 11/30 [00:01<00:02,  8.43it/s]Animation 46: FadeOut(Text('總結')), etc.:  40%|████      | 12/30 [00:01<00:02,  7.58it/s]Animation 46: FadeOut(Text('總結')), etc.:  43%|████▎     | 13/30 [00:01<00:02,  8.12it/s]Animation 46: FadeOut(Text('總結')), etc.:  47%|████▋     | 14/30 [00:01<00:01,  8.56it/s]Animation 46: FadeOut(Text('總結')), etc.:  50%|█████     | 15/30 [00:01<00:01,  8.94it/s]Animation 46: FadeOut(Text('總結')), etc.:  53%|█████▎    | 16/30 [00:01<00:01,  9.23it/s]Animation 46: FadeOut(Text('總結')), etc.:  57%|█████▋    | 17/30 [00:01<00:01,  9.39it/s]Animation 46: FadeOut(Text('總結')), etc.:  60%|██████    | 18/30 [00:02<00:01,  9.55it/s]Animation 46: FadeOut(Text('總結')), etc.:  63%|██████▎   | 19/30 [00:02<00:01,  9.50it/s]Animation 46: FadeOut(Text('總結')), etc.:  67%|██████▋   | 20/30 [00:02<00:01,  9.47it/s]Animation 46: FadeOut(Text('總結')), etc.:  73%|███████▎  | 22/30 [00:02<00:00,  9.62it/s]Animation 46: FadeOut(Text('總結')), etc.:  77%|███████▋  | 23/30 [00:02<00:00,  8.36it/s]Animation 46: FadeOut(Text('總結')), etc.:  80%|████████  | 24/30 [00:02<00:00,  7.93it/s]Animation 46: FadeOut(Text('總結')), etc.:  83%|████████▎ | 25/30 [00:02<00:00,  7.72it/s]Animation 46: FadeOut(Text('總結')), etc.:  87%|████████▋ | 26/30 [00:03<00:00,  7.21it/s]Animation 46: FadeOut(Text('總結')), etc.:  90%|█████████ | 27/30 [00:03<00:00,  6.94it/s]Animation 46: FadeOut(Text('總結')), etc.:  93%|█████████▎| 28/30 [00:03<00:00,  7.52it/s]Animation 46: FadeOut(Text('總結')), etc.:  97%|█████████▋| 29/30 [00:03<00:00,  8.09it/s]Animation 46: FadeOut(Text('總結')), etc.: 100%|██████████| 30/30 [00:03<00:00,  8.46it/s]                                                                                          [03/13/26 19:07:06] INFO     Animation 46 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2779266773_706                         
+                             186590.mp4'                                        
+[03/13/26 19:07:10] INFO     Automatically converted    scene_file_writer.py:394
+                             media/voiceovers/duo-xie-s                         
+                             hou-di-xia-yi-ke-wo-di-hui                         
+                             -jiang-shen-84ebe85b.mp3                           
+                             to .wav                                            
+Animation 47: Write(Text('多謝收睇！')):   0%|          | 0/60 [00:00<?, ?it/s]Animation 47: Write(Text('多謝收睇！')):  22%|██▏       | 13/60 [00:00<00:00, 127.11it/s]Animation 47: Write(Text('多謝收睇！')):  43%|████▎     | 26/60 [00:00<00:00, 106.81it/s]Animation 47: Write(Text('多謝收睇！')):  62%|██████▏   | 37/60 [00:00<00:00, 88.24it/s] Animation 47: Write(Text('多謝收睇！')):  78%|███████▊  | 47/60 [00:00<00:00, 80.83it/s]Animation 47: Write(Text('多謝收睇！')):  93%|█████████▎| 56/60 [00:00<00:00, 78.29it/s]                                                                                        [03/13/26 19:07:13] INFO     Animation 47 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_566641700_3351                         
+                             353890.mp4'                                        
+Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):   0%|          | 0/48 [00:00<?, ?it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):   8%|▊         | 4/48 [00:00<00:01, 34.45it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):  17%|█▋        | 8/48 [00:00<00:01, 33.65it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):  25%|██▌       | 12/48 [00:00<00:01, 34.14it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):  33%|███▎      | 16/48 [00:00<00:00, 34.28it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):  42%|████▏     | 20/48 [00:00<00:00, 34.31it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):  50%|█████     | 24/48 [00:00<00:00, 35.33it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):  58%|█████▊    | 28/48 [00:00<00:00, 35.23it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):  67%|██████▋   | 32/48 [00:00<00:00, 35.38it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):  75%|███████▌  | 36/48 [00:01<00:00, 34.71it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):  83%|████████▎ | 40/48 [00:01<00:00, 33.65it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')):  92%|█████████▏| 44/48 [00:01<00:00, 32.40it/s]Animation 48: FadeIn(Text('下一課：神經網絡嘅復興')): 100%|██████████| 48/48 [00:01<00:00, 28.04it/s]                                                                                                     [03/13/26 19:07:17] INFO     Animation 48 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1484022019_627                         
+                             346545.mp4'                                        
+[03/13/26 19:07:55] INFO     Animation 49 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_3747284557_386                         
+                             990038.mp4'                                        
+[03/13/26 19:07:59] INFO     Animation 50 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_1839128356_174                         
+                             6138580.mp4'                                       
+Animation 51: FadeOut(Text('多謝收睇！')), etc.:   0%|          | 0/48 [00:00<?, ?it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:   6%|▋         | 3/48 [00:00<00:01, 28.99it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  12%|█▎        | 6/48 [00:00<00:01, 25.23it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  19%|█▉        | 9/48 [00:00<00:01, 26.05it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  27%|██▋       | 13/48 [00:00<00:01, 26.78it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  33%|███▎      | 16/48 [00:00<00:01, 23.97it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  40%|███▉      | 19/48 [00:00<00:01, 22.06it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  46%|████▌     | 22/48 [00:00<00:01, 20.62it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  52%|█████▏    | 25/48 [00:01<00:01, 21.56it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  58%|█████▊    | 28/48 [00:01<00:00, 21.34it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  67%|██████▋   | 32/48 [00:01<00:00, 24.43it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  75%|███████▌  | 36/48 [00:01<00:00, 26.73it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  83%|████████▎ | 40/48 [00:01<00:00, 28.28it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  92%|█████████▏| 44/48 [00:01<00:00, 28.79it/s]Animation 51: FadeOut(Text('多謝收睇！')), etc.:  98%|█████████▊| 47/48 [00:01<00:00, 28.42it/s]                                                                                                [03/13/26 19:08:04] INFO     Animation 51 : Partial     scene_file_writer.py:601
+                             movie file written in                              
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/partial_movie_fil                         
+                             es/NeuralNetworksExplainer                         
+                             /2135761390_2485068970_379                         
+                             5361611.mp4'                                       
+                    INFO     Combining to Movie file.   scene_file_writer.py:753
+[03/13/26 19:08:12] WARNING  Some options were not      scene_file_writer.py:819
+                             used: {'shortest': '1',                            
+                             'metadata':                                        
+                             'comment=Rendered with                             
+                             Manim Community v0.20.1'}                          
+                    INFO                                scene_file_writer.py:904
+                             File ready at                                      
+                             '/home/peter/workspace/why                         
+                             -brains-dont-compute/lesso                         
+                             n                                                  
+                             5/video/media/videos/scene                         
+                             /1080p60/NeuralNetworksExp                         
+                             lainer.mp4'                                        
+                                                                                
+                    INFO     Subcaption file has been   scene_file_writer.py:899
+                             written as                                         
+                             /home/peter/workspace/why-                         
+                             brains-dont-compute/lesson                         
+                                                                                
+                             5/video/media/videos/scene                         
+                             /1080p60/NeuralNetworksExp                         
+                             lainer.srt                                         
+                    INFO     Rendered NeuralNetworksExplainer       scene.py:278
+                             Played 52 animations                               
