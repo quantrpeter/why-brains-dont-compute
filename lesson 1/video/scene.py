@@ -126,7 +126,7 @@ class SolvingProblems(VoiceoverScene):
             "Springer", font_size=20, color=C_DIM,
         ).next_to(author, DOWN, buff=0.25)
         desc = self.zh(
-            "呢本書探討點解腦\n唔係一部電腦",
+            "呢本書探討點解人腦\n唔係一部電腦",
             font_size=24, color=C_WHITE,
         ).next_to(publisher, DOWN, buff=0.5)
 
@@ -134,7 +134,7 @@ class SolvingProblems(VoiceoverScene):
             text="喺我哋開始之前，我想介紹一下呢個系列嘅教材。"
             "呢本書叫做《Why Brains Don't Compute》，"
             "作者係 Duke 大學嘅神經科學家 Dale Purves。"
-            "佢挑戰咗一個好流行嘅假設，就係心腦唔係一部電腦。"
+            "佢挑戰咗一個好流行嘅假設，就係人腦唔係一部電腦。"
             "我哋會用呢本書做基礎，一課一課咁探討呢個話題。"
         ):
             self.play(FadeIn(cover, shift=RIGHT * 0.3), run_time=1.2)
