@@ -1,0 +1,1 @@
+ manim render -qh scene.py SolvingProblems

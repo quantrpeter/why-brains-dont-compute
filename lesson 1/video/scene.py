@@ -9,7 +9,6 @@ Render (1080p):
 
 from manim import *
 from manim_voiceover import VoiceoverScene
-
 from edge_tts_service import EdgeTTSService
 
 # ── colour palette ───────────────────────────────────────────────────────
@@ -22,10 +21,10 @@ C_PURPLE = "#ce93d8"
 C_YELLOW = "#fff176"
 C_WHITE = "#e0e0e0"
 C_RED = "#ef5350"
-C_DIM = "#555577"
+C_DIM = "#bbbbbb"
 C_CYAN = "#4dd0e1"
 
-FONT = "Noto Sans CJK HK"
+FONT = "Songti TC"
 MONO = "Menlo"
 
 
@@ -34,11 +33,15 @@ class SolvingProblems(VoiceoverScene):
 
     def construct(self):
         self.set_speech_service(
-            EdgeTTSService(voice="zh-HK-HiuMaanNeural", rate="+0%")
+            EdgeTTSService(
+                voice="zh-HK-WanLungNeural",
+                rate="-10%",
+                pitch="-5Hz"
+            )
         )
         self.camera.background_color = BLACK
 
-        self.bg_image = ImageMobject("wallpaper1.jpg")
+        self.bg_image = ImageMobject("wallpaper2.avif")
         self.bg_image.height = config.frame_height
         self.bg_image.width = config.frame_width
         self.add(self.bg_image)
@@ -53,10 +56,16 @@ class SolvingProblems(VoiceoverScene):
         self.add(self.bg_overlay)
 
         self.watermark = self.zh(
-            "香港編程學會", font_size=18, color="#9999bb"
+            "香港編程學會", font_size=18, color="#ffffff"
         ).to_corner(UL, buff=0.3)
         self.add(self.watermark)
 
+        self.book_title = self.en(
+            "Why Brains Don't Compute", font_size=16, color="#ffffff"
+        ).to_corner(UR, buff=0.3)
+        self.add(self.book_title)
+
+        self.scene_book_intro()
         self.scene_intro()
         self.scene_two_perspectives()
         self.scene_intelligence()
@@ -83,7 +92,7 @@ class SolvingProblems(VoiceoverScene):
         return Text(txt, **kw)
 
     def clear(self):
-        keep = {self.bg_image, self.bg_overlay, self.watermark}
+        keep = {self.bg_image, self.bg_overlay, self.watermark, self.book_title}
         to_fade = [m for m in self.mobjects if m not in keep]
         if to_fade:
             self.play(*[FadeOut(m) for m in to_fade], run_time=0.5)
@@ -98,6 +107,44 @@ class SolvingProblems(VoiceoverScene):
 
     def make_heading(self, text, color=C_BLUE, font_size=40):
         return self.zh(text, font_size=font_size, color=color).to_edge(UP, buff=0.5)
+
+    # ── Scene 0 — Book Intro ────────────────────────────────────────────
+
+    def scene_book_intro(self):
+        cover = ImageMobject("book.jpeg")
+        cover.height = 4.5
+        cover.shift(LEFT * 3)
+
+        title = self.en(
+            "Why Brains Don't Compute",
+            font_size=32, color=C_BLUE,
+        ).shift(RIGHT * 2.5 + UP * 1.5)
+        author = self.en(
+            "Dale Purves", font_size=26, color=C_ORANGE,
+        ).next_to(title, DOWN, buff=0.35)
+        publisher = self.en(
+            "Springer", font_size=20, color=C_DIM,
+        ).next_to(author, DOWN, buff=0.25)
+        desc = self.zh(
+            "呢本書探討點解腦\n唔係一部電腦",
+            font_size=24, color=C_WHITE,
+        ).next_to(publisher, DOWN, buff=0.5)
+
+        with self.voiceover(
+            text="喺我哋開始之前，我想介紹一下呢個系列嘅教材。"
+            "呢本書叫做《Why Brains Don't Compute》，"
+            "作者係 Duke 大學嘅神經科學家 Dale Purves。"
+            "佢挑戰咗一個好流行嘅假設，就係心腦唔係一部電腦。"
+            "我哋會用呢本書做基礎，一課一課咁探討呢個話題。"
+        ):
+            self.play(FadeIn(cover, shift=RIGHT * 0.3), run_time=1.2)
+            self.play(Write(title), run_time=1.0)
+            self.play(FadeIn(author, shift=UP * 0.2), run_time=0.6)
+            self.play(FadeIn(publisher, shift=UP * 0.2), run_time=0.4)
+            self.play(FadeIn(desc, shift=UP * 0.2), run_time=0.8)
+
+        self.wait(0.3)
+        self.clear()
 
     # ── Scene 1 — Intro ─────────────────────────────────────────────────
 
@@ -114,8 +161,7 @@ class SolvingProblems(VoiceoverScene):
         ).next_to(sub_zh, DOWN, buff=0.7)
 
         with self.voiceover(
-            text="大家好！歡迎嚟到《Why Brains Don't Compute》第一課。"
-            "呢本書係 Dale Purves 寫嘅，講嘅係腦唔係電腦。"
+            text="歡迎嚟到《Why Brains Don't Compute》第一課。"
             "今日我哋會探討解決問題嘅兩種方式："
             "用邏輯規則同埋用經驗試錯。"
             "呢個區別會影響我哋點樣理解人工智能同埋生物智慧。"
@@ -157,11 +203,9 @@ class SolvingProblems(VoiceoverScene):
             "呢兩種方式其實唔係對立，而係唔同嘅工具。"
         ):
             self.play(Write(heading), run_time=0.6)
-            self.play(FadeIn(algo_box, shift=RIGHT * 0.3), run_time=0.8)
-            self.play(FadeIn(algo_desc), run_time=0.6)
-            self.play(FadeIn(emp_box, shift=LEFT * 0.3), run_time=0.8)
-            self.play(FadeIn(emp_desc), run_time=0.6)
-            self.play(FadeIn(vs_label), run_time=0.4)
+            self.play(DrawBorderThenFill(algo_box), FadeIn(algo_desc, shift=DOWN * 0.2), run_time=1.0)
+            self.play(DrawBorderThenFill(emp_box), FadeIn(emp_desc, shift=DOWN * 0.2), run_time=1.0)
+            self.play(SpinInFromNothing(vs_label), run_time=0.8)
 
         self.wait(0.3)
         self.clear()
@@ -214,7 +258,7 @@ class SolvingProblems(VoiceoverScene):
         question = self.zh(
             "換唔換門？",
             font_size=32, color=C_YELLOW,
-        ).shift(DOWN * 1.2)
+        ).shift(DOWN * 1.5)
 
         answer = self.zh(
             "換！換門贏嘅概率係 2/3，唔換就係 1/3",
@@ -230,8 +274,12 @@ class SolvingProblems(VoiceoverScene):
         ):
             self.play(Write(heading), run_time=0.6)
             self.play(FadeIn(setup), run_time=0.8)
-            self.play(FadeIn(doors), run_time=1)
+            self.play(
+                LaggedStart(*[GrowFromCenter(d) for d in doors], lag_ratio=0.2),
+                run_time=1.2
+            )
             self.play(Write(question), run_time=0.6)
+            self.play(Indicate(question, color=C_RED), run_time=0.8)
             self.play(FadeIn(answer, shift=UP * 0.2), run_time=1)
 
         self.wait(0.3)
@@ -243,24 +291,24 @@ class SolvingProblems(VoiceoverScene):
         heading = self.make_heading("人工智能唔等於腦係電腦")
 
         ai_box = self.make_box("AI 成功", C_GREEN, width=4, height=0.9)
-        ai_box.shift(UP * 0.8)
+        ai_box.shift(UP * 2.0)
         ai_desc = self.zh(
-            "AlphaGo、ChatGPT 好勁，但係用嘅係演算法同經驗學習",
-            font_size=22, color=C_DIM,
-        ).next_to(ai_box, DOWN, buff=0.3)
+            "AlphaGo、ChatGPT 好勁，\n但係用嘅係演算法同經驗學習",
+            font_size=20, color=C_DIM,
+        ).next_to(ai_box, DOWN, buff=0.25)
 
         brain_box = self.make_box("腦唔係電腦", C_ORANGE, width=4, height=0.9)
-        brain_box.shift(DOWN * 0.8)
+        brain_box.shift(DOWN * 2.0)
         brain_desc = self.zh(
-            "腦冇明確目標函數、冇程式碼，係靠進化同經驗",
-            font_size=22, color=C_DIM,
-        ).next_to(brain_box, DOWN, buff=0.3)
+            "人腦冇明確目標函數、冇程式碼，\n係靠進化同經驗",
+            font_size=20, color=C_DIM,
+        ).next_to(brain_box, DOWN, buff=0.25)
 
         arrow = Arrow(
-            ai_box.get_bottom(), brain_box.get_top(),
-            buff=0.2, color=C_WHITE, stroke_width=3,
+            ai_desc.get_bottom() + DOWN * 0.1, brain_box.get_top() + UP * 0.1,
+            buff=0, color=C_WHITE, stroke_width=3,
         )
-        arrow_label = self.zh("唔可以推論", font_size=20, color=C_GREEN).next_to(arrow, RIGHT, buff=0.2)
+        arrow_label = self.zh("唔可以推論", font_size=20, color=C_GREEN).next_to(arrow, RIGHT, buff=0.4)
 
         with self.voiceover(
             text="AI 成功唔代表腦係電腦。"
@@ -269,9 +317,9 @@ class SolvingProblems(VoiceoverScene):
             "所以唔可以話 AI 成功就證明腦係電腦。"
         ):
             self.play(Write(heading), run_time=0.6)
-            self.play(FadeIn(ai_box), FadeIn(ai_desc), run_time=0.8)
-            self.play(GrowArrow(arrow), FadeIn(arrow_label), run_time=0.6)
-            self.play(FadeIn(brain_box), FadeIn(brain_desc), run_time=0.8)
+            self.play(DrawBorderThenFill(ai_box), FadeIn(ai_desc, shift=DOWN * 0.2), run_time=1.0)
+            self.play(GrowArrow(arrow), FadeIn(arrow_label, shift=LEFT * 0.2), run_time=0.8)
+            self.play(DrawBorderThenFill(brain_box), FadeIn(brain_desc, shift=UP * 0.2), run_time=1.0)
 
         self.wait(0.3)
         self.clear()

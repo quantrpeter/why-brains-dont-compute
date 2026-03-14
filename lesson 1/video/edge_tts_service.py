@@ -11,10 +11,12 @@ from manim_voiceover.services.base import SpeechService
 class EdgeTTSService(SpeechService):
     """Speech service using Microsoft Edge TTS (free, no API key needed)."""
 
-    def __init__(self, voice="en-US-AriaNeural", rate="+0%", **kwargs):
+    def __init__(self, voice="en-US-AriaNeural", rate="+0%", pitch="+0Hz", volume="+0%", **kwargs):
         SpeechService.__init__(self, **kwargs)
         self.voice = voice
         self.rate = rate
+        self.pitch = pitch
+        self.volume = volume
 
     def generate_from_text(
         self, text: str, cache_dir: str = None, path: str = None, **kwargs
@@ -28,6 +30,8 @@ class EdgeTTSService(SpeechService):
             "service": "edge_tts",
             "voice": self.voice,
             "rate": self.rate,
+            "pitch": self.pitch,
+            "volume": self.volume,
         }
 
         cached_result = self.get_cached_result(input_data, cache_dir)
@@ -41,7 +45,13 @@ class EdgeTTSService(SpeechService):
 
         output_file = str(Path(cache_dir) / audio_path)
 
-        communicate = edge_tts.Communicate(input_text, self.voice, rate=self.rate)
+        communicate = edge_tts.Communicate(
+            input_text,
+            self.voice,
+            rate=self.rate,
+            pitch=self.pitch,
+            volume=self.volume,
+        )
         asyncio.run(communicate.save(output_file))
 
         return {
